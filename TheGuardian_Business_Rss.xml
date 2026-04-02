@@ -1,129 +1,1068 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <atom:link href="https://news-api.cf.sky.com/feeds/rss/business.xml" rel="self" type="application/rss+xml"/>
-    <title>Business News - Markets reports and financial news from Sky</title>
-    <link>https://news.sky.com/business</link>
+    <title>Business | The Guardian</title>
+    <link>https://www.theguardian.com/uk/business</link>
+    <description>Latest financial, market &amp;amp; economic news and analysis from The Guardian</description>
+    <language>en-gb</language>
+    <copyright>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2026</copyright>
+    <pubDate>Thu, 02 Apr 2026 14:36:53 GMT</pubDate>
+    <dc:date>2026-04-02T14:36:53Z</dc:date>
+    <dc:language>en-gb</dc:language>
+    <dc:rights>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2026</dc:rights>
     <image>
-      <title>Business News - Markets reports and financial news from Sky</title>
-      <url>https://e3.365dm.com/skynews/logo.png</url>
-      <link>https://news.sky.com/business</link>
+      <title>The Guardian</title>
+      <url>https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png</url>
+      <link>https://www.theguardian.com</link>
     </image>
-    <description>Sky business news provides up to the minute reports on markets, share prices and the world economy, alongside expert business commentary.</description>
-    <language>en-GB</language>
-    <copyright>Copyright 2026, Sky UK. All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 01 Apr 2026 16:09:00 +0100</lastBuildDate>
-    <category>Sky News</category>
-    <ttl>1</ttl>
     <item>
-      <title>Here's all the household bills and taxes set to increase this month</title>
-      <link>https://news.sky.com/story/all-the-changes-coming-in-april-that-will-affect-your-money-13521275</link>
-      <description>A raft of changes affecting the money in your pocket are coming into force this month.</description>
-      <pubDate>Wed, 18 Mar 2026 10:34:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/all-the-changes-coming-in-april-that-will-affect-your-money-13521275</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills-cash_7196305.jpg?20260318111529"/>
+      <title>US crude oil hits $110 a barrel and Wall Street slides as Trump dashes Iran de-escalation hopes – business live</title>
+      <link>https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates</link>
+      <description>&lt;p&gt;Rolling coverage of the latest economic and financial news&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/us-news/2026/apr/01/trump-iran-war-address-white-house"&gt;Trump claims Iran war ‘nearing completion’ and seeks to justify conflict in prime-time address&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz#top-of-blog"&gt;&lt;strong&gt;Middle East crisis live: &lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;Macron criticises Trump and says opening strait of Hormuz by force ‘unrealistic’&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Stock markets are falling across Europe, as investors react to Donald Trump’s special address last night, in which he vowed to send Iran “back to the stone ages”.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Frankfurt’s stock market has started the day with a bump; Germany’s &lt;strong&gt;DAX&lt;/strong&gt; share index is down 1.5%.&lt;/p&gt;&lt;p&gt;“In what might be the most dramatic April Fools’ of recent years, Donald Trump did nothing of what was expected in his speech. Instead of ‘no more war’, we got ‘no, more war!’, with heavier strikes expected and a fresh warning of attacks on power plants.&lt;/p&gt;&lt;p&gt;This leaves markets back where they were last week, and now we have to price in hundreds of millions of barrels of oil that aren’t coming out any time soon. The gloomy predictions of last week would have been perhaps misplaced if Trump had signalled a quick end, but now markets are back to pricing in economic catastrophe.”&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/business/stock-markets">Stock markets</category>
+      <category domain="https://www.theguardian.com/business/economics">Economics</category>
+      <category domain="https://www.theguardian.com/business/ftse">FTSE</category>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/money/mortgage-rates">Mortgage rates</category>
+      <category domain="https://www.theguardian.com/business/commodities">Commodities</category>
+      <pubDate>Thu, 02 Apr 2026 14:28:24 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/9cf83b27b20a3f71b58dc833f23642c42af0a61a/503_0_3663_2930/master/3663.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1669e99e2bf6109662ac974ac421d987">
+        <media:credit scheme="urn:ebu">Photograph: Eugene García/EPA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/9cf83b27b20a3f71b58dc833f23642c42af0a61a/503_0_3663_2930/master/3663.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5045062c490301c81c13ddb139419f8c">
+        <media:credit scheme="urn:ebu">Photograph: Eugene García/EPA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/9cf83b27b20a3f71b58dc833f23642c42af0a61a/503_0_3663_2930/master/3663.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c97aeeea0d3350e92856534ea0e76fba">
+        <media:credit scheme="urn:ebu">Photograph: Eugene García/EPA</media:credit>
+      </media:content>
+      <dc:creator>Graeme Wearden</dc:creator>
+      <dc:date>2026-04-02T14:28:24Z</dc:date>
     </item>
     <item>
-      <title>&lt;a href='https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13475361'&gt;Poundland-owner among suitors for upmarket British handbag brand Radley&lt;/a&gt;</title>
-      <link>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</link>
-      <description/>
-      <pubDate>Tue, 10 Feb 2026 11:47:00 +0000</pubDate>
-      <guid>https://news.sky.com/story/mark-kleinman-blog-see-the-latest-stories-from-sky-news-city-editor-13505671</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017" length="0" type="image/jpeg"/>
-      <media:description type="html">Radley handbag and leather accessories shop in Royal Exchange Square, Glasgow. Pic: Liz Leyden, iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-radley-handbag-shop_7183016.jpg?20260305115017"/>
+      <title>Thames Water ‘close to deal that would spare it new Ofwat fines until 2030’</title>
+      <link>https://www.theguardian.com/business/2026/apr/02/thames-water-close-to-deal-that-would-spare-it-ofwat-fines-until-2030</link>
+      <description>&lt;p&gt;Offer reportedly put forward by creditors hoping to save struggling firm from being renationalised temporarily&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates"&gt;Business live – latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Thames Water is said to be close to a deal with its regulator that would allow the company to avoid new fines for four years, as long as it commits to investing in the business.&lt;/p&gt;&lt;p&gt;The controversial offer, reported by the Financial Times, has been put forward by creditors who are hoping to save the struggling utility from &lt;a href="https://www.theguardian.com/business/2025/jun/30/what-would-happen-if-thames-water-is-temporarily-renationalised"&gt;being temporarily renationalised&lt;/a&gt;.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/apr/02/thames-water-close-to-deal-that-would-spare-it-ofwat-fines-until-2030"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/thames-water">Thames Water</category>
+      <category domain="https://www.theguardian.com/business/water-industry">Water industry</category>
+      <category domain="https://www.theguardian.com/business/utilities">Utilities</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/business/regulators">Regulators</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/environment/water">Water</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <pubDate>Thu, 02 Apr 2026 09:58:05 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/apr/02/thames-water-close-to-deal-that-would-spare-it-ofwat-fines-until-2030</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/26d722cebd7dc83026f513b33866e8a40b43c808/354_72_2466_1973/master/2466.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7507537e8f8402054d58d14b020751c">
+        <media:credit scheme="urn:ebu">Photograph: Yui Mok/PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/26d722cebd7dc83026f513b33866e8a40b43c808/354_72_2466_1973/master/2466.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3e47ed389b2c5634c5d5842a05576bb">
+        <media:credit scheme="urn:ebu">Photograph: Yui Mok/PA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/26d722cebd7dc83026f513b33866e8a40b43c808/354_72_2466_1973/master/2466.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e594a4f722f06ca86634217495b95721">
+        <media:credit scheme="urn:ebu">Photograph: Yui Mok/PA</media:credit>
+      </media:content>
+      <dc:creator>Kalyeena Makortoff</dc:creator>
+      <dc:date>2026-04-02T09:58:05Z</dc:date>
     </item>
     <item>
-      <title>Chelsea reveal largest pre-tax loss in Premier League history</title>
-      <link>https://news.sky.com/story/chelsea-reveal-largest-pre-tax-loss-in-premier-league-history-13526925</link>
-      <description>Chelsea FC have announced a pre-tax loss of &amp;#163;262.4m - the biggest in Premier League history.</description>
-      <pubDate>Wed, 01 Apr 2026 16:09:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/chelsea-reveal-largest-pre-tax-loss-in-premier-league-history-13526925</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300" length="0" type="image/jpeg"/>
-      <media:description type="html">Chelsea fans outside Stamford Bridge. Pic: PA</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-chelsea-stamford-bridge_7194476.jpg?20260316132300"/>
+      <title>Drivers told to look for cheapest fuel ahead of ‘busiest Easter on UK roads since 2022’</title>
+      <link>https://www.theguardian.com/uk-news/2026/apr/02/drivers-told-to-hunt-for-cheapest-fuel-as-easter-set-to-be-busiest-on-uk-roads-since-2022</link>
+      <description>&lt;p&gt;Bank holiday traffic predicted to peak on Thursday, as petrol and diesel prices surge from fallout of Iran war&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates"&gt;Business live – latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;UK drivers are being urged to look for the cheapest petrol and “to fill up as usual” as travellers prepare to make 21.7m journeys on what is expected to be the busiest Easter on the roads in four years.&lt;/p&gt;&lt;p&gt;The average price of a litre of unleaded petrol rose by 20p in March, from 132.83p on the 1st to 152.83p on the 31st, raising concerns about the cost of filling up for Easter journeys. The &lt;a href="https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates?filterKeyEvents=false&amp;amp;page=with%3Ablock-69ce069b8f08e0e61fbf64f8#block-69ce069b8f08e0e61fbf64f8"&gt;higher fuel prices&lt;/a&gt; have been triggered by rising oil prices as a result of the US-Israel war against Iran.&lt;/p&gt; &lt;a href="https://www.theguardian.com/uk-news/2026/apr/02/drivers-told-to-hunt-for-cheapest-fuel-as-easter-set-to-be-busiest-on-uk-roads-since-2022"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/uk/transport">Transport</category>
+      <category domain="https://www.theguardian.com/world/road-transport">Road transport</category>
+      <category domain="https://www.theguardian.com/money/petrol-prices">Petrol prices</category>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/uk/rail-transport">Rail transport</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <pubDate>Thu, 02 Apr 2026 11:37:15 GMT</pubDate>
+      <guid>https://www.theguardian.com/uk-news/2026/apr/02/drivers-told-to-hunt-for-cheapest-fuel-as-easter-set-to-be-busiest-on-uk-roads-since-2022</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/eae845f9b90483a0541cc49bf4505930df48657f/682_0_6821_5457/master/6821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2310b16837130e8e7f20b73ab1e519ae">
+        <media:credit scheme="urn:ebu">Photograph: Finnbarr Webster/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/eae845f9b90483a0541cc49bf4505930df48657f/682_0_6821_5457/master/6821.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9b6a1017b5b34791b06e83dd3bfd103">
+        <media:credit scheme="urn:ebu">Photograph: Finnbarr Webster/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/eae845f9b90483a0541cc49bf4505930df48657f/682_0_6821_5457/master/6821.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0093edf9e67081bd642d29a633374365">
+        <media:credit scheme="urn:ebu">Photograph: Finnbarr Webster/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Kalyeena Makortoff</dc:creator>
+      <dc:date>2026-04-02T11:37:15Z</dc:date>
     </item>
     <item>
-      <title>What business cost increases are being introduced in April?</title>
-      <link>https://news.sky.com/story/what-business-cost-increases-are-being-introduced-in-april-13526551</link>
-      <description>For months businesses have been anticipating the impact of a range of tax and regulatory measures announced by the government in the budget and in the weeks since.</description>
-      <pubDate>Tue, 31 Mar 2026 18:39:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/what-business-cost-increases-are-being-introduced-in-april-13526551</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-bills_7196306.jpg?20260318111605"/>
+      <title>‘If he’d stayed on the golf course, we’d be in a better place’: experts on Trump’s tariffs, one year on</title>
+      <link>https://www.theguardian.com/business/2026/apr/02/trump-liberation-day-us-tariffs-trade</link>
+      <description>&lt;p&gt;Last April, the president unleashed a tidal wave of tariffs on ‘liberation day’. Analysts say the policy has failed, even by the Trump administration’s own terms&lt;/p&gt;&lt;p&gt;Before Donald Trump declared “&lt;a href="https://www.theguardian.com/us-news/2025/apr/02/trump-new-tariffs-liberation-day"&gt;liberation day&lt;/a&gt;” on 2 April 2025 and shocked the world by raising import tariffs on nearly every country the US did business with, he had spent almost three months causing chaos in Washington.&lt;/p&gt;&lt;p&gt;The wholesale slashing of government jobs under &lt;a href="https://www.theguardian.com/technology/2026/jan/01/elon-musk-doge-legacy-government"&gt;Doge&lt;/a&gt; (the “department of government efficiency”) and the defunding of US aid agencies had shown White House watchers that the US president was in a hurry to upset institutions he considered profligate or useless.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/apr/02/trump-liberation-day-us-tariffs-trade"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/tariffs">Tariffs</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/business/economics">Economics</category>
+      <pubDate>Thu, 02 Apr 2026 10:00:22 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/apr/02/trump-liberation-day-us-tariffs-trade</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/93e75bd891d1d56640e2bc5aef4573ad9d1d3a8a/326_0_3534_2828/master/3534.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b23b301c02d2d93b8583c453d6b3ad9c">
+        <media:credit scheme="urn:ebu">Photograph: Chip Somodevilla/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/93e75bd891d1d56640e2bc5aef4573ad9d1d3a8a/326_0_3534_2828/master/3534.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6069961d2a2b75aeb53a02387843fad7">
+        <media:credit scheme="urn:ebu">Photograph: Chip Somodevilla/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/93e75bd891d1d56640e2bc5aef4573ad9d1d3a8a/326_0_3534_2828/master/3534.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3547ada2cfbc5f4f74c0eec5ab987de">
+        <media:credit scheme="urn:ebu">Photograph: Chip Somodevilla/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Phillip Inman</dc:creator>
+      <dc:date>2026-04-02T10:00:22Z</dc:date>
     </item>
     <item>
-      <title>How countries are dealing with rising oil and gas prices</title>
-      <link>https://news.sky.com/story/how-countries-are-dealing-with-rising-oil-and-gas-prices-13526096</link>
-      <description>With the US-Iran conflict continuing, governments worldwide are desperately trying to curb the effect of soaring energy prices on populations.</description>
-      <pubDate>Mon, 30 Mar 2026 12:49:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/how-countries-are-dealing-with-rising-oil-and-gas-prices-13526096</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016" length="0" type="image/jpeg"/>
-      <media:description type="html">Man putting petrol in his car. iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-money-blog-petrol_7195046.jpg?20260317063016"/>
+      <title>Reform donor Nick Candy sells Chelsea mansion for reported £275m</title>
+      <link>https://www.theguardian.com/politics/2026/apr/02/reform-donor-nick-candy-sells-chelsea-mansion-providence-house</link>
+      <description>&lt;p&gt;Sale of Providence House believed to be the most expensive on record in London&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/politics/live/2026/apr/02/reform-uk-housing-grenfell-tower-keir-starmer-yvette-cooper-uk-politics-latest-news-updates"&gt;UK politics live – latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nick Candy, the honorary treasurer of Reform UK and a major donor, has sold his mansion in the Chelsea district of London for a reported £275m.&lt;/p&gt;&lt;p&gt;The property developer declined to comment on the transaction, which was first reported by Bloomberg, but it is believed to be the most expensive on record in London and one of the biggest in the world.&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/2026/apr/02/reform-donor-nick-candy-sells-chelsea-mansion-providence-house"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/politics/brexit-party">Reform UK</category>
+      <category domain="https://www.theguardian.com/politics/partyfunding">Party funding</category>
+      <category domain="https://www.theguardian.com/uk/london">London</category>
+      <category domain="https://www.theguardian.com/money/property">Property</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/uk-news/england">England</category>
+      <pubDate>Thu, 02 Apr 2026 12:37:52 GMT</pubDate>
+      <guid>https://www.theguardian.com/politics/2026/apr/02/reform-donor-nick-candy-sells-chelsea-mansion-providence-house</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/079fa281f5e93d70bf0b2e51bf029c73b6f53146/384_82_2230_1783/master/2230.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bbc6f653e891354ba9ac8f509f39c95">
+        <media:credit scheme="urn:ebu">Photograph: Stefan Rousseau</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/079fa281f5e93d70bf0b2e51bf029c73b6f53146/384_82_2230_1783/master/2230.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3167c43f650a739f7ca15f1c5b58d292">
+        <media:credit scheme="urn:ebu">Photograph: Stefan Rousseau</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/079fa281f5e93d70bf0b2e51bf029c73b6f53146/384_82_2230_1783/master/2230.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d9288c56386392f1f6ab7fd59e8f5f20">
+        <media:credit scheme="urn:ebu">Photograph: Stefan Rousseau</media:credit>
+      </media:content>
+      <dc:creator>Rowena Mason Whitehall editor</dc:creator>
+      <dc:date>2026-04-02T12:37:52Z</dc:date>
     </item>
     <item>
-      <title>Ryanair warns of jet fuel supply disruption in May</title>
-      <link>https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834</link>
-      <description>Jet fuel supplies could be disrupted in early May if the Middle East conflict continues, the boss of Ryanair has warned. </description>
-      <pubDate>Wed, 01 Apr 2026 13:17:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ryanair-warns-of-jet-fuel-supply-disruption-in-may-13526834</guid>
-      <enclosure url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock </media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/04/1920x1080/skynews-money-ryanair_7208558.jpg?20260401132328"/>
+      <title>Stellantis recalls 44,000 UK vehicles over fault that could cause fires</title>
+      <link>https://www.theguardian.com/business/2026/apr/02/stellantis-recall-44000-uk-vehicles-fault-fires</link>
+      <description>&lt;p&gt;Affected cars include models in Peugeot, Citroën, Vauxhall, Lancia, Alfa Romeo, Jeep and Fiat brands made since 2023&lt;/p&gt;&lt;p&gt;The European carmaker Stellantis has issued a recall for 44,000 UK vehicles after discovering a fault that could result in its cars catching fire.&lt;/p&gt;&lt;p&gt;The fault has been found in certain models across its Peugeot, Citroën, DS Automobiles, Vauxhall, Lancia, Alfa Romeo, Jeep and Fiat brands, produced between 2023 and 2026. Key vehicles affected by the recall include the Citroën C3, Peugeot 208 and Vauxhall Mokka.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/apr/02/stellantis-recall-44000-uk-vehicles-fault-fires"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/stellantis">Stellantis</category>
+      <category domain="https://www.theguardian.com/business/automotive-industry">Automotive industry</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/business/peugeot">Peugeot</category>
+      <category domain="https://www.theguardian.com/business/citroen">Citroën</category>
+      <category domain="https://www.theguardian.com/business/vauxhall">Vauxhall</category>
+      <category domain="https://www.theguardian.com/business/jeep">Jeep</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Thu, 02 Apr 2026 13:47:14 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/apr/02/stellantis-recall-44000-uk-vehicles-fault-fires</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/c63d2dbfecfcee76a2be8c9710b44d9c6223b3f0/255_0_4702_3761/master/4702.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b480bb0d8b1ffb8d741bf808d5d06d2">
+        <media:credit scheme="urn:ebu">Photograph: Stéphane Mahé/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/c63d2dbfecfcee76a2be8c9710b44d9c6223b3f0/255_0_4702_3761/master/4702.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd18b929f3bf98cf89df72af77ce3d9e">
+        <media:credit scheme="urn:ebu">Photograph: Stéphane Mahé/Reuters</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/c63d2dbfecfcee76a2be8c9710b44d9c6223b3f0/255_0_4702_3761/master/4702.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4da32914e84f8e8e6b5f71e1a962fa6b">
+        <media:credit scheme="urn:ebu">Photograph: Stéphane Mahé/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Kalyeena Makortoff</dc:creator>
+      <dc:date>2026-04-02T13:47:14Z</dc:date>
     </item>
     <item>
-      <title>The common insurance that's often a complete waste of money | Money newsletter</title>
-      <link>https://news.sky.com/story/money-newsletter-sky-news-13367142</link>
-      <description>More than 180,000 people have now signed up to our free Money newsletter, which brings the kind of content you enjoy in the award-winning Money blog directly to your inbox every Friday.</description>
-      <pubDate>Tue, 13 May 2025 13:06:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/money-newsletter-sky-news-13367142</guid>
-      <enclosure url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207" length="0" type="image/jpeg"/>
-      <media:description type="html">An iStock picture of an insurance policy with pen and a folder</media:description>
-      <media:thumbnail url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/25/09/1920x1080/skynews-insurance-file_7036816.jpg?20250930084207"/>
+      <title>‘From high flyer to dead parrot’: former billion-dollar eco-shoe brand Allbirds sold for $39m</title>
+      <link>https://www.theguardian.com/business/2026/apr/02/eco-shoe-brand-allbirds-sold-american-exchange-group</link>
+      <description>&lt;p&gt;Once-hyped, celebrity-backed company snapped up by American Exchange Group for fraction of former value&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates"&gt;Business live – latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Allbirds, the San Francisco sustainable trainer brand once valued at more than $4bn, is being sold for just $39m (£29.6m) after global demand for its wool-based footwear failed to materialise.&lt;/p&gt;&lt;p&gt;American Exchange Group, the owner of a string of brands including the fashion label Ed Hardy and the accessories maker Born, is snapping up the struggling company once touted as the future of footwear.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/apr/02/eco-shoe-brand-allbirds-sold-american-exchange-group"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/mergers-and-acquisitions">Mergers and acquisitions</category>
+      <category domain="https://www.theguardian.com/fashion/fashion-industry">Fashion industry</category>
+      <category domain="https://www.theguardian.com/fashion/fashion">Fashion</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/lifeandstyle">Life and style</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Thu, 02 Apr 2026 11:35:29 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/apr/02/eco-shoe-brand-allbirds-sold-american-exchange-group</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/8793e35afbfbb20ddd8f2ddc2832cae4ebbb54e9/375_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4db593d41701aa0b12c7e433a968ea7e">
+        <media:credit scheme="urn:ebu">Photograph: Tommaso Boddi/Getty Images for Allbirds</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/8793e35afbfbb20ddd8f2ddc2832cae4ebbb54e9/375_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58c7d57e68440c8e77394eda454cb37b">
+        <media:credit scheme="urn:ebu">Photograph: Tommaso Boddi/Getty Images for Allbirds</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/8793e35afbfbb20ddd8f2ddc2832cae4ebbb54e9/375_0_2500_2000/master/2500.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75031b21f9f093d68c395c93e5f21d8e">
+        <media:credit scheme="urn:ebu">Photograph: Tommaso Boddi/Getty Images for Allbirds</media:credit>
+      </media:content>
+      <dc:creator>Sarah Butler</dc:creator>
+      <dc:date>2026-04-02T11:35:29Z</dc:date>
     </item>
     <item>
-      <title>Millions of drivers owed hundreds of pounds in compensation - here's how to claim</title>
-      <link>https://news.sky.com/story/car-finance-scandal-what-happened-and-am-i-eligible-for-compensation-13526186</link>
-      <description>Millions of motorists who were mis-sold car finance agreements are due to receive &amp;#163;829 on average in compensation, it has been announced.</description>
-      <pubDate>Mon, 30 Mar 2026 19:00:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/car-finance-scandal-what-happened-and-am-i-eligible-for-compensation-13526186</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146" length="0" type="image/jpeg"/>
-      <media:description type="html">Pic: iStock</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-car-finance-car-loan_7207208.jpg?20260330194146"/>
+      <title>Secondhand clothes sales forecast to hit $289bn as AI helps shoppers find deals</title>
+      <link>https://www.theguardian.com/business/2026/apr/02/secondhand-clothes-sales-forecast-to-hit-289bn-as-ai-helps-shoppers-find-deals</link>
+      <description>&lt;p&gt;Sites such as Vinted and ThredUp expected to help resale grow twice as fast as overall clothing market in coming years&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates"&gt;Business live – latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Secondhand clothing sales are forecast to surge 12% this year to $289bn (£217bn) and continue to step up, as AI and social media influencers help shoppers find the items they want.&lt;/p&gt;&lt;p&gt;The rise of sites such as Vinted, Depop, Vestige and ThredUp is expected to power an average 9% annual growth over the next five years to reach $393bn, twice the pace of the overall clothing market.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/apr/02/secondhand-clothes-sales-forecast-to-hit-289bn-as-ai-helps-shoppers-find-deals"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/retail">Retail industry</category>
+      <category domain="https://www.theguardian.com/fashion/vintage-fashion">Vintage fashion</category>
+      <category domain="https://www.theguardian.com/fashion/fashion">Fashion</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Thu, 02 Apr 2026 10:00:20 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/apr/02/secondhand-clothes-sales-forecast-to-hit-289bn-as-ai-helps-shoppers-find-deals</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/280_0_3505_2804/master/3505.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dcab88b417cd4883703f9470693cfb03">
+        <media:credit scheme="urn:ebu">Photograph: Yuliia  Kokosha/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/280_0_3505_2804/master/3505.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a83efc647c81265abdb5500efad79d6b">
+        <media:credit scheme="urn:ebu">Photograph: Yuliia  Kokosha/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/511023e145af02db32408f6e5b7af4f569939599/280_0_3505_2804/master/3505.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7362a9a181e4ffd3f1de4df7c228a4b">
+        <media:credit scheme="urn:ebu">Photograph: Yuliia  Kokosha/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Sarah Butler</dc:creator>
+      <dc:date>2026-04-02T10:00:20Z</dc:date>
     </item>
     <item>
-      <title>Travelodge boss 'desperately sorry' over sex assault at hotel</title>
-      <link>https://news.sky.com/story/travelodge-sex-assault-survivor-hits-out-at-boss-of-hotel-chain-13526191</link>
-      <description>The survivor of a sexual assault that took place in a Travelodge hotel room has accused its CEO of not taking the issue of women's safety "very seriously".</description>
-      <pubDate>Mon, 30 Mar 2026 17:58:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/travelodge-sex-assault-survivor-hits-out-at-boss-of-hotel-chain-13526191</guid>
-      <enclosure url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" length="0" type="image/jpeg"/>
-      <media:description type="html">A Travelodge sign</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/02/1920x1080/skynews-travelodge-hotel_7167357.jpg?20260217142837"/>
+      <title>Goodbye mrbrightside416: Google allows users to alter quirky Gmail addresses</title>
+      <link>https://www.theguardian.com/technology/2026/apr/02/google-allows-users-alter-quirky-gmail-addresses</link>
+      <description>&lt;p&gt;Those in US given chance to have more professional usernames without losing access to account&lt;/p&gt;&lt;p&gt;Did your McLovin!1976!@gmail.com email address seem funny at the time but less so now you are applying for dozens of jobs?&lt;/p&gt;&lt;p&gt;Google has said it is giving US users a chance to appear more professional by letting them change their Google account username – whatever appears before @gmail.com in an email address – without losing access to their account.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/apr/02/google-allows-users-alter-quirky-gmail-addresses"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/gmail">Gmail</category>
+      <category domain="https://www.theguardian.com/technology/google">Google</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/business/technology">Technology sector</category>
+      <category domain="https://www.theguardian.com/technology/email">Email</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Thu, 02 Apr 2026 12:41:34 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/apr/02/google-allows-users-alter-quirky-gmail-addresses</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/c885f9e4dd4f517604064a0fd91f7595efa3df8a/392_0_3557_2848/master/3557.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=947c16bdd689537dfe3ed47a2ba6f5b6">
+        <media:credit scheme="urn:ebu">Photograph: NurPhoto/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/c885f9e4dd4f517604064a0fd91f7595efa3df8a/392_0_3557_2848/master/3557.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5368ae7fd23a9a01c731dfda53d16a7d">
+        <media:credit scheme="urn:ebu">Photograph: NurPhoto/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/c885f9e4dd4f517604064a0fd91f7595efa3df8a/392_0_3557_2848/master/3557.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=becf77b4141877c87dc5030170882405">
+        <media:credit scheme="urn:ebu">Photograph: NurPhoto/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Dan Milmo Global technology editor</dc:creator>
+      <dc:date>2026-04-02T12:41:34Z</dc:date>
     </item>
     <item>
-      <title>EV charger firms say energy bill increases will be passed on to drivers</title>
-      <link>https://news.sky.com/story/ev-charger-firms-say-energy-bill-increases-will-be-passed-on-to-drivers-13526126</link>
-      <description>Electric vehicle charger firms have warned that soaring energy bills will have to be passed on to drivers, risking a major setback for the government's green goals.</description>
-      <pubDate>Mon, 30 Mar 2026 14:34:00 +0100</pubDate>
-      <guid>https://news.sky.com/story/ev-charger-firms-say-energy-bill-increases-will-be-passed-on-to-drivers-13526126</guid>
-      <enclosure url="https://e3.365dm.com/26/03/1920x1080/skynews-fastned-electric-vehicle_7207025.jpg?20260330160352" length="0" type="image/jpeg"/>
-      <media:description type="html">Fastned said the large increases will have to be passed onto drivers. Pic: Fastned</media:description>
-      <media:thumbnail url="https://e3.365dm.com/26/03/1920x1080/skynews-fastned-electric-vehicle_7207025.jpg?20260330160352" width="1920" height="1080"/>
-      <media:content type="image/jpeg" url="https://e3.365dm.com/26/03/1920x1080/skynews-fastned-electric-vehicle_7207025.jpg?20260330160352"/>
+      <title>Trump’s trade war put the UK on the back foot. His actual war may break us | Larry Elliott</title>
+      <link>https://www.theguardian.com/commentisfree/2026/apr/02/donald-trump-trade-war-uk-us-iran-stagflation</link>
+      <description>&lt;p&gt;The government looks ill prepared for the coming stagflation storm – its ‘keep calm and carry on’ approach won’t survive a blast of reality&lt;/p&gt;&lt;p&gt;Britain is facing the &lt;a href="https://www.theguardian.com/world/2026/mar/23/iran-war-energy-crisis-1970s-oil-shocks-fatih-birol-iea"&gt;most severe energy shock since the early 1970s&lt;/a&gt;, but have no fear: the government has a plan. Details of said plan are still a little sketchy, but will be unveiled in the fullness of time. No need to panic. Keep calm and carry on.&lt;/p&gt;&lt;p&gt;It remains to be seen whether the UK is better prepared to cope with the fallout from Donald Trump’s war with Iran than it was with the pandemic six years ago. To be honest, that wouldn’t be difficult. Yet it is not exactly comforting that ministers are sending out a “we have your back” message to the public while at the same time seeking to reassure the financial markets that any help will be limited and targeted.&lt;/p&gt;&lt;p&gt;Larry Elliott is a Guardian columnist&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/apr/02/donald-trump-trade-war-uk-us-iran-stagflation"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/us-israel-war-on-iran">US-Israel war on Iran</category>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
+      <category domain="https://www.theguardian.com/politics/economy">Economic policy</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/world/iran">Iran</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Thu, 02 Apr 2026 07:00:21 GMT</pubDate>
+      <guid>https://www.theguardian.com/commentisfree/2026/apr/02/donald-trump-trade-war-uk-us-iran-stagflation</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/7f89a9c3b55d47515bb30a23f9d18fbfbdd9b0ba/595_0_5002_4000/master/5002.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52d555abc7fd599e1ffe88c47eec8057">
+        <media:credit scheme="urn:ebu">Photograph: Joe Giddens/PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/7f89a9c3b55d47515bb30a23f9d18fbfbdd9b0ba/595_0_5002_4000/master/5002.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d9c0a115428b325b59e5c4cf577e1efa">
+        <media:credit scheme="urn:ebu">Photograph: Joe Giddens/PA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/7f89a9c3b55d47515bb30a23f9d18fbfbdd9b0ba/595_0_5002_4000/master/5002.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fabbb0484478755586e178be7552d39e">
+        <media:credit scheme="urn:ebu">Photograph: Joe Giddens/PA</media:credit>
+      </media:content>
+      <dc:creator>Larry Elliott</dc:creator>
+      <dc:date>2026-04-02T07:00:21Z</dc:date>
+    </item>
+    <item>
+      <title>How could strait of Hormuz closure affect UK food and medicine supplies?</title>
+      <link>https://www.theguardian.com/world/2026/apr/02/strait-of-hormuz-iran-closure-uk-food-medicine-supplies</link>
+      <description>&lt;p&gt;Effects of Iran’s blockade will depend on how long crisis lasts as disruption ripples through supply chains&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/world/live/2026/apr/02/middle-east-crisis-live-trump-prime-time-address-white-house-iran-war-israel-strait-hormuz"&gt;Middle East crisis – live updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The closure of the strait of Hormuz, the crucial oil and gas shipping route that has been &lt;a href="https://www.theguardian.com/world/2026/mar/30/how-could-us-forcibly-reopen-strait-of-hormuz-iran-what-are-the-risks"&gt;blocked by Iran&lt;/a&gt; since the US-Israeli attacks began, is having ripple effects around the world, with most industries already grappling with rising energy costs. If the strait is not reopened, transport blockages across the Middle East could cause significant shocks to food and medicine supplies.&lt;/p&gt;&lt;p&gt;No one knows how long the wider conflict will last, but governments are panicking about the implications. Yvette Cooper, the UK foreign secretary, is &lt;a href="https://www.theguardian.com/world/2026/apr/01/hormuz-strait-talks-britain-starmer"&gt;hosting a meeting&lt;/a&gt; with 35 other countries on Thursday to discuss reopening the strait. Here is what could happen in the UK if the blockade drags on.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/apr/02/strait-of-hormuz-iran-closure-uk-food-medicine-supplies"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/strait-of-hormuz">Strait of Hormuz</category>
+      <category domain="https://www.theguardian.com/world/us-israel-war-on-iran">US-Israel war on Iran</category>
+      <category domain="https://www.theguardian.com/world/iran">Iran</category>
+      <category domain="https://www.theguardian.com/world/middleeast">Middle East and north Africa</category>
+      <category domain="https://www.theguardian.com/business/pharmaceuticals-industry">Pharmaceuticals industry</category>
+      <category domain="https://www.theguardian.com/business/fooddrinks">Food &amp; drink industry</category>
+      <category domain="https://www.theguardian.com/business/inflation">Inflation</category>
+      <category domain="https://www.theguardian.com/money/consumer-affairs">Consumer affairs</category>
+      <category domain="https://www.theguardian.com/business/cost-of-living-crisis">UK cost of living crisis</category>
+      <category domain="https://www.theguardian.com/business/commodities">Commodities</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <category domain="https://www.theguardian.com/environment/fossil-fuels">Fossil fuels</category>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
+      <category domain="https://www.theguardian.com/global-development/food-security">Food security</category>
+      <category domain="https://www.theguardian.com/business/oilandgascompanies">Oil and gas companies</category>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/business/gas">Gas</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Thu, 02 Apr 2026 14:07:59 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2026/apr/02/strait-of-hormuz-iran-closure-uk-food-medicine-supplies</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/3bbef8b268394f6482f54c3e711f8d0c4d88e49c/783_0_4862_3891/master/4862.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eda13da1600ad275b7b5eb7427089229">
+        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/3bbef8b268394f6482f54c3e711f8d0c4d88e49c/783_0_4862_3891/master/4862.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f8003cc2e53101dadfbab4b13abc3326">
+        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/3bbef8b268394f6482f54c3e711f8d0c4d88e49c/783_0_4862_3891/master/4862.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c16e35f624325a4d8cda4cd627b0430">
+        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      </media:content>
+      <dc:creator>Helena Horton and Rachel Hall</dc:creator>
+      <dc:date>2026-04-02T14:07:59Z</dc:date>
+    </item>
+    <item>
+      <title>Starmer’s ‘five-point plan’ was not a plan | Nils Pratley</title>
+      <link>https://www.theguardian.com/business/nils-pratley-on-finance/2026/apr/01/starmer-five-point-plan-energy-bills-iran-war</link>
+      <description>&lt;p&gt;Two of the points were measures on energy bills from the autumn budget, another restated the existing energy strategy&lt;/p&gt;&lt;p&gt;‘We have a five-point plan for the immediate crisis,” declared the prime minister during &lt;a href="https://www.gov.uk/government/speeches/pm-remarks-1-april-2026"&gt;his remarks from Downing Street on Wednesday&lt;/a&gt;. Really? Two of his five points were measures on energy bills that pre-date the Iran war. One was a description of support for a sub-set of consumers but dodged the key question of who else could get help.&lt;/p&gt;&lt;p&gt;Another stated the government’s longstanding energy strategy in unchanged terms. The last was a diplomatic policy, presumably shoehorned into the cost-of-living passage because a five-point plan sounds better than a four-point one.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/nils-pratley-on-finance/2026/apr/01/starmer-five-point-plan-energy-bills-iran-war"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/money/energy">Energy bills</category>
+      <category domain="https://www.theguardian.com/politics/keir-starmer">Keir Starmer</category>
+      <category domain="https://www.theguardian.com/politics/rachel-reeves">Rachel Reeves</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/money/household-bills">Household bills</category>
+      <pubDate>Wed, 01 Apr 2026 17:33:13 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/nils-pratley-on-finance/2026/apr/01/starmer-five-point-plan-energy-bills-iran-war</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/d73e67f3bc730874f7240faed6507bc8f372a1a1/350_0_4799_3839/master/4799.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e78f8dbbf7ff1d16e9e10951189d45b1">
+        <media:credit scheme="urn:ebu">Photograph: Jaimi Joy/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/d73e67f3bc730874f7240faed6507bc8f372a1a1/350_0_4799_3839/master/4799.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02e3029602d0c2cee1a35861c557800f">
+        <media:credit scheme="urn:ebu">Photograph: Jaimi Joy/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/d73e67f3bc730874f7240faed6507bc8f372a1a1/350_0_4799_3839/master/4799.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e097532be4da33ad7fc5cda1f8c1e47">
+        <media:credit scheme="urn:ebu">Photograph: Jaimi Joy/AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Nils Pratley</dc:creator>
+      <dc:date>2026-04-01T17:33:13Z</dc:date>
+    </item>
+    <item>
+      <title>A third inflationary shock in less than a decade is coming: who will pay the price this time around? | Aditya Chakrabortty</title>
+      <link>https://www.theguardian.com/commentisfree/2026/apr/01/inflationary-shock-pay-the-price-uk-energy-crisis-us-iran-war</link>
+      <description>&lt;p&gt;Brutal past experience has taught us that a cost of living crisis doesn’t affect us all the same, because we don’t all go into it with the same income or wealth&lt;/p&gt;&lt;p&gt;Perhaps the most celebrated writer on oil markets is Daniel Yergin. His work has won a Pulitzer and his advice sought by every president from Bill Clinton to Donald Trump. Let’s start by looking at an example.&lt;/p&gt;&lt;p&gt;Fifteen years ago, before the US and Israel started their war on Iran, killing thousands of civilians in the process,&lt;strong&gt; &lt;/strong&gt;before the strait of Hormuz became as infamous as the Bermuda Triangle, and before experts declared “the greatest global energy security threat in history”, Yergin &lt;a href="https://www.theguardian.com/business/2011/oct/16/quest-energy-daniel-yergin-review"&gt;published The Quest&lt;/a&gt;: Energy, Security and the Remaking of the Modern World. After hearing Trump announce a “very soon” end to the conflict for the second – or was it the third? – time, I dug out my copy. Just as I remembered, it devotes a chapter to the Persian Gulf.&lt;/p&gt;&lt;p&gt;Aditya Chakrabortty is a Guardian columnist&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our&lt;a href="https://www.theguardian.com/tone/letters"&gt; letters&lt;/a&gt; section, please &lt;a href="mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary."&gt;click here&lt;/a&gt;.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/apr/01/inflationary-shock-pay-the-price-uk-energy-crisis-us-iran-war"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/cost-of-living-crisis">UK cost of living crisis</category>
+      <category domain="https://www.theguardian.com/business/inflation">Inflation</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/politics/keir-starmer">Keir Starmer</category>
+      <category domain="https://www.theguardian.com/politics/rachel-reeves">Rachel Reeves</category>
+      <category domain="https://www.theguardian.com/world/strait-of-hormuz">Strait of Hormuz</category>
+      <category domain="https://www.theguardian.com/world/us-israel-war-on-iran">US-Israel war on Iran</category>
+      <category domain="https://www.theguardian.com/world/iran">Iran</category>
+      <category domain="https://www.theguardian.com/business/oilandgascompanies">Oil and gas companies</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/us-news/us-foreign-policy">US foreign policy</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
+      <category domain="https://www.theguardian.com/world/middleeast">Middle East and north Africa</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <pubDate>Wed, 01 Apr 2026 17:54:41 GMT</pubDate>
+      <guid>https://www.theguardian.com/commentisfree/2026/apr/01/inflationary-shock-pay-the-price-uk-energy-crisis-us-iran-war</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/5a286db937014a2561f377be56b39ea3c95ea68c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b0584cf90f614eb35c026a4cdda4b8c2">
+        <media:credit scheme="urn:ebu">Illustration: Sebastien Thibault/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/5a286db937014a2561f377be56b39ea3c95ea68c/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5709b06a4b0429b0993e0c18d0e7a61">
+        <media:credit scheme="urn:ebu">Illustration: Sebastien Thibault/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/5a286db937014a2561f377be56b39ea3c95ea68c/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b16847fa12718c96149f3c4ccb699ca5">
+        <media:credit scheme="urn:ebu">Illustration: Sebastien Thibault/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Aditya Chakrabortty</dc:creator>
+      <dc:date>2026-04-01T17:54:41Z</dc:date>
+    </item>
+    <item>
+      <title>Would more North Sea drilling mean lower energy prices for UK consumers?</title>
+      <link>https://www.theguardian.com/business/2026/apr/01/would-more-north-sea-drilling-mean-lower-energy-prices-uk-consumers-explainer</link>
+      <description>&lt;p&gt;Kemi Badenoch claims increased UK oil and gas production would cut bills by £200, but critics say plan won’t work&lt;/p&gt;&lt;p&gt;Oil prices hit $100 a barrel soon after the US and Israel launched their attack on Iran, and though prices have wobbled since, ongoing supply issues from the partial closure of the strait of Hormuz mean they could leap higher, to $150 a barrel or more, by some estimates.&lt;/p&gt;&lt;p&gt;The impacts could be severe – not just &lt;a href="https://www.theguardian.com/business/live/2026/mar/31/uk-house-prices-economic-growth-iran-outlook-business-news"&gt;increases in the price of petrol&lt;/a&gt;, and oil for home heating, but also in the cost of gas, with knock-on inflationary pressures on food, consumer goods and industrial components.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/apr/01/would-more-north-sea-drilling-mean-lower-energy-prices-uk-consumers-explainer"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/business/commodities">Commodities</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/politics/kemi-badenoch">Kemi Badenoch</category>
+      <category domain="https://www.theguardian.com/politics/conservatives">Conservatives</category>
+      <category domain="https://www.theguardian.com/politics/brexit-party">Reform UK</category>
+      <category domain="https://www.theguardian.com/money/energy">Energy bills</category>
+      <category domain="https://www.theguardian.com/politics/fuel-duty">Fuel duty</category>
+      <category domain="https://www.theguardian.com/money/household-bills">Household bills</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/money/petrol-prices">Petrol prices</category>
+      <category domain="https://www.theguardian.com/uk/scotland">Scotland</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/politics/taxandspending">Tax and spending</category>
+      <pubDate>Wed, 01 Apr 2026 14:00:01 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/apr/01/would-more-north-sea-drilling-mean-lower-energy-prices-uk-consumers-explainer</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/0a134c8e3cb100861a65ed7c544e27ba75c4945f/33_0_1758_1406/master/1758.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4bb4b6d88eea41a83fa0466289e17c68">
+        <media:credit scheme="urn:ebu">Photograph: Danny Lawson/PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/0a134c8e3cb100861a65ed7c544e27ba75c4945f/33_0_1758_1406/master/1758.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=161e614c1a8a90c63164ff3b97bf7509">
+        <media:credit scheme="urn:ebu">Photograph: Danny Lawson/PA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/0a134c8e3cb100861a65ed7c544e27ba75c4945f/33_0_1758_1406/master/1758.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=31bb790b96b6bb8f6340010757eb441c">
+        <media:credit scheme="urn:ebu">Photograph: Danny Lawson/PA</media:credit>
+      </media:content>
+      <dc:creator>Fiona Harvey</dc:creator>
+      <dc:date>2026-04-01T14:00:01Z</dc:date>
+    </item>
+    <item>
+      <title>Drive slower, work from home and ditch the tie: the world responds to Iran war energy crisis</title>
+      <link>https://www.theguardian.com/environment/2026/apr/02/world-response-iran-war-energy-crisis-oil</link>
+      <description>&lt;p&gt;Oil crisis triggered by blockade of strait of Hormuz prompts emergency measures to protect supply and halt rising prices&lt;/p&gt;&lt;p&gt;Shrinking fuel stocks and soaring prices are leading countries around the world to burn coal, ration fuel, shorten work weeks and tell citizens to stay at home.&lt;/p&gt;&lt;p&gt;Fossil fuel supplies have reduced since the war against Iran led to the closure of the strait of Hormuz, a crucial shipping route for oil and seaborne gas. The shortfall has prompted emergency measures as government’s attempt to halt rising costs that have thrown economies into chaos.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/apr/02/world-response-iran-war-energy-crisis-oil"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/environment/fossil-fuels">Fossil fuels</category>
+      <category domain="https://www.theguardian.com/environment/energy">Energy</category>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/environment/oil">Oil</category>
+      <category domain="https://www.theguardian.com/business/oilandgascompanies">Oil and gas companies</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/business/commodities">Commodities</category>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/world/africa">Africa</category>
+      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
+      <category domain="https://www.theguardian.com/world/india">India</category>
+      <category domain="https://www.theguardian.com/money/petrol-prices">Petrol prices</category>
+      <category domain="https://www.theguardian.com/australia-news/petrol-prices">Petrol prices</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/us-israel-war-on-iran">US-Israel war on Iran</category>
+      <category domain="https://www.theguardian.com/australia-news/australia-news">Australia news</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <pubDate>Thu, 02 Apr 2026 05:00:17 GMT</pubDate>
+      <guid>https://www.theguardian.com/environment/2026/apr/02/world-response-iran-war-energy-crisis-oil</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/03f8845e687b9aa8c7647449022bd68aadfeb831/463_0_4632_3705/master/4632.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=abf7d18513064541d59f9d178199b24f">
+        <media:credit scheme="urn:ebu">Photograph: Anadolu/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/03f8845e687b9aa8c7647449022bd68aadfeb831/463_0_4632_3705/master/4632.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a02d1c94f6258af0e7240f3a026a2fc">
+        <media:credit scheme="urn:ebu">Photograph: Anadolu/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/03f8845e687b9aa8c7647449022bd68aadfeb831/463_0_4632_3705/master/4632.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc16228bf2825c3036f7728a34728d88">
+        <media:credit scheme="urn:ebu">Photograph: Anadolu/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Ajit Niranjan Environment correspondent</dc:creator>
+      <dc:date>2026-04-02T05:00:17Z</dc:date>
+    </item>
+    <item>
+      <title>Next week’s disability cuts will make people destitute – and you might not understand how bad they are until it’s too late | Frances Ryan</title>
+      <link>https://www.theguardian.com/commentisfree/2026/apr/02/labour-disability-cuts-universal-credit</link>
+      <description>&lt;p&gt;If new claimants don’t meet strict criteria, they’ll lose half of the health element of universal credit. Don’t ignore that: in life’s lottery, that could easily be you&lt;/p&gt;&lt;p&gt;Look at the front pages or open a news app in the coming days and you’ll supposedly see the big events facing Britain. But here’s one that is likely to slip quietly under the radar: from next week, almost three-quarters of a million of the most severely ill and disabled people in the country could end up having a &lt;a href="https://www.ucpipbill.co.uk/#:~:text=Our%20response%20to%20remaining%20cuts,setting%20of%20an%20alarm%20clock"&gt;lifeline benefit cut in half&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Cast your mind back to last summer. As the nation &lt;a href="https://www.theguardian.com/uk-news/2025/sep/01/uk-experienced-its-hottest-summer-on-record-in-2025-met-office-says"&gt;sweated through a heatwave&lt;/a&gt; and &lt;a href="https://www.theguardian.com/music/2025/sep/29/oasis-uk-tour-summer-unity-euphoria-britishness"&gt;Oasis reunited&lt;/a&gt;, ministers were trying to push through “welfare reform” – a nice euphemism for &lt;a href="https://www.theguardian.com/politics/2025/jun/15/welfare-plans-keir-starmer-labour-rebellion-disability-benefit-cuts"&gt;£5bn worth of cuts&lt;/a&gt; to disability benefits. A backbench rebellion meant that Keir Starmer was forced to halt his overhaul of personal independence payments (Pip), but MPs voted through a brutal universal credit cut. Ministers justified reducing support for people too disabled or ill to work by arguing it would remove the “perverse incentives” that discourage employment and &lt;a href="https://www.gov.uk/government/news/government-reforms-welfare-system-to-support-people-into-work"&gt;trap people on long-term benefits&lt;/a&gt;, as if a twentysomething who is bedbound with ME just needs “incentivising” &lt;a href="https://hdsunflower.com/pl/insights/post/what-barriers-do-people-with-hidden-disabilities-face-in-the-world-of-work"&gt;to get back to&lt;/a&gt; the building site.&lt;/p&gt;&lt;p&gt;Frances Ryan is a Guardian columnist and the author of &lt;a href="https://guardianbookshop.com/who-wants-normal-9780241629451/"&gt;Who Wants Normal? Life Lessons from Disabled Women&lt;/a&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/apr/02/labour-disability-cuts-universal-credit"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/disability">Disability</category>
+      <category domain="https://www.theguardian.com/society/benefits">Benefits</category>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
+      <category domain="https://www.theguardian.com/society/universal-credit">Universal credit</category>
+      <category domain="https://www.theguardian.com/politics/welfare">Welfare</category>
+      <category domain="https://www.theguardian.com/society/society">Society</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Thu, 02 Apr 2026 05:00:19 GMT</pubDate>
+      <guid>https://www.theguardian.com/commentisfree/2026/apr/02/labour-disability-cuts-universal-credit</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/3b39413e61c7cead77da4a4ed81825fad9b67a66/1145_192_4400_3520/master/4400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2cbaadbba2d3d5807e2abcd9c734863f">
+        <media:credit scheme="urn:ebu">Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/3b39413e61c7cead77da4a4ed81825fad9b67a66/1145_192_4400_3520/master/4400.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=83399527171d5274f250b87b694bf00c">
+        <media:credit scheme="urn:ebu">Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/3b39413e61c7cead77da4a4ed81825fad9b67a66/1145_192_4400_3520/master/4400.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a0acd062252d63139c83aa45d528c80">
+        <media:credit scheme="urn:ebu">Photograph: Wiktor Szymanowicz/Future Publishing/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Frances Ryan</dc:creator>
+      <dc:date>2026-04-02T05:00:19Z</dc:date>
+    </item>
+    <item>
+      <title>‘Fossil-fuel imperialism’: Trump’s hankering for Iranian oil runs deep</title>
+      <link>https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism</link>
+      <description>&lt;p&gt;Experts say the US believes it is entitled to resources it desires – a perspective president has supported for decades&lt;/p&gt;&lt;p&gt;Donald Trump said this past weekend he wants to “take the oil in Iran” by seizing control of a key export hub, echoing a refrain he has returned to for over a decade.&lt;/p&gt;&lt;p&gt;It’s a sign of his disregard for international law and belief in “fossil-fuel imperialism”, experts say.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/us-foreign-policy">US foreign policy</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <pubDate>Wed, 01 Apr 2026 14:00:02 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/f97e21611fa628b3d1c7092767dcd56af40a5bf2/0_0_1500_1200/master/1500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=99f858093f7100a6739f3bbe27be908b">
+        <media:credit scheme="urn:ebu">Composite: ESA/AFP via Getty Images, UPI/Shutterstock</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/f97e21611fa628b3d1c7092767dcd56af40a5bf2/0_0_1500_1200/master/1500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b929933d2da524e3ffdb6222eef25a0f">
+        <media:credit scheme="urn:ebu">Composite: ESA/AFP via Getty Images, UPI/Shutterstock</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/f97e21611fa628b3d1c7092767dcd56af40a5bf2/0_0_1500_1200/master/1500.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af842093286b5f3edf7d399553e78332">
+        <media:credit scheme="urn:ebu">Composite: ESA/AFP via Getty Images, UPI/Shutterstock</media:credit>
+      </media:content>
+      <dc:creator>Dharna Noor</dc:creator>
+      <dc:date>2026-04-01T14:00:02Z</dc:date>
+    </item>
+    <item>
+      <title>More than half of World Cup countries face extra costs as Fifa fails to agree US tax deal</title>
+      <link>https://www.theguardian.com/football/2026/apr/02/world-cup-countries-face-extra-costs-fifa-tax-deal-us-government</link>
+      <description>&lt;ul&gt;&lt;li&gt;&lt;p&gt;Fifa has not agreed tax exemption with US government&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Burden will fall disproportionately on smaller nations&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;More than half the countries that have qualified for the World Cup are facing additional costs and potential losses due to Fifa’s failure to agree a blanket tax exemption with the United States government and significant variance in the host country’s international tax treaties.&lt;/p&gt;&lt;p&gt;As a not-for-profit organisation Fifa has had tax-free status in the US since the 1994 World Cup, but that exemption does not apply to all of the 48 qualifiers, whose national associations must pay a range of federal, state and city taxes on their earnings from the tournament this summer.&lt;/p&gt; &lt;a href="https://www.theguardian.com/football/2026/apr/02/world-cup-countries-face-extra-costs-fifa-tax-deal-us-government"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/football/world-cup-2026">World Cup 2026</category>
+      <category domain="https://www.theguardian.com/football/fifa">Fifa</category>
+      <category domain="https://www.theguardian.com/football/world-cup-football">World Cup</category>
+      <category domain="https://www.theguardian.com/football/football">Football</category>
+      <category domain="https://www.theguardian.com/football/footballpolitics">Football politics</category>
+      <category domain="https://www.theguardian.com/sport/sport">Sport</category>
+      <pubDate>Thu, 02 Apr 2026 11:17:02 GMT</pubDate>
+      <guid>https://www.theguardian.com/football/2026/apr/02/world-cup-countries-face-extra-costs-fifa-tax-deal-us-government</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/f8cb82d97ac1296cbaabe265bb59ce95feb7b2fa/428_0_4264_3413/master/4264.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33c42c4cd43edf8725947410c150203a">
+        <media:credit scheme="urn:ebu">Photograph: Stephanie Scarbrough/AP</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/f8cb82d97ac1296cbaabe265bb59ce95feb7b2fa/428_0_4264_3413/master/4264.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0279f6922e8f21873282a9fb505f21c8">
+        <media:credit scheme="urn:ebu">Photograph: Stephanie Scarbrough/AP</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/f8cb82d97ac1296cbaabe265bb59ce95feb7b2fa/428_0_4264_3413/master/4264.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94854d1b00e44b5beb9a20c107c3b0e0">
+        <media:credit scheme="urn:ebu">Photograph: Stephanie Scarbrough/AP</media:credit>
+      </media:content>
+      <dc:creator>Matt Hughes, global sports business correspondent</dc:creator>
+      <dc:date>2026-04-02T11:17:02Z</dc:date>
+    </item>
+    <item>
+      <title>Rowntree’s trust appoints Keon West to tackle brand’s colonial history</title>
+      <link>https://www.theguardian.com/news/2026/apr/02/rowntrees-joseph-rowntree-charitable-trust-keon-west-head-of-reparations</link>
+      <description>&lt;p&gt;Author and academic says role is a chance ‘to make real, meaningful changes’ as trust confronts enslavement links&lt;/p&gt;&lt;p&gt;It’s a story that connects the inventors of the KitKat – the beloved British chocolate bar – with colonial history and its legacies.&lt;/p&gt;&lt;p&gt;Now, the ways in which enslavement, indenture and European imperialism fed supply chains for Rowntree’s, the confectioners who invented Fruit Pastilles and Smarties as well as KitKat, are being confronted.&lt;/p&gt; &lt;a href="https://www.theguardian.com/news/2026/apr/02/rowntrees-joseph-rowntree-charitable-trust-keon-west-head-of-reparations"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/reparations-and-reparative-justice">Reparations and reparative justice</category>
+      <category domain="https://www.theguardian.com/world/colonialism">Colonialism</category>
+      <category domain="https://www.theguardian.com/world/slavery">Slavery</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Thu, 02 Apr 2026 11:29:14 GMT</pubDate>
+      <guid>https://www.theguardian.com/news/2026/apr/02/rowntrees-joseph-rowntree-charitable-trust-keon-west-head-of-reparations</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/556a70ad5cf2c23f44ed83105a4c45cb6c529505/462_0_4617_3693/master/4617.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e8a27ed90663c545e6f10a8e183e3f0">
+        <media:credit scheme="urn:ebu">Photograph: Heritage Images/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/556a70ad5cf2c23f44ed83105a4c45cb6c529505/462_0_4617_3693/master/4617.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5640040d57bd04dd53c9b81f4483d933">
+        <media:credit scheme="urn:ebu">Photograph: Heritage Images/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/556a70ad5cf2c23f44ed83105a4c45cb6c529505/462_0_4617_3693/master/4617.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ade41724f92973a8819ac9a5c61fcc82">
+        <media:credit scheme="urn:ebu">Photograph: Heritage Images/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Chris Osuh Community affairs correspondent</dc:creator>
+      <dc:date>2026-04-02T11:29:14Z</dc:date>
+    </item>
+    <item>
+      <title>Larva lamped: Colin the Caterpillar loses to eight lookalikes in cake taste test</title>
+      <link>https://www.theguardian.com/business/2026/apr/02/m-and-s-colin-the-caterpillar-loses-which-cake-taste-test-waitrose-cecil-best-buy</link>
+      <description>&lt;p&gt;Which? testers complain M&amp;amp;S sponge is ‘too dry’ as Waitrose’s Cecil tops the tree with ‘best buy’ gong&lt;/p&gt;&lt;p&gt;After a busy 35 years as a British party favourite, not to mention a bruising &lt;a href="https://www.theguardian.com/business/2021/apr/15/ms-takes-aldi-to-court-over-colin-the-caterpillar-look-alike-cake"&gt;court battle with an alleged copycat&lt;/a&gt;, you might think Colin the Caterpillar had earned his place at the top.&lt;/p&gt;&lt;p&gt;But the “original” chocolate caterpillar cake has now been labelled the worst, bested by lookalikes in a taste test.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/apr/02/m-and-s-colin-the-caterpillar-loses-which-cake-taste-test-waitrose-cecil-best-buy"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/fooddrinks">Food &amp; drink industry</category>
+      <category domain="https://www.theguardian.com/food/cake">Cake</category>
+      <category domain="https://www.theguardian.com/business/marksspencer">Marks &amp; Spencer</category>
+      <category domain="https://www.theguardian.com/business/waitrose">Waitrose</category>
+      <category domain="https://www.theguardian.com/business/aldi">Aldi</category>
+      <category domain="https://www.theguardian.com/money/consumer-affairs">Consumer affairs</category>
+      <category domain="https://www.theguardian.com/business/retail">Retail industry</category>
+      <category domain="https://www.theguardian.com/food/food">Food</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <category domain="https://www.theguardian.com/business/supermarkets">Supermarkets</category>
+      <pubDate>Thu, 02 Apr 2026 05:00:18 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/apr/02/m-and-s-colin-the-caterpillar-loses-which-cake-taste-test-waitrose-cecil-best-buy</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/69fe8cfa6f5d94565a15942c78ca9db25800cd8b/450_224_1084_867/master/1084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=709ca46083358e450e95752af1d85d67">
+        <media:credit scheme="urn:ebu">Photograph: M&amp;S/PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/69fe8cfa6f5d94565a15942c78ca9db25800cd8b/450_224_1084_867/master/1084.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a2338c03f7f2073d7dc1becd0d41a01">
+        <media:credit scheme="urn:ebu">Photograph: M&amp;S/PA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/69fe8cfa6f5d94565a15942c78ca9db25800cd8b/450_224_1084_867/master/1084.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98d8a5d51962685cae3c5a6c17efd9a1">
+        <media:credit scheme="urn:ebu">Photograph: M&amp;S/PA</media:credit>
+      </media:content>
+      <dc:creator>Zoe Wood</dc:creator>
+      <dc:date>2026-04-02T05:00:18Z</dc:date>
+    </item>
+    <item>
+      <title>Global super-rich may have hidden $3.55tn from tax officials, says Oxfam</title>
+      <link>https://www.theguardian.com/world/2026/apr/02/global-super-rich-hidden-355trn-from-tax-officials-oxfam</link>
+      <description>&lt;p&gt;Charity calls for a levy on the very richest and the closing of tax loopholes in its report on offshore wealth&lt;/p&gt;&lt;p&gt;The global super-rich may have as much as $3.55tn hidden away from tax authorities, according to estimates by Oxfam.&lt;/p&gt;&lt;p&gt;The charity renewed its call for a wealth levy and urged governments to close tax loopholes as it published its latest analysis of the scale of offshore holdings.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/apr/02/global-super-rich-hidden-355trn-from-tax-officials-oxfam"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/tax-havens">Tax havens</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/world/oxfam">Oxfam</category>
+      <category domain="https://www.theguardian.com/politics/taxandspending">Tax and spending</category>
+      <category domain="https://www.theguardian.com/world/panama-papers">Panama Papers</category>
+      <category domain="https://www.theguardian.com/politics/rachel-reeves">Rachel Reeves</category>
+      <category domain="https://www.theguardian.com/politics/zack-polanski">Zack Polanski</category>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
+      <category domain="https://www.theguardian.com/politics/green-party">Green party</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Wed, 01 Apr 2026 23:01:10 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2026/apr/02/global-super-rich-hidden-355trn-from-tax-officials-oxfam</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/52b7e008651b405de12498acdc7d35f154375bd5/178_0_4188_3352/master/4188.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04d370830f795ddde557aec20f322a1f">
+        <media:credit scheme="urn:ebu">Photograph: Martin Bernetti/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/52b7e008651b405de12498acdc7d35f154375bd5/178_0_4188_3352/master/4188.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4cc4d31e6eb3011ed0dad9af50182fb6">
+        <media:credit scheme="urn:ebu">Photograph: Martin Bernetti/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/52b7e008651b405de12498acdc7d35f154375bd5/178_0_4188_3352/master/4188.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2242a3b1cb0d45571b0a6e89e296d631">
+        <media:credit scheme="urn:ebu">Photograph: Martin Bernetti/AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Heather Stewart</dc:creator>
+      <dc:date>2026-04-01T23:01:10Z</dc:date>
+    </item>
+    <item>
+      <title>UK looks to relax planning rules for factory farms after industry lobbying</title>
+      <link>https://www.theguardian.com/environment/2026/apr/02/uk-looks-to-relax-planning-rules-for-factory-farms-after-industry-lobbying</link>
+      <description>&lt;p&gt;Exclusive: documents chronicle years-long campaign to make it easier to build intensive livestock units&lt;/p&gt;&lt;p&gt;Ministers are rewriting planning rules to make it easier to build intensive livestock farms despite concerns about water pollution, air quality and local opposition.&lt;/p&gt;&lt;p&gt;Documents obtained by the Guardian under the Freedom of Information Act show that proposed changes to the national planning policy framework (NPPF) were discussed by ministers and officials in response to concerns of the country’s leading chicken producers, who have been lobbying on the issue for at least two years.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/apr/02/uk-looks-to-relax-planning-rules-for-factory-farms-after-industry-lobbying"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/environment/farming">Farming</category>
+      <category domain="https://www.theguardian.com/world/animal-welfare">Animal welfare</category>
+      <category domain="https://www.theguardian.com/environment/pollution">Pollution</category>
+      <category domain="https://www.theguardian.com/uk-news/england">England</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Thu, 02 Apr 2026 07:00:20 GMT</pubDate>
+      <guid>https://www.theguardian.com/environment/2026/apr/02/uk-looks-to-relax-planning-rules-for-factory-farms-after-industry-lobbying</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/2e8877373ab40031a4f600910073e5b854369bdc/1285_0_6459_5165/master/6459.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8dc4632f587baf3460f5bcd58e63055c">
+        <media:credit scheme="urn:ebu">Photograph: Fahroni/Alamy</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/2e8877373ab40031a4f600910073e5b854369bdc/1285_0_6459_5165/master/6459.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5c6da988671b196d6e258ffb9f32a49">
+        <media:credit scheme="urn:ebu">Photograph: Fahroni/Alamy</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/2e8877373ab40031a4f600910073e5b854369bdc/1285_0_6459_5165/master/6459.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0124fdd75e97cbfd022476965b347670">
+        <media:credit scheme="urn:ebu">Photograph: Fahroni/Alamy</media:credit>
+      </media:content>
+      <dc:creator>Zach Boren</dc:creator>
+      <dc:date>2026-04-02T07:00:20Z</dc:date>
+    </item>
+    <item>
+      <title>World’s oldest tortoise caught in viral crypto death scam</title>
+      <link>https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam</link>
+      <description>&lt;p&gt;Fake X account posing as his vet sparked global false reports of Jonathan’s death while soliciting crypto donations&lt;/p&gt;&lt;p&gt;At 194 years old, Jonathan the giant tortoise was a youngster when Queen Victoria ascended to the throne – and has now lived long enough to fall victim to a crypto scam.&lt;/p&gt;&lt;p&gt;News outlets including the BBC, Daily Mail and USA Today falsely reported his death after an X account posing as Jonathan’s vet broke the news.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/st-helena">St Helena</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/world/animals">Animals</category>
+      <category domain="https://www.theguardian.com/environment/reptiles">Reptiles</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/technology/cryptocurrencies">Cryptocurrencies</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/money/scamsandfraud">Scams</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <category domain="https://www.theguardian.com/money/consumer-affairs">Consumer affairs</category>
+      <category domain="https://www.theguardian.com/technology/efinance">E-commerce</category>
+      <category domain="https://www.theguardian.com/technology/internet">Internet</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Thu, 02 Apr 2026 09:19:40 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/a590c6b3c91bc2397437ce751aff59a79d0c9e44/106_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=106728275cd02d3dee34140258694336">
+        <media:credit scheme="urn:ebu">Photograph: St Helena/PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/a590c6b3c91bc2397437ce751aff59a79d0c9e44/106_0_2915_2333/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e79b28b9455f32853fa9c650dffb3cc8">
+        <media:credit scheme="urn:ebu">Photograph: St Helena/PA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/a590c6b3c91bc2397437ce751aff59a79d0c9e44/106_0_2915_2333/master/2915.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfd707d4b44283e83ff2fd2ec59f5036">
+        <media:credit scheme="urn:ebu">Photograph: St Helena/PA</media:credit>
+      </media:content>
+      <dc:creator>Helena Horton</dc:creator>
+      <dc:date>2026-04-02T09:19:40Z</dc:date>
+    </item>
+    <item>
+      <title>Chris Rokos: the camera-shy billionaire behind the biggest UK university donation in modern times</title>
+      <link>https://www.theguardian.com/education/2026/apr/02/chris-rokos-the-camera-shy-billionaire-behind-the-biggest-uk-university-donation-in-modern-times</link>
+      <description>&lt;p&gt;The 55-year-old is one of the most successful hedge fund managers of his generation&lt;/p&gt;&lt;p&gt;When Chris Rokos decided to &lt;a href="https://www.theguardian.com/education/2026/mar/31/uk-billionaire-chris-rokos-donates-record-190m-to-cambridge"&gt;donate a record £190m&lt;/a&gt; to the University of Cambridge to set up a “school of government” this week, it became the latest mega project carried out in the hedge fund billionaire’s name.&lt;/p&gt;&lt;p&gt;The publicity-shy tycoon has spent much of the last decade presiding over one of England’s most expensive home renovations ever, of the 200-room Tottenham House mansion near Marlborough in Wiltshire, adding a tennis pavilion and private cinema in the &lt;a href="https://www.thetimes.com/life-style/property-home/article/inside-tottenham-house-marlborough-renovation-uk-most-expensive-175m-dt0c2pllz"&gt;£175m revamp&lt;/a&gt;.&lt;/p&gt; &lt;a href="https://www.theguardian.com/education/2026/apr/02/chris-rokos-the-camera-shy-billionaire-behind-the-biggest-uk-university-donation-in-modern-times"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/education/cambridgeuniversity">University of Cambridge</category>
+      <category domain="https://www.theguardian.com/education/education">Education</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/business/hedge-funds">Hedge funds</category>
+      <category domain="https://www.theguardian.com/business/financial-sector">Financial sector</category>
+      <category domain="https://www.theguardian.com/education/higher-education">Higher education</category>
+      <pubDate>Thu, 02 Apr 2026 04:00:17 GMT</pubDate>
+      <guid>https://www.theguardian.com/education/2026/apr/02/chris-rokos-the-camera-shy-billionaire-behind-the-biggest-uk-university-donation-in-modern-times</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/5f45ba91307fef35e46aed97ea63852f4ec8c045/870_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=484f2bba5750e86ae7a446c8d3930fe6">
+        <media:credit scheme="urn:ebu">Photograph: Nick Saffell/University of Cambridge/PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/5f45ba91307fef35e46aed97ea63852f4ec8c045/870_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4827eb838276c12eaf6dc9ec8fa7d194">
+        <media:credit scheme="urn:ebu">Photograph: Nick Saffell/University of Cambridge/PA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/5f45ba91307fef35e46aed97ea63852f4ec8c045/870_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f25d6cf8e0828ef0a402c25adfd3786e">
+        <media:credit scheme="urn:ebu">Photograph: Nick Saffell/University of Cambridge/PA</media:credit>
+      </media:content>
+      <dc:creator>Mark Sweney</dc:creator>
+      <dc:date>2026-04-02T04:00:17Z</dc:date>
+    </item>
+    <item>
+      <title>‘Ready to be exploited’: amid rust, weeds and power cuts, Venezuelans hope for a new oil boom</title>
+      <link>https://www.theguardian.com/global-development/2026/apr/02/venezuelans-hope-new-oil-boom</link>
+      <description>&lt;p&gt;The infrastructure is crumbling and the government shaky, but memories exist of an industry that once thrived off Venezuela’s vast reserves of crude – and could do again, despite the climate crisis&lt;/p&gt;&lt;p&gt;At Campo Boscán, a vast complex in western &lt;a href="https://www.theguardian.com/world/venezuela"&gt;Venezuela&lt;/a&gt;, the drills, pumps and pipelines that extract crude oil operate amid decay: roads are broken, weeds grow everywhere and many wells run inside metal cages to prevent theft. Albenis Merchán, a drilling technician with 35 years’ experience, recalls better times as he drives his pickup through the desolate landscape.&lt;/p&gt;&lt;p&gt;“We used to receive maintenance and safety training all the time. Supplies and spare parts were never lacking. Many things need to improve here to tap the full potential of this area,” he says.&lt;/p&gt; &lt;a href="https://www.theguardian.com/global-development/2026/apr/02/venezuelans-hope-new-oil-boom"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/chevron">Chevron</category>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/world/delcy-rodriguez">Delcy Rodríguez</category>
+      <category domain="https://www.theguardian.com/world/venezuela">Venezuela</category>
+      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Thu, 02 Apr 2026 13:00:24 GMT</pubDate>
+      <guid>https://www.theguardian.com/global-development/2026/apr/02/venezuelans-hope-new-oil-boom</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/cba4292fcbddf1294c5405065ea3bcf349752c29/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0399ff7d2ffb64f24c5d11c819d9e83b">
+        <media:credit scheme="urn:ebu">Illustration: Eleanor Shakespeare</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/cba4292fcbddf1294c5405065ea3bcf349752c29/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee65a2b2cdc315092a0589effb7f2a82">
+        <media:credit scheme="urn:ebu">Illustration: Eleanor Shakespeare</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/cba4292fcbddf1294c5405065ea3bcf349752c29/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2826cd341a89cb0f5bea6bdb6818eac0">
+        <media:credit scheme="urn:ebu">Illustration: Eleanor Shakespeare</media:credit>
+      </media:content>
+      <dc:creator>Sinar Alvarado in Maracaibo, Venezuela</dc:creator>
+      <dc:date>2026-04-02T13:00:24Z</dc:date>
+    </item>
+    <item>
+      <title>‘We’re trapped’: developer’s unpaid debt leaves London flat owners unable to sell</title>
+      <link>https://www.theguardian.com/society/2026/apr/02/developers-unpaid-debt-leaves-london-flat-owners-unable-to-sell-hackney</link>
+      <description>&lt;p&gt;Hackney leaseholders feel council made the problem worse by leaving £850,000 debt uncollected for eight years&lt;/p&gt;&lt;p&gt;Leaseholders in east London have said they are “trapped in unsellable homes” because of an £850,000 debt owed by the building’s developer to Hackney council, who have let it go unpaid for eight years.&lt;/p&gt;&lt;p&gt;The 17 leaseholders, who live in a block of flats in Upper Clapton, have appealed to the council for help but their pleas, including requests for a meeting, have been ignored.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2026/apr/02/developers-unpaid-debt-leaves-london-flat-owners-unable-to-sell-hackney"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/society/housing">Housing</category>
+      <category domain="https://www.theguardian.com/money/leasehold">Leasehold</category>
+      <category domain="https://www.theguardian.com/uk/hackney">Hackney</category>
+      <category domain="https://www.theguardian.com/money/property">Property</category>
+      <category domain="https://www.theguardian.com/uk/london">London</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/society/communities">Communities</category>
+      <category domain="https://www.theguardian.com/society/society">Society</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <pubDate>Thu, 02 Apr 2026 06:00:19 GMT</pubDate>
+      <guid>https://www.theguardian.com/society/2026/apr/02/developers-unpaid-debt-leaves-london-flat-owners-unable-to-sell-hackney</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/49c382606dd6fe328824aad298ef6d3acfa69ff7/56_0_4871_3897/master/4871.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a8f5e171d682ca141aaa5e68d58e9e1">
+        <media:credit scheme="urn:ebu">Photograph: Teri Pengilley/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/49c382606dd6fe328824aad298ef6d3acfa69ff7/56_0_4871_3897/master/4871.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb25f78594e83cfda9e06b9f6d0ff9cc">
+        <media:credit scheme="urn:ebu">Photograph: Teri Pengilley/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/49c382606dd6fe328824aad298ef6d3acfa69ff7/56_0_4871_3897/master/4871.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d3405cf83f82beaad1e43d0e1acf8031">
+        <media:credit scheme="urn:ebu">Photograph: Teri Pengilley/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Sammy Gecsoyler</dc:creator>
+      <dc:date>2026-04-02T06:00:19Z</dc:date>
+    </item>
+    <item>
+      <title>‘Kids would rather be down the park’: readers reflect on child-free pubs</title>
+      <link>https://www.theguardian.com/lifeandstyle/2026/apr/02/readers-reflect-on-child-free-pubs</link>
+      <description>&lt;p&gt;With public houses increasingly restricting or banning children, we asked for your thoughts on adult-only pubs&lt;/p&gt;&lt;p&gt;A growing number of pubs in the UK are &lt;a href="https://www.theguardian.com/lifeandstyle/2026/mar/26/it-dictated-the-whole-atmosphere-why-some-landlords-are-banning-kids-from-pubs"&gt;restricting or banning children&lt;/a&gt;, citing safety concerns, changing atmospheres and lost trade. We asked people their thoughts on adult-only pubs.&lt;/p&gt;&lt;p&gt;Many who contacted us supported child-free pubs, believing adult-only spaces were important, but a good proportion said they would change their mind if children were “properly supervised by parents”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/lifeandstyle/2026/apr/02/readers-reflect-on-child-free-pubs"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/lifeandstyle/pubs">Pubs</category>
+      <category domain="https://www.theguardian.com/society/children">Children</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/family">Family</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/parents-and-parenting">Parents and parenting</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/lifeandstyle">Life and style</category>
+      <category domain="https://www.theguardian.com/society/society">Society</category>
+      <category domain="https://www.theguardian.com/business/hospitality-industry">Hospitality industry</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Thu, 02 Apr 2026 06:00:18 GMT</pubDate>
+      <guid>https://www.theguardian.com/lifeandstyle/2026/apr/02/readers-reflect-on-child-free-pubs</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/b7efcf5a8464d2658b7a0b70ab7619b47dc68cbe/560_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f469dc74d5d4e1a15333a8ba66ec886d">
+        <media:credit scheme="urn:ebu">Photograph: Alicia Canter/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/b7efcf5a8464d2658b7a0b70ab7619b47dc68cbe/560_0_5600_4480/master/5600.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d546eba949d818df09f8eedbd1467f9">
+        <media:credit scheme="urn:ebu">Photograph: Alicia Canter/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/b7efcf5a8464d2658b7a0b70ab7619b47dc68cbe/560_0_5600_4480/master/5600.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=394c3a47123bed0b4ad44fa7dec64738">
+        <media:credit scheme="urn:ebu">Photograph: Alicia Canter/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Jane Clinton and Nicola Slawson</dc:creator>
+      <dc:date>2026-04-02T06:00:18Z</dc:date>
+    </item>
+    <item>
+      <title>Why thousands of New Yorkers swap gas for induction stoves in clean energy push: ‘It makes sense’</title>
+      <link>https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy</link>
+      <description>&lt;p&gt;US states from California to Georgia are promoting induction stoves for climate, health and cost benefits&lt;/p&gt;&lt;p&gt;Marcos Ramos hasn’t been able to cook a full meal at home in nearly four years, after a gas leak resulted in a lengthy supply cut off for his New York City apartment building.&lt;/p&gt;&lt;p&gt;Now, though, Ramos will be able to cook again thanks to a technology that is gradually advancing in the US after being embroiled in an unlikely culture war – the electric induction stove.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
+      <category domain="https://www.theguardian.com/us-news/new-york">New York</category>
+      <pubDate>Thu, 02 Apr 2026 10:00:21 GMT</pubDate>
+      <guid>https://www.theguardian.com/environment/2026/apr/02/new-york-induction-stoves-climate-energy</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/7f6442b43368a54aab02856f7c6ffe57062ce3b5/705_398_2836_2270/master/2836.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fe389ea10b755d35ecbfc4d302836ceb">
+        <media:credit scheme="urn:ebu">Photograph: Thalia Juarez/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/7f6442b43368a54aab02856f7c6ffe57062ce3b5/705_398_2836_2270/master/2836.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c176360daf5bd23e707a3bc10b72eb5c">
+        <media:credit scheme="urn:ebu">Photograph: Thalia Juarez/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/7f6442b43368a54aab02856f7c6ffe57062ce3b5/705_398_2836_2270/master/2836.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7906b44b57b9b2aabca282d12a550830">
+        <media:credit scheme="urn:ebu">Photograph: Thalia Juarez/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Oliver Milman in New York with photographs by Thalia Juarez</dc:creator>
+      <dc:date>2026-04-02T10:00:21Z</dc:date>
+    </item>
+    <item>
+      <title>Apple at 50 quiz: top sellers, turkeys and turtlenecks</title>
+      <link>https://www.theguardian.com/technology/2026/apr/01/apple-at-50-quiz</link>
+      <description>&lt;p&gt;How much do you know about the history of one of the most powerful computing companies on the planet?&lt;/p&gt;&lt;p&gt;In the 50 years since it was founded, Apple has long been seen as one of the most significant technology companies globally. The design and manufacturing decisions taken in Cupertino, California have affected product design across the world, helping usher in an era of ubiquitous touchscreen computing while insisting on exacting user experience design principles. How much do you know about the history of one of the most powerful computing companies on the planet? Test yourself with these 12 questions.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;The Guardian’s Apple at 50 quiz&lt;/strong&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/apr/01/apple-at-50-quiz"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/apple">Apple</category>
+      <category domain="https://www.theguardian.com/technology/computing">Computing</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/technology/stevejobs">Steve Jobs</category>
+      <category domain="https://www.theguardian.com/technology/iphone">iPhone</category>
+      <category domain="https://www.theguardian.com/technology/ipod">iPod</category>
+      <pubDate>Wed, 01 Apr 2026 14:46:30 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/apr/01/apple-at-50-quiz</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/8933e3fb187c1b11a9ec3d2826ff84508f08bed9/259_0_1445_1156/master/1445.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2fbd365fbbf1fb25a7cd302d52d637da">
+        <media:credit scheme="urn:ebu">Photograph: Tom Munnecke/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/8933e3fb187c1b11a9ec3d2826ff84508f08bed9/259_0_1445_1156/master/1445.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb4c7859771a1cdfcc58071411af3039">
+        <media:credit scheme="urn:ebu">Photograph: Tom Munnecke/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/8933e3fb187c1b11a9ec3d2826ff84508f08bed9/259_0_1445_1156/master/1445.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5d8dad86c2917f9a28028af7a497da91">
+        <media:credit scheme="urn:ebu">Photograph: Tom Munnecke/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Dan Milmo and Martin Belam</dc:creator>
+      <dc:date>2026-04-01T14:46:30Z</dc:date>
+    </item>
+    <item>
+      <title>Lunar prospectors: the businesses looking to mine the moon</title>
+      <link>https://www.theguardian.com/news/ng-interactive/2026/apr/01/lunar-prospectors-the-businesses-looking-to-mine-the-moon</link>
+      <description>&lt;p&gt;Within the lunar dirt is a type of helium so rare on Earth that a palm-sized container is estimated to be worth millions&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/science/ng-interactive/2026/mar/30/asteroid-warning-earth-un-office-for-outer-space-affairs"&gt;‘This was the real thing’: Meet the woman who alerts the world when an asteroid could hit&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control"&gt;‘This feels fragile’: how a satellite-smashing chain reaction could spiral out of control&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In the silent vacuum of space, five autonomous robots churn through the lunar surface, digging up a loose layer of rock and dust and leaving rows of uniform tracks in their wake.&lt;/p&gt;&lt;p&gt;Stopping only to recharge at a central solar power station, the car-sized machines process the lunar dirt internally to extract a type of helium so rare on Earth that a palm-sized container is estimated to be worth millions. Once processed, the precious resource is loaded into a launcher and ejected back to Earth.&lt;/p&gt; &lt;a href="https://www.theguardian.com/news/ng-interactive/2026/apr/01/lunar-prospectors-the-businesses-looking-to-mine-the-moon"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/science/space">Space</category>
+      <category domain="https://www.theguardian.com/science/science">Science</category>
+      <category domain="https://www.theguardian.com/science/moon">The moon</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Wed, 01 Apr 2026 10:00:24 GMT</pubDate>
+      <guid>https://www.theguardian.com/news/ng-interactive/2026/apr/01/lunar-prospectors-the-businesses-looking-to-mine-the-moon</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/6954e9307e7222a12e96c0a18a176f2f5ba7262a/6256_0_14742_11802/master/14742.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c398815a054c4b9a43a42011c09ce4bf">
+        <media:credit scheme="urn:ebu">Photograph: Oliver Holmes/Perch Partners</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/6954e9307e7222a12e96c0a18a176f2f5ba7262a/6256_0_14742_11802/master/14742.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=921fec67129203a2502f8efc2726907f">
+        <media:credit scheme="urn:ebu">Photograph: Oliver Holmes/Perch Partners</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/6954e9307e7222a12e96c0a18a176f2f5ba7262a/6256_0_14742_11802/master/14742.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a19304ef7962f0ca4ce98134003e062e">
+        <media:credit scheme="urn:ebu">Photograph: Oliver Holmes/Perch Partners</media:credit>
+      </media:content>
+      <dc:creator>Oliver Holmes with graphics by Ana Lucía González Paz, Seán Clarke and  Harvey Symons</dc:creator>
+      <dc:date>2026-04-01T10:00:24Z</dc:date>
+    </item>
+    <item>
+      <title>Revealed: the vast illegal casino network targeting UK gamblers</title>
+      <link>https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers</link>
+      <description>&lt;p&gt;Calls for tougher laws as network stretching from Caribbean to Georgia generates riches for offshore tycoons by appearing to prey on the vulnerable&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Immaculately groomed and beaming from ear to ear, Andres Markou looks every inch the golden boy of the gambling sector. The youthful boss of MyStake, a fast-growing digital casino, has been pictured shaking hands with the Brazilian football legend Ronaldinho over a lucrative branding partnership.&lt;/p&gt;&lt;p&gt;Elsewhere, he can be seen collecting industry awards, or offering “visionary” insights to interviewers. There is only one hurdle blocking Markou’s ascent to the very top of his trade: he does not exist.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/society/gambling">Gambling</category>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/society/society">Society</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Wed, 01 Apr 2026 07:00:40 GMT</pubDate>
+      <guid>https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/493d9190b6186e884a143545edf995ae412d41bd/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=983e5092cdf995a75a7a74359d34e88b">
+        <media:credit scheme="urn:ebu">Photograph: Artwork by Alex Mellon and Guardian Design. Source Photographs by Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/493d9190b6186e884a143545edf995ae412d41bd/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec428feb31176ffd7098adbe6ce566ff">
+        <media:credit scheme="urn:ebu">Photograph: Artwork by Alex Mellon and Guardian Design. Source Photographs by Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/493d9190b6186e884a143545edf995ae412d41bd/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c67fa35ed0fb1c02f3d0ce153b9800fa">
+        <media:credit scheme="urn:ebu">Photograph: Artwork by Alex Mellon and Guardian Design. Source Photographs by Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Rob Davies and Maxence Peigné</dc:creator>
+      <dc:date>2026-04-01T07:00:40Z</dc:date>
+    </item>
+    <item>
+      <title>I wore Meta’s smartglasses for a month – and it left me feeling like a creep</title>
+      <link>https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep</link>
+      <description>&lt;p&gt;Content creators love the built-in camera; sceptics call them ‘pervert glasses’. Do we really need any more hi-tech wearables, even with a voice assistant that sounds like Judi Dench?&lt;/p&gt;&lt;p&gt;Lately, I’ve been hearing Judi Dench’s voice in my head. She tells me tomorrow’s forecast, when to turn right, that there’s been another message in my group chat. Day or night, Dame Judi is eager to assist. When I ask the eight-time Academy Award nominee what I’m looking at, she answers: a residential area, a person in a pub, daffodils. “They are a bright yellow colour and are often associated with spring.”&lt;/p&gt;&lt;p&gt;This isn’t a delusion. This is, apparently, progress. I am test-driving Meta’s smartglasses and Dench voices its integrated AI assistant: “Here to chat, answer questions, create images and provide advice and inspiration,” said “Judi” when I selected her over the actors John Cena and Kristen Bell. “Shall we begin?”&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/technology/meta">Meta</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/world/privacy">Privacy</category>
+      <pubDate>Wed, 01 Apr 2026 04:00:38 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/a035218097039cf1f202c474337f775dd2de9f8e/666_0_6655_5324/master/6655.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24b01171e14e3622d8d430437db4a5a8">
+        <media:credit scheme="urn:ebu">Photograph: Ali Smith/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/a035218097039cf1f202c474337f775dd2de9f8e/666_0_6655_5324/master/6655.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5eba6e32bd58c858a2c7df7f41b1ecf">
+        <media:credit scheme="urn:ebu">Photograph: Ali Smith/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/a035218097039cf1f202c474337f775dd2de9f8e/666_0_6655_5324/master/6655.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4967afde1916bd38cd4a7dcc567dd0df">
+        <media:credit scheme="urn:ebu">Photograph: Ali Smith/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Elle Hunt</dc:creator>
+      <dc:date>2026-04-01T04:00:38Z</dc:date>
+    </item>
+    <item>
+      <title>Labour’s mistakes: is it too late to turn things around? – podcast</title>
+      <link>https://www.theguardian.com/politics/audio/2026/apr/02/labour-mistakes-keir-starmer-podcast</link>
+      <description>&lt;p&gt;In part one of a special two-part interview, Kiran Stacey talks to the political scientist Prof Robert Ford about Labour’s so-called ‘landslide win’, the long-lasting impact of Brexit on our politics, and the lessons that should have been learned from the 2024 election. Is it now too late for Starmer to turn things around?&lt;/p&gt;&lt;p&gt;Buy Prof Robert Ford’s latest book, The British General Election of 2024, &lt;a href="https://www.amazon.co.uk/British-General-Election-2024/dp/3031969405/ref=books_amazonstores_desktop_mfs_aufs_ap_sc_dsk_0?_encoding=UTF8&amp;amp;pd_rd_w=e8CtF&amp;amp;content-id=amzn1.sym.f9a1288a-66fe-4587-95f9-1387021c317b&amp;amp;pf_rd_p=f9a1288a-66fe-4587-95f9-1387021c317b&amp;amp;pf_rd_r=522-4869239-1794238&amp;amp;pd_rd_wg=hoMzU&amp;amp;pd_rd_r=a12df0cc-6ab2-48ef-8f9b-5cd000b680f2"&gt;here&lt;/a&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/audio/2026/apr/02/labour-mistakes-keir-starmer-podcast"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
+      <category domain="https://www.theguardian.com/politics/keir-starmer">Keir Starmer</category>
+      <category domain="https://www.theguardian.com/politics/general-election-2024">General election 2024</category>
+      <category domain="https://www.theguardian.com/politics/eu-referendum">Brexit</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/politics/brexit-party">Reform UK</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Thu, 02 Apr 2026 04:00:16 GMT</pubDate>
+      <guid>https://www.theguardian.com/politics/audio/2026/apr/02/labour-mistakes-keir-starmer-podcast</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/09ac3b391ecf7b4c83a57a19f612b292252a4bad/446_0_4463_3570/master/4463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb951465bda4374dddb5e5021b2c3633">
+        <media:credit scheme="urn:ebu">Photograph: Chris J Ratcliffe/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/09ac3b391ecf7b4c83a57a19f612b292252a4bad/446_0_4463_3570/master/4463.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a916379058cbb6bcfa048b951cc195cf">
+        <media:credit scheme="urn:ebu">Photograph: Chris J Ratcliffe/Reuters</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/09ac3b391ecf7b4c83a57a19f612b292252a4bad/446_0_4463_3570/master/4463.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39c6931d882f8f01562ed3d4294a1afa">
+        <media:credit scheme="urn:ebu">Photograph: Chris J Ratcliffe/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Presented by Kiran Stacey with Robert Ford, produced by Sam Gruet and Frankie Tobi, music by Axel Kacoutié;  the executive producer is Maz Ebtehaj</dc:creator>
+      <dc:date>2026-04-02T04:00:16Z</dc:date>
+    </item>
+    <item>
+      <title>How Trump, Musk and Doge shattered the US government – podcast</title>
+      <link>https://www.theguardian.com/politics/audio/2026/apr/02/how-trump-musk-and-doge-shattered-the-us-government-podcast</link>
+      <description>&lt;p&gt;In the end, Elon Musk’s Department of Government Efficiency, or Doge, sort of just … fizzled out. So did Musk save the taxpayer any money? What happened the people who lost their jobs in the mass bureaucratic culling? What services were affected? Will Americans ever trust their government again?&lt;/p&gt;&lt;p&gt;Jonathan Freedland speaks to author Sasha Abramsky about his new book, &lt;a href="https://orbooks.com/catalog/american-carnage/"&gt;American Carnage: How Trump, Musk, and DOGE Butchered the US Government&lt;/a&gt;, and about what lasting legacy of Doge will be&lt;/p&gt;&lt;p&gt;&lt;em&gt;Archive: CBS News, ABC News, CNBC, Fox11 Los Angeles, Fox13 Seattle, Bloomberg, Fox News&lt;/em&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/audio/2026/apr/02/how-trump-musk-and-doge-shattered-the-us-government-podcast"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
+      <category domain="https://www.theguardian.com/technology/elon-musk">Elon Musk</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <pubDate>Thu, 02 Apr 2026 06:05:24 GMT</pubDate>
+      <guid>https://www.theguardian.com/politics/audio/2026/apr/02/how-trump-musk-and-doge-shattered-the-us-government-podcast</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/b39f06eda8b7581bf970b59c8ff739cd0209bc47/424_0_4240_3392/master/4240.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=10072fd39ca5e65002d09eeb809ce68e">
+        <media:credit scheme="urn:ebu">Photograph: Evelyn Hockstein/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/b39f06eda8b7581bf970b59c8ff739cd0209bc47/424_0_4240_3392/master/4240.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5be1a834c820ede56eda8957ded1682">
+        <media:credit scheme="urn:ebu">Photograph: Evelyn Hockstein/Reuters</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/b39f06eda8b7581bf970b59c8ff739cd0209bc47/424_0_4240_3392/master/4240.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b8f26063c06d947505f415b910ded97">
+        <media:credit scheme="urn:ebu">Photograph: Evelyn Hockstein/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Presented by Jonathan Freedland, with Sasha Abramsky, produced by Danielle Stephens, and the executive producer is Maz Ebtehaj</dc:creator>
+      <dc:date>2026-04-02T06:05:24Z</dc:date>
+    </item>
+    <item>
+      <title>From the archive: the butcher’s shop that lasted 300 years (give or take) – podcast</title>
+      <link>https://www.theguardian.com/news/audio/2026/apr/01/from-the-archive-the-butchers-shop-that-lasted-300-years-give-or-take-podcast</link>
+      <description>&lt;p&gt;We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authors.&lt;/p&gt;&lt;p&gt;This week, from 2020: Frank Fisher, now 90, was a traditional high street butcher his whole working life – as were three generations of his family before him. How does a man dedicated to serving his community decide when it’s time to hang up his white coat?&lt;/p&gt;&lt;p&gt;By Tom Lamont. Read by Jonathan Andrew Hume&lt;/p&gt; &lt;a href="https://www.theguardian.com/news/audio/2026/apr/01/from-the-archive-the-butchers-shop-that-lasted-300-years-give-or-take-podcast"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/food/meat">Meat</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/shops-and-shopping">Shops and shopping</category>
+      <category domain="https://www.theguardian.com/world/coronavirus-outbreak">Coronavirus</category>
+      <pubDate>Wed, 01 Apr 2026 04:00:38 GMT</pubDate>
+      <guid>https://www.theguardian.com/news/audio/2026/apr/01/from-the-archive-the-butchers-shop-that-lasted-300-years-give-or-take-podcast</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/7b43e00320595d2948af09facfabd65cdec57567/806_0_5600_4480/master/5600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74ec82aa51c596dc1b6a8a6ecea984f1">
+        <media:credit scheme="urn:ebu">Photograph: Christopher Thomond/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/7b43e00320595d2948af09facfabd65cdec57567/806_0_5600_4480/master/5600.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f7d0df06255a8b4b8518991902f294c">
+        <media:credit scheme="urn:ebu">Photograph: Christopher Thomond/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/7b43e00320595d2948af09facfabd65cdec57567/806_0_5600_4480/master/5600.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7263aa5ddf5f55876decdf205c506df3">
+        <media:credit scheme="urn:ebu">Photograph: Christopher Thomond/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Written by Tom Lamont and read by Jonathan Andrew Hume. Originally produced by Esther Opoku-Gyeni with additions and scoring by Nicola Alexandrou. The executive producer was Ellie Bury</dc:creator>
+      <dc:date>2026-04-01T04:00:38Z</dc:date>
+    </item>
+    <item>
+      <title>Tourists flock to Paris, cheapest capital in Europe – archive, 1926</title>
+      <link>https://www.theguardian.com/world/2026/apr/01/tourists-flock-to-paris-cheapest-capital-in-europe-1926</link>
+      <description>&lt;p&gt;With restaurants and music halls at half London prices, holidaymakers are pouring into the city for Easter&lt;/p&gt;&lt;p&gt;From our own correspondent&lt;br&gt;
+ 3 April 1926&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/apr/01/tourists-flock-to-paris-cheapest-capital-in-europe-1926"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/paris">Paris</category>
+      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
+      <category domain="https://www.theguardian.com/travel/france">France holidays</category>
+      <pubDate>Wed, 01 Apr 2026 10:16:24 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2026/apr/01/tourists-flock-to-paris-cheapest-capital-in-europe-1926</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/2ec13e70992ccfb9d2d441999b8e7012cc6dc690/98_0_3103_2484/master/3103.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5de51964c420924984c5bbb0b90391ed">
+        <media:credit scheme="urn:ebu">Photograph: Pictorial Press Ltd/Alamy</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/2ec13e70992ccfb9d2d441999b8e7012cc6dc690/98_0_3103_2484/master/3103.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8660d7871888f4ddcba147a3105e3792">
+        <media:credit scheme="urn:ebu">Photograph: Pictorial Press Ltd/Alamy</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/2ec13e70992ccfb9d2d441999b8e7012cc6dc690/98_0_3103_2484/master/3103.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22d3ffc53b15894417db840d980e26a7">
+        <media:credit scheme="urn:ebu">Photograph: Pictorial Press Ltd/Alamy</media:credit>
+      </media:content>
+      <dc:creator>Compiled by Richard Nelsson</dc:creator>
+      <dc:date>2026-04-01T10:16:24Z</dc:date>
+    </item>
+    <item>
+      <title>Lucky few Americans whose student debt was forgiven: ‘I hit the lottery’</title>
+      <link>https://www.theguardian.com/money/2026/apr/02/us-student-loan-debt-forgiveness</link>
+      <description>&lt;p&gt;Only a small fraction of about 43 million have had their debt cancelled, the relief for those who have is transformative&lt;/p&gt;&lt;p&gt;Of the roughly &lt;a href="https://educationdata.org/student-loan-debt-statistics"&gt;43 million Americans&lt;/a&gt; carrying student loan debt – totaling nearly $1.7tn – only a small fraction have seen their balances erased. For those who have, the relief has been transformative, with several telling the Guardian how the forgiveness has reshaped financial futures and opened doors to new careers, stability and long-delayed life plans.&lt;/p&gt;&lt;p&gt;“My loan was forgiven at the end of 2025 through the Public Service Loan Forgiveness Program,” said Laura Kluss, a 41-year-old clinical social worker based in Sacramento, California. “It was in the six figures at the time of forgiveness. Interest rates were making it extremely difficult to pay it down.&lt;/p&gt; &lt;a href="https://www.theguardian.com/money/2026/apr/02/us-student-loan-debt-forgiveness"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/money/student-debt-us">US student debt</category>
+      <category domain="https://www.theguardian.com/money/student-finance-us">US student finance</category>
+      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
+      <category domain="https://www.theguardian.com/money/us-personal-finance">US personal finance</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
+      <pubDate>Thu, 02 Apr 2026 12:00:23 GMT</pubDate>
+      <guid>https://www.theguardian.com/money/2026/apr/02/us-student-loan-debt-forgiveness</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/4a6f45d1e93dd5e8b40ea141eb05655473b4ea4e/581_0_6211_4971/master/6211.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bdcd49fb403ddb2f3004975751bb8c94">
+        <media:credit scheme="urn:ebu">Photograph: Paul Morigi/Getty Images for We, The 45 Million</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/4a6f45d1e93dd5e8b40ea141eb05655473b4ea4e/581_0_6211_4971/master/6211.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ce8be2b28ba69a01f1eb95d27673d01c">
+        <media:credit scheme="urn:ebu">Photograph: Paul Morigi/Getty Images for We, The 45 Million</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/4a6f45d1e93dd5e8b40ea141eb05655473b4ea4e/581_0_6211_4971/master/6211.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be92b1ec2a5d6e4374005db9f85f0ff5">
+        <media:credit scheme="urn:ebu">Photograph: Paul Morigi/Getty Images for We, The 45 Million</media:credit>
+      </media:content>
+      <dc:creator>Maya Yang</dc:creator>
+      <dc:date>2026-04-02T12:00:23Z</dc:date>
+    </item>
+    <item>
+      <title>Iran war may increase mortgage payments for extra 1.3m households, says Bank of England</title>
+      <link>https://www.theguardian.com/money/2026/apr/01/iran-war-higher-mortgage-payments-uk-households-bank-of-england</link>
+      <description>&lt;p&gt;Financial policy committee predicts ‘Trumpflation’ rises, as average two-year fixed rate hits 5.84%&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/live/2026/apr/01/oil-tumbles-stock-markets-gold-bonds-dollar-middle-east-war-manufacturing-factories-news-updates"&gt;Business live – latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The US-Israel war on Iran could end up increasing monthly mortgage payments for more than one million more UK households, the Bank of England has predicted, adding that the conflict had dealt “a substantial negative supply shock” to the world economy.&lt;/p&gt;&lt;p&gt;Financial market jitters over the conflict in the Middle East have resulted in banks pulling about 1,500 mortgage products, with many banks &lt;a href="https://www.theguardian.com/business/2026/mar/23/uk-mortgage-interest-rates-markets-bank-of-england-iran-war"&gt;raising interest rates&lt;/a&gt; on their remaining 7,000 home loan products in recent weeks, the Bank’s financial policy committee (FPC) said.&lt;/p&gt; &lt;a href="https://www.theguardian.com/money/2026/apr/01/iran-war-higher-mortgage-payments-uk-households-bank-of-england"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/money/mortgages">Mortgages</category>
+      <category domain="https://www.theguardian.com/world/us-israel-war-on-iran">US-Israel war on Iran</category>
+      <category domain="https://www.theguardian.com/business/global-economy">Global economy</category>
+      <category domain="https://www.theguardian.com/business/bankofenglandgovernor">Bank of England</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <category domain="https://www.theguardian.com/money/property">Property</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/business/economics">Economics</category>
+      <pubDate>Wed, 01 Apr 2026 10:35:56 GMT</pubDate>
+      <guid>https://www.theguardian.com/money/2026/apr/01/iran-war-higher-mortgage-payments-uk-households-bank-of-england</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/0900e15a848b7453a1c488dae7056adecdaa90b8/329_0_4698_3758/master/4698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a03a27794ddce306db6fef1e13c913c">
+        <media:credit scheme="urn:ebu">Photograph: Linda Nylind/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/0900e15a848b7453a1c488dae7056adecdaa90b8/329_0_4698_3758/master/4698.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98bd06c59cfcdbae280e5b03b28acdc4">
+        <media:credit scheme="urn:ebu">Photograph: Linda Nylind/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/0900e15a848b7453a1c488dae7056adecdaa90b8/329_0_4698_3758/master/4698.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8db2cf9e1ee01a3f6d17d739950c7091">
+        <media:credit scheme="urn:ebu">Photograph: Linda Nylind/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Kalyeena Makortoff Banking correspondent</dc:creator>
+      <dc:date>2026-04-01T10:35:56Z</dc:date>
+    </item>
+    <item>
+      <title>Cost of living: get ready for ‘awful April’ bill increases</title>
+      <link>https://www.theguardian.com/money/2026/mar/30/cost-of-living-how-to-prepare-for-the-awful-april-shower-of-bill-increases</link>
+      <description>&lt;p&gt;From council tax to water, broadband to stamps, the annual round of price rises starts on 1 April … and that’s before any fallout from Iran war&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/money/2026/mar/30/uk-savers-told-to-act-now-before-easter-sunday-cash-isa-deadline"&gt;UK savers told to act now before Easter Sunday cash Isa deadline&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Britons will typically see more than £200 added to their household bills this year as “awful April” price increases kick in.&lt;/p&gt;&lt;p&gt;The annual rises are particularly unwelcome as the financial turmoil caused by the Middle East conflict has pushed up &lt;a href="https://www.theguardian.com/business/2026/mar/22/trumpflation-how-the-iran-war-economic-storm-could-affect-britons"&gt;mortgage rates, fuel prices and energy bills for rural households&lt;/a&gt;.&lt;/p&gt; &lt;a href="https://www.theguardian.com/money/2026/mar/30/cost-of-living-how-to-prepare-for-the-awful-april-shower-of-bill-increases"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/money/household-bills">Household bills</category>
+      <category domain="https://www.theguardian.com/money/water-bills">Water bills</category>
+      <category domain="https://www.theguardian.com/money/counciltax">Council tax</category>
+      <category domain="https://www.theguardian.com/money/broadband">Broadband</category>
+      <category domain="https://www.theguardian.com/money/mobile-phones">Mobile phones</category>
+      <category domain="https://www.theguardian.com/money/cartax">Car tax</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <category domain="https://www.theguardian.com/money/consumer-affairs">Consumer affairs</category>
+      <category domain="https://www.theguardian.com/money/family-finances">Family finances</category>
+      <category domain="https://www.theguardian.com/money/tax">Tax</category>
+      <category domain="https://www.theguardian.com/business/utilities">Utilities</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/money/motoring">Motoring</category>
+      <category domain="https://www.theguardian.com/technology/broadband">Broadband</category>
+      <category domain="https://www.theguardian.com/media/bbc-licence-fee">BBC licence fee</category>
+      <category domain="https://www.theguardian.com/uk-news/passport-office">Passport Office</category>
+      <category domain="https://www.theguardian.com/money/state-pensions">State pensions</category>
+      <category domain="https://www.theguardian.com/society/minimum-wage">Minimum wage</category>
+      <category domain="https://www.theguardian.com/society/benefits">Benefits</category>
+      <category domain="https://www.theguardian.com/money/pensions">Pensions</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/money/energy">Energy bills</category>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
+      <pubDate>Wed, 01 Apr 2026 08:01:16 GMT</pubDate>
+      <guid>https://www.theguardian.com/money/2026/mar/30/cost-of-living-how-to-prepare-for-the-awful-april-shower-of-bill-increases</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/397a7dd1b7829efeccb53ff0ffbc9ee3d25da0d1/713_0_4750_3800/master/4750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23e33468b0e48b8bbe674bc3dcdf63c">
+        <media:credit scheme="urn:ebu">Photograph: Maskot/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/397a7dd1b7829efeccb53ff0ffbc9ee3d25da0d1/713_0_4750_3800/master/4750.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2af2f1b899f01355830589337e4f0dd9">
+        <media:credit scheme="urn:ebu">Photograph: Maskot/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/397a7dd1b7829efeccb53ff0ffbc9ee3d25da0d1/713_0_4750_3800/master/4750.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=07b1bf480b46ddea6431c05cb5c6ea16">
+        <media:credit scheme="urn:ebu">Photograph: Maskot/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Zoe Wood and Tom Duggins</dc:creator>
+      <dc:date>2026-04-01T08:01:16Z</dc:date>
+    </item>
+    <item>
+      <title>Delayed by EU entry/exit system? Then travel light</title>
+      <link>https://www.theguardian.com/money/2026/apr/01/delayed-by-eu-entry-exit-system-then-travel-light</link>
+      <description>&lt;p&gt;Only way to avoid missing a flight because of EES rules: squeeze everything into a cabin bag and skip luggage check-in&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Travellers to the EU risk missing their flights because bag drop-off times don’t allow for the long queues to get through a new security system.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;My family of four missed our easyJet flight home from Málaga because, although we followed advice from the airport and arrived three hours before departure, the bag drop-off didn’t open until two hours before.&lt;/strong&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/money/2026/apr/01/delayed-by-eu-entry-exit-system-then-travel-light"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/money/consumer-affairs">Consumer affairs</category>
+      <category domain="https://www.theguardian.com/money/consumer-rights-money">Consumer rights</category>
+      <category domain="https://www.theguardian.com/travel/travel">Travel</category>
+      <category domain="https://www.theguardian.com/world/eu">European Union</category>
+      <category domain="https://www.theguardian.com/money/money">Money</category>
+      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
+      <category domain="https://www.theguardian.com/business/travelleisure">Travel &amp; leisure</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Wed, 01 Apr 2026 06:00:40 GMT</pubDate>
+      <guid>https://www.theguardian.com/money/2026/apr/01/delayed-by-eu-entry-exit-system-then-travel-light</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/290_0_2920_2336/master/2920.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f67299023e0f9f009da923853806044e">
+        <media:credit scheme="urn:ebu">Photograph: Avpics/Alamy</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/290_0_2920_2336/master/2920.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e05d686daf97470a65215eeafd278b5c">
+        <media:credit scheme="urn:ebu">Photograph: Avpics/Alamy</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/d4e0bb6cf66538930d3fcf221707a4675ec85a38/290_0_2920_2336/master/2920.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=49c703ae1584bf587f36ab951013e341">
+        <media:credit scheme="urn:ebu">Photograph: Avpics/Alamy</media:credit>
+      </media:content>
+      <dc:creator>Anna Tims</dc:creator>
+      <dc:date>2026-04-01T06:00:40Z</dc:date>
     </item>
   </channel>
 </rss>
