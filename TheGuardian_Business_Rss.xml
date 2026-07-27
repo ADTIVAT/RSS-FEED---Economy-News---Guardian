@@ -6,8 +6,8 @@
     <description>Latest financial, market &amp;amp; economic news and analysis from The Guardian</description>
     <language>en-gb</language>
     <copyright>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2026</copyright>
-    <pubDate>Mon, 27 Jul 2026 07:42:12 GMT</pubDate>
-    <dc:date>2026-07-27T07:42:12Z</dc:date>
+    <pubDate>Mon, 27 Jul 2026 18:17:36 GMT</pubDate>
+    <dc:date>2026-07-27T18:17:36Z</dc:date>
     <dc:language>en-gb</dc:language>
     <dc:rights>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2026</dc:rights>
     <image>
@@ -16,28 +16,207 @@
       <link>https://www.theguardian.com</link>
     </image>
     <item>
-      <title>Oil price slides as US and Iran pause fire; cancer treatments help AstraZeneca beat profit forecasts – business live</title>
-      <link>https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news</link>
-      <description>&lt;p&gt;Rolling coverage of the latest economic and financial news&lt;/p&gt;&lt;p&gt;Energy companies &lt;strong&gt;BP &lt;/strong&gt;and &lt;strong&gt;Shell &lt;/strong&gt;are unsurprisingly the worst performers across the FTSE 100 this morning, with their shares down by 3.8% and 2% respectively thanks to the weaker oil price. Overall the energy sector is down by about 2.6%.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;JD Sports &lt;/strong&gt;is the best performer, with shares in the fashion retailer up 3.6%. &lt;strong&gt;Vodafone &lt;/strong&gt;is second, with its shares up 3% after an &lt;a href="https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news?page=with%3Ablock-6a6701858f088134984ccc7e#block-6a6701858f088134984ccc7e"&gt;upbeat quarterly update this morning.&lt;/a&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news"&gt;Continue reading...&lt;/a&gt;</description>
+      <title>Oil prices fall as US pauses strikes on Iran over strait of Hormuz</title>
+      <link>https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100</link>
+      <description>&lt;p&gt;Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall&lt;/p&gt;&lt;p&gt;Oil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation in the conflict that would further restrict global supply.&lt;/p&gt;&lt;p&gt;Brent crude, the international benchmark for oil, initially fell 9% to below $88 a barrel on Monday after climbing to $100 last week, when the Iran-aligned Houthis attacked Saudi Arabian oil tankers in the Red Sea.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
+      <category domain="https://www.theguardian.com/business/commodities">Commodities</category>
       <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/business/stock-markets">Stock markets</category>
+      <category domain="https://www.theguardian.com/business/interest-rates">Interest rates</category>
+      <category domain="https://www.theguardian.com/world/strait-of-hormuz">Strait of Hormuz</category>
+      <category domain="https://www.theguardian.com/business/economics">Economics</category>
+      <category domain="https://www.theguardian.com/business/global-economy">Global economy</category>
+      <category domain="https://www.theguardian.com/world/us-israel-war-on-iran">US-Israel war on Iran</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Mon, 27 Jul 2026 17:30:47 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/4f7fbcce3a26d9a717f17341fcd8bfe2174e2fd4/136_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dad8cc683fa2901be5057e9f80d5c559">
+        <media:credit scheme="urn:ebu">Photograph: Amirhosein Khorgooi/AP</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/4f7fbcce3a26d9a717f17341fcd8bfe2174e2fd4/136_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80fe53e36981ea19c0fe4866dd5d38b6">
+        <media:credit scheme="urn:ebu">Photograph: Amirhosein Khorgooi/AP</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/4f7fbcce3a26d9a717f17341fcd8bfe2174e2fd4/136_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f116e93f4a8aa21ef6cee827df5dfb87">
+        <media:credit scheme="urn:ebu">Photograph: Amirhosein Khorgooi/AP</media:credit>
+      </media:content>
+      <dc:creator>Jasper Jolly</dc:creator>
+      <dc:date>2026-07-27T17:30:47Z</dc:date>
+    </item>
+    <item>
+      <title>DCC, one of FTSE 100’s biggest energy firms, agrees £5.75bn takeover</title>
+      <link>https://www.theguardian.com/business/2026/jul/27/dcc-energy-private-equity-takeover-ftse-100-kkr-energy-capital-partners</link>
+      <description>&lt;p&gt;KKR and Energy Capital Partners poised to buy firm despite misgivings from founder and biggest shareholders&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/27/private-equity-finds-soft-takeover-targets-in-london-dcc-energy-ftse-100"&gt;Nils Pratley: Private equity finds soft takeover targets in London – yet again&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;One of the biggest energy businesses listed on the London Stock Exchange has agreed a controversial £5.7bn takeover by private equity, adding to the growing exodus of companies from the UK market.&lt;/p&gt;&lt;p&gt;The US private equity groups KKR and Energy Capital Partners are poised to buy DCC Energy after the company’s board recommended the offer despite misgivings from its founder and biggest shareholders.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/dcc-energy-private-equity-takeover-ftse-100-kkr-energy-capital-partners"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
       <category domain="https://www.theguardian.com/business/ftse">FTSE</category>
+      <category domain="https://www.theguardian.com/business/stock-markets">Stock markets</category>
+      <category domain="https://www.theguardian.com/business/privateequity">Private equity</category>
+      <category domain="https://www.theguardian.com/business/mergers-and-acquisitions">Mergers and acquisitions</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
       <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Mon, 27 Jul 2026 11:25:42 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/27/dcc-energy-private-equity-takeover-ftse-100-kkr-energy-capital-partners</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/c2c8e36da1559c7cfd1f202da245f61ec5caaa65/475_0_4029_3225/master/4029.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bdfc3b7eb92dec89a56953a5b5498b7c">
+        <media:credit scheme="urn:ebu">Photograph: Justin Kase zfivez/Alamy</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/c2c8e36da1559c7cfd1f202da245f61ec5caaa65/475_0_4029_3225/master/4029.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4ea26ddbf15ca3638d50e2636aad01f1">
+        <media:credit scheme="urn:ebu">Photograph: Justin Kase zfivez/Alamy</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/c2c8e36da1559c7cfd1f202da245f61ec5caaa65/475_0_4029_3225/master/4029.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0452c019efc4ab3dd7ffd20eed89a9e3">
+        <media:credit scheme="urn:ebu">Photograph: Justin Kase zfivez/Alamy</media:credit>
+      </media:content>
+      <dc:creator>Jillian Ambrose</dc:creator>
+      <dc:date>2026-07-27T11:25:42Z</dc:date>
+    </item>
+    <item>
+      <title>Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation</title>
+      <link>https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence</link>
+      <description>&lt;p&gt;Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO&lt;/p&gt;&lt;p&gt;The boss of the startup hacked by an OpenAI agent has called for the investigation into &lt;a href="https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident"&gt;the incident&lt;/a&gt; to show “radical transparency”.&lt;/p&gt;&lt;p&gt;Clément Delangue, the chief executive of Hugging Face, said the “unprecedented” attack on his business required a similar response.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/openai">OpenAI</category>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/technology/hacking">Hacking</category>
+      <category domain="https://www.theguardian.com/technology/internet">Internet</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/business/technology">Technology sector</category>
       <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
       <category domain="https://www.theguardian.com/world/world">World news</category>
-      <pubDate>Mon, 27 Jul 2026 07:31:53 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/live/2026/jul/27/oil-falls-us-iran-pause-fire-astrazeneca-profit-latest-economy-news</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/eeccd0ad64c2f6bcf800fe56619130a9c35e9916/399_0_3028_2422/master/3028.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54fa7d2dbe8885f3acb5962b98add47f">
-        <media:credit scheme="urn:ebu">Photograph: Reuters</media:credit>
+      <pubDate>Mon, 27 Jul 2026 12:15:03 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/f7019de7e7838e52840723fd951b449c92fc1d86/596_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a4127ecfb471ad11eaa76f223616dd5">
+        <media:credit scheme="urn:ebu">Photograph: Andre M Chang/ZUMA Press Wire/Shutterstock</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/eeccd0ad64c2f6bcf800fe56619130a9c35e9916/399_0_3028_2422/master/3028.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55c1942cdfcaf2c156899ce6f1b24896">
-        <media:credit scheme="urn:ebu">Photograph: Reuters</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/f7019de7e7838e52840723fd951b449c92fc1d86/596_0_4800_3840/master/4800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97ca97de154a3f730d39bdb89b92bee9">
+        <media:credit scheme="urn:ebu">Photograph: Andre M Chang/ZUMA Press Wire/Shutterstock</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/eeccd0ad64c2f6bcf800fe56619130a9c35e9916/399_0_3028_2422/master/3028.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=938b058aa47d3e8818e6d3a95adaca67">
-        <media:credit scheme="urn:ebu">Photograph: Reuters</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/f7019de7e7838e52840723fd951b449c92fc1d86/596_0_4800_3840/master/4800.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4dba37baf83c60bccec0cfc581b5319">
+        <media:credit scheme="urn:ebu">Photograph: Andre M Chang/ZUMA Press Wire/Shutterstock</media:credit>
       </media:content>
-      <dc:creator>Lauren Almeida</dc:creator>
-      <dc:date>2026-07-27T07:31:53Z</dc:date>
+      <dc:creator>Dan Milmo Global technology editor</dc:creator>
+      <dc:date>2026-07-27T12:15:03Z</dc:date>
+    </item>
+    <item>
+      <title>PM urged to uphold climate pledges made as mayor and ban new North Sea oil drilling</title>
+      <link>https://www.theguardian.com/environment/2026/jul/27/burnham-climate-pledge-greater-manchester-mayor-ban-new-north-sea-oil-drilling</link>
+      <description>&lt;p&gt;Experts who helped Burnham draw up Manchester carbon neutral pledge say backtracking would send wrong message amid wildfires and heatwaves&lt;/p&gt;&lt;p&gt;Leading climate scientists who created Greater Manchester’s carbon neutral by 2038 commitment are urging Andy Burnham to unequivocally reject new drilling in the North Sea.&lt;/p&gt;&lt;p&gt;In &lt;a href="https://climateuncensored.com/letter-to-the-pm-about-rosebank-and-jackdaw/"&gt;a letter &lt;/a&gt;to the prime minister they said he, as mayor of Greater Manchester, had unveiled one of the UK’s most &lt;a href="https://www.theguardian.com/uk-news/2019/jun/13/andy-burham-reveals-2038-carbon-target-for-greater-manchester-airport-new-roads-mayor"&gt;ambitious local climate programmes&lt;/a&gt; that tackled housing, green growth and public transport.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/jul/27/burnham-climate-pledge-greater-manchester-mayor-ban-new-north-sea-oil-drilling"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/environment/carbon-emissions">Greenhouse gas emissions</category>
+      <category domain="https://www.theguardian.com/environment/fossil-fuels">Fossil fuels</category>
+      <category domain="https://www.theguardian.com/business/oilandgascompanies">Oil and gas companies</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
+      <category domain="https://www.theguardian.com/uk/manchester">Manchester</category>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
+      <category domain="https://www.theguardian.com/uk/greater-manchester">Greater Manchester</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <pubDate>Mon, 27 Jul 2026 11:01:22 GMT</pubDate>
+      <guid>https://www.theguardian.com/environment/2026/jul/27/burnham-climate-pledge-greater-manchester-mayor-ban-new-north-sea-oil-drilling</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/c0af328bb8a9b2222b3ab3fe9e2a4b0be5fd91cb/1260_0_5723_4579/master/5723.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88c7c4472c58198ed7b863a7c6c9d0d3">
+        <media:credit scheme="urn:ebu">Photograph: Rick Wood Photography/Alamy</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/c0af328bb8a9b2222b3ab3fe9e2a4b0be5fd91cb/1260_0_5723_4579/master/5723.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=83254162d3c647ff8a8765e8c5fb70e9">
+        <media:credit scheme="urn:ebu">Photograph: Rick Wood Photography/Alamy</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/c0af328bb8a9b2222b3ab3fe9e2a4b0be5fd91cb/1260_0_5723_4579/master/5723.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f113fc297bddaabcd041309e4ec45464">
+        <media:credit scheme="urn:ebu">Photograph: Rick Wood Photography/Alamy</media:credit>
+      </media:content>
+      <dc:creator>Sandra Laville</dc:creator>
+      <dc:date>2026-07-27T11:01:22Z</dc:date>
+    </item>
+    <item>
+      <title>AstraZeneca boss urges western drugmakers to move at ‘Chinese speed’</title>
+      <link>https://www.theguardian.com/business/2026/jul/27/astrazeneca-boss-urges-western-drugmakers-to-move-at-chinese-speed</link>
+      <description>&lt;p&gt;Europe and US risk being outpaced on innovation, as happened in the car industry, warns Pascal Soriot&lt;/p&gt;&lt;p&gt;AstraZeneca must operate at “Chinese speed” to ensure it does not suffer the fate of the western automotive industry by losing out to more innovative rivals, the drug company’s boss has said.&lt;/p&gt;&lt;p&gt;The FTSE 100 company is watching the rise of China’s pharmaceutical industry closely and collaborating to take drugs to global markets, but its chief executive, Pascal Soriot, said the US and European pharmaceutical sectors must focus on increasing the speed of innovation.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/astrazeneca-boss-urges-western-drugmakers-to-move-at-chinese-speed"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/astrazeneca">AstraZeneca</category>
+      <category domain="https://www.theguardian.com/business/pharmaceuticals-industry">Pharmaceuticals industry</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/science/drugs">Drugs</category>
+      <category domain="https://www.theguardian.com/science/science">Science</category>
+      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Mon, 27 Jul 2026 12:09:41 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/27/astrazeneca-boss-urges-western-drugmakers-to-move-at-chinese-speed</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/e929f11bd073b52a9ef6d8a54b3aa4a2b8e37d65/1636_0_4068_3255/master/4068.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01c0b8093294ddf27ebb947bdd969663">
+        <media:credit scheme="urn:ebu">Photograph: Kent Nishimura/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/e929f11bd073b52a9ef6d8a54b3aa4a2b8e37d65/1636_0_4068_3255/master/4068.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8de4de738d3789d3c33b9eb2489cdff">
+        <media:credit scheme="urn:ebu">Photograph: Kent Nishimura/Reuters</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/e929f11bd073b52a9ef6d8a54b3aa4a2b8e37d65/1636_0_4068_3255/master/4068.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a79e939429a2c5559b0c84999fb788c7">
+        <media:credit scheme="urn:ebu">Photograph: Kent Nishimura/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Jasper Jolly</dc:creator>
+      <dc:date>2026-07-27T12:09:41Z</dc:date>
+    </item>
+    <item>
+      <title>Hull funeral director broke families’ trust on ‘almost industrial scale’, court hears</title>
+      <link>https://www.theguardian.com/uk-news/2026/jul/27/hull-funeral-director-robert-bush-legacy-broke-families-trust-court-hears</link>
+      <description>&lt;p&gt;Robert Bush, owner of Legacy Independent Funeral Directors, left bodies ‘rotting away’, family members say&lt;/p&gt;&lt;p&gt;A fraudulent funeral director broke the trust of families on an “almost industrial scale” as their loved ones’ bodies were left “rotting away”, a court has heard.&lt;/p&gt;&lt;p&gt;Robert Bush, owner of Legacy Independent Funeral Directors in Hull, appeared at Hull crown court on Monday for a five-day sentencing hearing. He previously pleaded guilty to 67 offences, including 30 counts of preventing lawful and decent burial.&lt;/p&gt; &lt;a href="https://www.theguardian.com/uk-news/2026/jul/27/hull-funeral-director-robert-bush-legacy-broke-families-trust-court-hears"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Mon, 27 Jul 2026 17:30:24 GMT</pubDate>
+      <guid>https://www.theguardian.com/uk-news/2026/jul/27/hull-funeral-director-robert-bush-legacy-broke-families-trust-court-hears</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/ec8de0057de41d92f5597c821debdd05c43cf95e/292_0_3459_2768/master/3459.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45b1c58d95e73ebef8c5359dafea559e">
+        <media:credit scheme="urn:ebu">Photograph: Annabel Lee-Ellis/PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/ec8de0057de41d92f5597c821debdd05c43cf95e/292_0_3459_2768/master/3459.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4a94c8820e5a4c62de8cdb11d3a56a9">
+        <media:credit scheme="urn:ebu">Photograph: Annabel Lee-Ellis/PA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/ec8de0057de41d92f5597c821debdd05c43cf95e/292_0_3459_2768/master/3459.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e82bfe025e6702ef26ad3e71e717242e">
+        <media:credit scheme="urn:ebu">Photograph: Annabel Lee-Ellis/PA</media:credit>
+      </media:content>
+      <dc:creator>Priya Bharadia</dc:creator>
+      <dc:date>2026-07-27T17:30:24Z</dc:date>
+    </item>
+    <item>
+      <title>Liberty embraces sewing boom with craft classes as it expands fabrics section</title>
+      <link>https://www.theguardian.com/business/2026/jul/27/liberty-london-store-expands-fabrics-section-sewing-boom-craft-classes</link>
+      <description>&lt;p&gt;London store also plans bigger haberdashery area, where it will hold autumn workshops for crafters&lt;/p&gt;&lt;p&gt;Liberty has more than doubled the size of its fabrics department as it prepares to embrace the social media interest in sewing by hosting crafting classes this autumn.&lt;/p&gt;&lt;p&gt;Fabric sales rose 11% last year at the central London department store, which opened near Oxford Circus in 1924, and Liberty is expecting a similar pace of growth this year as crafters are joined by wealthy overseas shoppers who stock up on luxury fabrics to be tailored into bespoke outfits in their home countries.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/liberty-london-store-expands-fabrics-section-sewing-boom-craft-classes"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/retail">Retail industry</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/sewing">Sewing</category>
+      <category domain="https://www.theguardian.com/uk/london">London</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/craft">Craft</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/hobbies">Hobbies</category>
+      <category domain="https://www.theguardian.com/media/social-media">Social media</category>
+      <pubDate>Mon, 27 Jul 2026 06:00:32 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/27/liberty-london-store-expands-fabrics-section-sewing-boom-craft-classes</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/802e86dff23e7f1e05a34bab12856f05c0ddb651/840_28_6795_5436/master/6795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e4ca687dd3dab92522699f9b8f262e9">
+        <media:credit scheme="urn:ebu">Photograph: Stephanie O’Callaghan Photography/Liberty</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/802e86dff23e7f1e05a34bab12856f05c0ddb651/840_28_6795_5436/master/6795.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80264636cdb8dee8690a4366c1c9444f">
+        <media:credit scheme="urn:ebu">Photograph: Stephanie O’Callaghan Photography/Liberty</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/802e86dff23e7f1e05a34bab12856f05c0ddb651/840_28_6795_5436/master/6795.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e499991df2fa4242cfc4ff59c0e8f9">
+        <media:credit scheme="urn:ebu">Photograph: Stephanie O’Callaghan Photography/Liberty</media:credit>
+      </media:content>
+      <dc:creator>Sarah Butler</dc:creator>
+      <dc:date>2026-07-27T06:00:32Z</dc:date>
+    </item>
+    <item>
+      <title>GB News pundit Matthew Torbitt pleads guilty to fraud while Labour aide</title>
+      <link>https://www.theguardian.com/media/2026/jul/27/gb-news-pundit-matthew-torbitt-admits-committing-while-labour-aide</link>
+      <description>&lt;p&gt;Torbitt admits to two counts of fraud by false representation in relation to his parliamentary expenses&lt;/p&gt;&lt;p&gt;A GB News pundit has admitted fraud in relation to his parliamentary expenses when he was a Labour aide.&lt;/p&gt;&lt;p&gt;Matthew Torbitt, a prominent political commentator who once described himself as “Britain’s favourite lefty”, pleaded guilty to two counts of fraud by false representation at a hearing at Thames magistrates court on Monday.&lt;/p&gt; &lt;a href="https://www.theguardian.com/media/2026/jul/27/gb-news-pundit-matthew-torbitt-admits-committing-while-labour-aide"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/media/gb-news">GB News</category>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/media/media">Media</category>
+      <pubDate>Mon, 27 Jul 2026 15:54:19 GMT</pubDate>
+      <guid>https://www.theguardian.com/media/2026/jul/27/gb-news-pundit-matthew-torbitt-admits-committing-while-labour-aide</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/6bad58cfab8b277a1c2487c4d42db4a1e887e1b2/283_0_1106_885/master/1106.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d431dc18fa5a04d824a87e041daa90cb">
+        <media:credit scheme="urn:ebu">Photograph: BBC</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/6bad58cfab8b277a1c2487c4d42db4a1e887e1b2/283_0_1106_885/master/1106.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d0bcbf684dc3dc3da12deeca17e8001">
+        <media:credit scheme="urn:ebu">Photograph: BBC</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/6bad58cfab8b277a1c2487c4d42db4a1e887e1b2/283_0_1106_885/master/1106.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=674d71eafd856bab3a6006658c05c7e6">
+        <media:credit scheme="urn:ebu">Photograph: BBC</media:credit>
+      </media:content>
+      <dc:creator>Geraldine McKelvie</dc:creator>
+      <dc:date>2026-07-27T15:54:19Z</dc:date>
     </item>
     <item>
       <title>Heathrow expansion would take thousands of jobs from other UK regions, report finds</title>
@@ -72,195 +251,102 @@
       <dc:date>2026-07-27T04:00:29Z</dc:date>
     </item>
     <item>
-      <title>Andy Burnham vows to use his ‘political capital’ to fix social care system</title>
-      <link>https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system</link>
-      <description>&lt;p&gt;PM says that without rapid action the NHS could effectively collapse, in first full interview since entering No 10&lt;/p&gt;&lt;p&gt;Andy Burnham has promised to use “whatever political capital I have” to finally fix the crumbling social care system in England, saying that without rapid action the NHS could effectively collapse.&lt;/p&gt;&lt;p&gt;In his first full interview since becoming prime minister last week, Burnham said he could not put a timetable on the arrival of a new system for social care but that its creation would take time.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system"&gt;Continue reading...&lt;/a&gt;</description>
+      <title>Private equity finds soft takeover targets in London – yet again | Nils Pratley</title>
+      <link>https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/27/private-equity-finds-soft-takeover-targets-in-london-dcc-energy-ftse-100</link>
+      <description>&lt;p&gt;Offer for DCC Energy leaves total of completed or agreed deals within FTSE 100 this year at five, but has Westminster noticed?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/2026/jul/27/dcc-energy-private-equity-takeover-ftse-100-kkr-energy-capital-partners"&gt;DCC, one of FTSE 100’s biggest energy firms, agrees £5.75bn takeover&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;And another one goes. Dublin-based &lt;a href="https://www.theguardian.com/business/2026/jul/27/dcc-energy-private-equity-takeover-ftse-100-kkr-energy-capital-partners"&gt;DCC Energy&lt;/a&gt; is a lower-profile member of the FTSE 100, but they all count. We’re now at five completed or agreed takeovers within London’s leading index this year – and it’s still only July.&lt;/p&gt;&lt;p&gt;The subplot at DCC was vocal opposition from a few shareholders who thought the private equity groups KKR and Energy Capital Partners, a unit of Bridgepoint, should be paying more than the &lt;a href="https://www.theguardian.com/business/2026/jul/27/dcc-energy-private-equity-takeover-ftse-100-kkr-energy-capital-partners"&gt;£5.75bn, or £65.25 a share&lt;/a&gt;, at which the board has rolled over. Fidelity International and Aviva Investors were to the fore, as well as DCC’s founder.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/27/private-equity-finds-soft-takeover-targets-in-london-dcc-energy-ftse-100"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/ftse">FTSE</category>
+      <category domain="https://www.theguardian.com/business/privateequity">Private equity</category>
+      <category domain="https://www.theguardian.com/business/mergers-and-acquisitions">Mergers and acquisitions</category>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
+      <category domain="https://www.theguardian.com/business/stock-markets">Stock markets</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Mon, 27 Jul 2026 17:11:31 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/nils-pratley-on-finance/2026/jul/27/private-equity-finds-soft-takeover-targets-in-london-dcc-energy-ftse-100</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/c2c624fbf4629ca1dfd45631da2172847b381f20/994_481_3689_2953/master/3689.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e1b3cfde9367f9aadef6b046aa18f58">
+        <media:credit scheme="urn:ebu">Photograph: David Creedon/Alamy Stock Photo/Alamy Live News.</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/c2c624fbf4629ca1dfd45631da2172847b381f20/994_481_3689_2953/master/3689.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18b8a5a71ed58de5cffe35cfc9d88c3d">
+        <media:credit scheme="urn:ebu">Photograph: David Creedon/Alamy Stock Photo/Alamy Live News.</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/c2c624fbf4629ca1dfd45631da2172847b381f20/994_481_3689_2953/master/3689.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32473014363498d54b0860f2a1a2dd9b">
+        <media:credit scheme="urn:ebu">Photograph: David Creedon/Alamy Stock Photo/Alamy Live News.</media:credit>
+      </media:content>
+      <dc:creator>Nils Pratley</dc:creator>
+      <dc:date>2026-07-27T17:11:31Z</dc:date>
+    </item>
+    <item>
+      <title>Tariffs are Trump’s favorite plaything – and his justifications are absurd | Steven Greenhouse</title>
+      <link>https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd</link>
+      <description>&lt;p&gt;The president is using forced labor as a pretext to slap tariffs on countries around the world&lt;/p&gt;&lt;p&gt;With the midterm elections less than four months away, it’s a precarious time for Donald Trump and Republicans: Trump’s war against Iran is going badly, his &lt;a href="https://www.washingtonpost.com/politics/2026/07/16/trump-approval-stuck-30s-post-ipsos-poll-shows/"&gt;approval ratings are in the toilet&lt;/a&gt;, gas prices are soaring and pushing up inflation, and nation after nation is furious about Trump’s insults, bullying and &lt;a href="https://www.theguardian.com/commentisfree/2025/nov/10/donald-trump-ugly-american"&gt;ugly American unilateralism&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;So amid all this mess, what does Trump do? He turns to his favorite economic plaything: tariffs. On Monday, Trump signed orders to slap a &lt;a href="https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html"&gt;50% tariff on many Canadian goods&lt;/a&gt;, and four days later, he imposed &lt;a href="https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs"&gt;across-the-board 10% or 12.5% tariffs&lt;/a&gt; on goods from more than 80 countries. Trump was no doubt thumping his chest, while millions of people overseas were dumping on him for yet another unnecessary, hostile act.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/us-news/trump-tariffs">Trump tariffs</category>
+      <category domain="https://www.theguardian.com/business/tariffs">Tariffs</category>
+      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
+      <category domain="https://www.theguardian.com/us-news/us-foreign-policy">US foreign policy</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/world/canada">Canada</category>
+      <pubDate>Mon, 27 Jul 2026 14:00:11 GMT</pubDate>
+      <guid>https://www.theguardian.com/commentisfree/2026/jul/27/tariffs-are-trumps-favorite-plaything-and-his-justifications-are-absurd</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/a312a19904b3254dc8f4518a2aab7603b6ba5d11/0_0_4167_3333/master/4167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6088276259d521fe9b3f9d8abcd1872b">
+        <media:credit scheme="urn:ebu">Photograph: Carlos Barría/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/a312a19904b3254dc8f4518a2aab7603b6ba5d11/0_0_4167_3333/master/4167.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=42625c08750d33fb1cc5b835b2b03220">
+        <media:credit scheme="urn:ebu">Photograph: Carlos Barría/Reuters</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/a312a19904b3254dc8f4518a2aab7603b6ba5d11/0_0_4167_3333/master/4167.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01d9e132eef999f6d40097fc162e1bba">
+        <media:credit scheme="urn:ebu">Photograph: Carlos Barría/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Steven Greenhouse</dc:creator>
+      <dc:date>2026-07-27T14:00:11Z</dc:date>
+    </item>
+    <item>
+      <title>The US agency that fights workplace discrimination just voted to stop measuring it | Jamil Smith</title>
+      <link>https://www.theguardian.com/commentisfree/2026/jul/27/discrimination-eeoc-trump</link>
+      <description>&lt;p&gt;Republicans have moved to dismantle a 60-year-old demographic reporting system. Now the agency wants to choose what it sees&lt;/p&gt;&lt;p&gt;Workplace discrimination isolates. When a Black manager is passed over for a promotion, or a pregnant worker is quietly sidelined, they are left with a polite excuse and a lingering suspicion. They cannot see the company-wide spreadsheet. They cannot know if others are hitting the same invisible wall. For 60 years, the Equal Employment Opportunity Commission has kept a spreadsheet of its own: an annual demographic snapshot compiled from employer reports. That nationwide record lets the agency see beyond any one complaint.&lt;/p&gt;&lt;p&gt;Last Tuesday, however, the EEOC’s Republican majority &lt;a href="https://apnews.com/article/eeoc-discrimination-dei-andrea-lucas-2f521d784a9d0376416499066dc9f178"&gt;voted 2–1&lt;/a&gt; to begin dismantling that reporting system. Two days later, the proposal &lt;a href="https://www.federalregister.gov/documents/2026/07/23/2026-14937/removal-of-reporting-requirements"&gt;entered the Federal Register&lt;/a&gt;, arguing that requiring employers to classify workers by race and sex may itself violate the constitutional guarantee of equal protection. The rule is not final: comments are due on 24 August, and a hearing is set for 11 August.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/jul/27/discrimination-eeoc-trump"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/world/race">Race</category>
+      <category domain="https://www.theguardian.com/world/gender">Gender</category>
+      <category domain="https://www.theguardian.com/us-news/republicans">Republicans</category>
+      <pubDate>Mon, 27 Jul 2026 12:00:09 GMT</pubDate>
+      <guid>https://www.theguardian.com/commentisfree/2026/jul/27/discrimination-eeoc-trump</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/1f3c99b7baa71a652cbaded7ce02e907c22dca9f/163_0_1633_1306/master/1633.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2de395c9bd7d854e34d131deb6d14197">
+        <media:credit scheme="urn:ebu">Photograph: Mariam Zuhaib/AP</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/1f3c99b7baa71a652cbaded7ce02e907c22dca9f/163_0_1633_1306/master/1633.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf005e58646fe6acee2353cd83dc250c">
+        <media:credit scheme="urn:ebu">Photograph: Mariam Zuhaib/AP</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/1f3c99b7baa71a652cbaded7ce02e907c22dca9f/163_0_1633_1306/master/1633.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7394e004a0ebf321218eb2a9fc910119">
+        <media:credit scheme="urn:ebu">Photograph: Mariam Zuhaib/AP</media:credit>
+      </media:content>
+      <dc:creator>Jamil Smith</dc:creator>
+      <dc:date>2026-07-27T12:00:09Z</dc:date>
+    </item>
+    <item>
+      <title>Social care reform in England: how could we pay to fix a ‘broken system’?</title>
+      <link>https://www.theguardian.com/society/2026/jul/27/social-care-reform-in-england-how-could-we-pay-to-fix-a-broken-system</link>
+      <description>&lt;p&gt;Many across the political spectrum agree the system needs fixing – but there is no consensus on how to fund reform&lt;/p&gt;&lt;p&gt;The prime minister, Andy Burnham, has said the adult social care system in England is broken and needs fixing. This is a view commonly shared by policymakers across the political spectrum, though there are sharper differences on how to pay for reform to what is widely seen as an outdated, fragile system held together by &lt;a href="https://www.theguardian.com/society/2026/mar/06/louise-casey-englands-social-care-system-faces-moment-of-reckoning"&gt;“sticking plasters and glue”&lt;/a&gt; and propped up by an army of unpaid carers.&lt;/p&gt;&lt;p&gt;Burnham previously headed an earlier unsuccessful legislative attempt to reform English adult social care while secretary of state for health in 2010 (it was brought low by Tory claims it would be funded through a “death tax”). He acknowledges it could be a long and costly process but said he won’t flinch from big policy decisions and is prepared to “expend a lot of political capital” on his ambitions.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2026/jul/27/social-care-reform-in-england-how-could-we-pay-to-fix-a-broken-system"&gt;Continue reading...&lt;/a&gt;</description>
       <category domain="https://www.theguardian.com/society/social-care">Social care</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/uk-news/england">England</category>
       <category domain="https://www.theguardian.com/politics/andyburnham">Andy Burnham</category>
-      <category domain="https://www.theguardian.com/politics/health">Health policy</category>
-      <category domain="https://www.theguardian.com/society/nhs">NHS</category>
-      <category domain="https://www.theguardian.com/politics/welfare">Welfare</category>
-      <category domain="https://www.theguardian.com/society/benefits">Benefits</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
       <category domain="https://www.theguardian.com/society/society">Society</category>
       <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/society/health">Health</category>
-      <pubDate>Mon, 27 Jul 2026 06:50:18 GMT</pubDate>
-      <guid>https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/1d7d00a6b9cb560f4f8521a00469a9b3738251e8/250_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dae6802aaac64daed0ed6c4ac7ea9bc8">
-        <media:credit scheme="urn:ebu">Photograph: Jeff Overs/Reuters</media:credit>
+      <pubDate>Mon, 27 Jul 2026 17:55:16 GMT</pubDate>
+      <guid>https://www.theguardian.com/society/2026/jul/27/social-care-reform-in-england-how-could-we-pay-to-fix-a-broken-system</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/fc101da31ee06e06b6887cb2e31abb55f99139bf/604_93_1301_1041/master/1301.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4aa5eaad07292c87cc631ccb95f126de">
+        <media:credit scheme="urn:ebu">Photograph: Jason Alden/EPA</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/1d7d00a6b9cb560f4f8521a00469a9b3738251e8/250_0_2501_2000/master/2501.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93a4848cb616e8e4b0fd8b1c49fb29dc">
-        <media:credit scheme="urn:ebu">Photograph: Jeff Overs/Reuters</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/fc101da31ee06e06b6887cb2e31abb55f99139bf/604_93_1301_1041/master/1301.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3041d89fe49621e0db3a576d1e17ce44">
+        <media:credit scheme="urn:ebu">Photograph: Jason Alden/EPA</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/1d7d00a6b9cb560f4f8521a00469a9b3738251e8/250_0_2501_2000/master/2501.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32bf4fb9a965b667a6fb3bda07a941bd">
-        <media:credit scheme="urn:ebu">Photograph: Jeff Overs/Reuters</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/fc101da31ee06e06b6887cb2e31abb55f99139bf/604_93_1301_1041/master/1301.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=312283f1a7b748d6c5bba83ad20f6ee2">
+        <media:credit scheme="urn:ebu">Photograph: Jason Alden/EPA</media:credit>
       </media:content>
-      <dc:creator>Peter Walker Senior political correspondent</dc:creator>
-      <dc:date>2026-07-27T06:50:18Z</dc:date>
-    </item>
-    <item>
-      <title>Liberty embraces sewing boom with craft classes as it expands fabrics section</title>
-      <link>https://www.theguardian.com/business/2026/jul/27/liberty-london-store-expands-fabrics-section-sewing-boom-craft-classes</link>
-      <description>&lt;p&gt;London store also plans bigger haberdashery area, where it will hold autumn workshops for crafters&lt;/p&gt;&lt;p&gt;Liberty has more than doubled the size of its fabrics department as it prepares to embrace the social media interest in sewing by hosting crafting classes this autumn.&lt;/p&gt;&lt;p&gt;Fabric sales rose 11% last year at the central London department store, which opened near Oxford Circus in 1924, and Liberty is expecting a similar pace of growth this year as crafters are joined by wealthy overseas shoppers who stock up on luxury fabrics to be tailored into bespoke outfits in their home countries.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/liberty-london-store-expands-fabrics-section-sewing-boom-craft-classes"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/retail">Retail industry</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/sewing">Sewing</category>
-      <category domain="https://www.theguardian.com/uk/london">London</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/craft">Craft</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/hobbies">Hobbies</category>
-      <category domain="https://www.theguardian.com/media/social-media">Social media</category>
-      <pubDate>Mon, 27 Jul 2026 06:00:32 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/27/liberty-london-store-expands-fabrics-section-sewing-boom-craft-classes</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/802e86dff23e7f1e05a34bab12856f05c0ddb651/840_28_6795_5436/master/6795.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e4ca687dd3dab92522699f9b8f262e9">
-        <media:credit scheme="urn:ebu">Photograph: Stephanie O’Callaghan Photography/Liberty</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/802e86dff23e7f1e05a34bab12856f05c0ddb651/840_28_6795_5436/master/6795.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=80264636cdb8dee8690a4366c1c9444f">
-        <media:credit scheme="urn:ebu">Photograph: Stephanie O’Callaghan Photography/Liberty</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/802e86dff23e7f1e05a34bab12856f05c0ddb651/840_28_6795_5436/master/6795.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e499991df2fa4242cfc4ff59c0e8f9">
-        <media:credit scheme="urn:ebu">Photograph: Stephanie O’Callaghan Photography/Liberty</media:credit>
-      </media:content>
-      <dc:creator>Sarah Butler</dc:creator>
-      <dc:date>2026-07-27T06:00:32Z</dc:date>
-    </item>
-    <item>
-      <title>Rising oil prices could force up UK interest rates, say economists</title>
-      <link>https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists</link>
-      <description>&lt;p&gt;Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/bankofenglandgovernor"&gt;The Bank of England&lt;/a&gt; could be forced to tear up its economic forecasts and raise interest rates later this year if oil prices return to above $100 a barrel, according to City economists.&lt;/p&gt;&lt;p&gt;Before a meeting of Bank officials on Thursday, economists said that while an interest rate hike would probably be avoided this week there could be some in the future because of conflict in the Middle East.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/interest-rates">Interest rates</category>
-      <category domain="https://www.theguardian.com/business/bankofenglandgovernor">Bank of England</category>
-      <category domain="https://www.theguardian.com/business/inflation">Inflation</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/world/us-israel-war-on-iran">US-Israel war on Iran</category>
-      <category domain="https://www.theguardian.com/business/economics">Economics</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/business/oil">Oil</category>
-      <category domain="https://www.theguardian.com/business/commodities">Commodities</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <pubDate>Sun, 26 Jul 2026 23:01:23 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/ef3ca56eebf76168582573c40aa38881323f3834/293_0_2915_2331/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=978e5ae591f852c4a1e43c9ce77fa5fd">
-        <media:credit scheme="urn:ebu">Photograph: US Central Command (CENTCOM)/AFP/Getty Images</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/ef3ca56eebf76168582573c40aa38881323f3834/293_0_2915_2331/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a609eb4135dcea286e983ea5f0f5c3ca">
-        <media:credit scheme="urn:ebu">Photograph: US Central Command (CENTCOM)/AFP/Getty Images</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/ef3ca56eebf76168582573c40aa38881323f3834/293_0_2915_2331/master/2915.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cdf75ff30c21ac687d8feea828593f2">
-        <media:credit scheme="urn:ebu">Photograph: US Central Command (CENTCOM)/AFP/Getty Images</media:credit>
-      </media:content>
-      <dc:creator>Phillip Inman</dc:creator>
-      <dc:date>2026-07-26T23:01:23Z</dc:date>
-    </item>
-    <item>
-      <title>Ed Miliband indicates development and climate will be at heart of UK foreign policy</title>
-      <link>https://www.theguardian.com/business/2026/jul/26/ed-miliband-development-climate-crisis-uk-foreign-policy-world-bank-seat</link>
-      <description>&lt;p&gt;Exclusive: Foreign secretary to take up World Bank seat and play active role in shaping changes to global lender &lt;/p&gt;&lt;p&gt;Britain’s foreign secretary, Ed Miliband, is to indicate he will put the climate crisis and overseas development at the heart of UK international relations by taking up the country’s seat on the board at the World Bank.&lt;/p&gt;&lt;p&gt;The position, which is usually delegated to a junior minister, means Miliband will play an active role in shaping the changes to the World Bank that developing countries have called for, and ensuring the climate remains a core focus for overseas aid.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/26/ed-miliband-development-climate-crisis-uk-foreign-policy-world-bank-seat"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/worldbank">World Bank</category>
-      <category domain="https://www.theguardian.com/global-development/climate-finance">Climate finance</category>
-      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
-      <category domain="https://www.theguardian.com/politics/edmiliband">Ed Miliband</category>
-      <category domain="https://www.theguardian.com/global-development/global-development">Global development</category>
-      <category domain="https://www.theguardian.com/politics/foreignpolicy">Foreign policy</category>
-      <category domain="https://www.theguardian.com/global-development/aid">Aid</category>
-      <category domain="https://www.theguardian.com/world/world">World news</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/society/society">Society</category>
-      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
-      <category domain="https://www.theguardian.com/business/global-economy">Global economy</category>
-      <category domain="https://www.theguardian.com/world/debt-relief">Debt relief</category>
-      <pubDate>Sun, 26 Jul 2026 16:00:15 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/26/ed-miliband-development-climate-crisis-uk-foreign-policy-world-bank-seat</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/e39d05de3405616eae6dff2d7ce984d7d376d880/131_0_1833_1467/master/1833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=689e3c5e785320c6d04f329295d1617a">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy Stock Photo/Alamy Live News.</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/e39d05de3405616eae6dff2d7ce984d7d376d880/131_0_1833_1467/master/1833.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1a2faaeb24d069cc18845d4d15403b81">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy Stock Photo/Alamy Live News.</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/e39d05de3405616eae6dff2d7ce984d7d376d880/131_0_1833_1467/master/1833.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e250f41ca71122cea5fea1ca343d3eca">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy Stock Photo/Alamy Live News.</media:credit>
-      </media:content>
-      <dc:creator>Fiona Harvey Environment editor</dc:creator>
-      <dc:date>2026-07-26T16:00:15Z</dc:date>
-    </item>
-    <item>
-      <title>‘Weekday games were amazing’: pubs toast extra £150m in World Cup sales</title>
-      <link>https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football</link>
-      <description>&lt;p&gt;England’s progress provides best football-related uplift of recent years, with one pub too packed to host its Dolly Parton tribute&lt;/p&gt;&lt;p&gt;Late opening hours and England’s progress to the semi-final of an expanded World Cup helped provide the best football-related uplift of recent years for pubs, figures suggest.&lt;/p&gt;&lt;p&gt;Pubs poured 30m extra pints over the course of the tournament compared with a normal trading period, with busy pumps delivering £150m in added sales, according to the British Beer &amp;amp; Pubs Association (BBPA).&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/hospitality-industry">Hospitality industry</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/pubs">Pubs</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/lifeandstyle">Life and style</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/football/world-cup-2026">World Cup 2026</category>
-      <category domain="https://www.theguardian.com/football/football">Football</category>
-      <category domain="https://www.theguardian.com/sport/sport">Sport</category>
-      <pubDate>Sun, 26 Jul 2026 08:00:05 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/6d6c24c0d6ed6d8d1eee20ff457df2f5ff079745/0_0_3887_3110/master/3887.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bfa4f5e98958341cb033d713c2f35d2">
-        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/AFP/Getty Images</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/6d6c24c0d6ed6d8d1eee20ff457df2f5ff079745/0_0_3887_3110/master/3887.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9380a19e827fbcddebb5919eb2220b1c">
-        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/AFP/Getty Images</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/6d6c24c0d6ed6d8d1eee20ff457df2f5ff079745/0_0_3887_3110/master/3887.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=145c0af226b8213ad1c3b1462806f34e">
-        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/AFP/Getty Images</media:credit>
-      </media:content>
-      <dc:creator>Rob Davies</dc:creator>
-      <dc:date>2026-07-26T08:00:05Z</dc:date>
-    </item>
-    <item>
-      <title>Gary Stevenson to quit YouTube channel, citing health concerns</title>
-      <link>https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics</link>
-      <description>&lt;p&gt;Former City trader’s weekly Gary’s Economics videos took off during the Covid pandemic&lt;/p&gt;&lt;p&gt;The City trader turned wealth tax campaigner Gary Stevenson has announced he is quitting the YouTube channel that made his name, citing health concerns.&lt;/p&gt;&lt;p&gt;His announcement, in a 48-minute address to camera, came after a mixed reaction to a televised documentary that brought him to a wider audience but drew some scepticism from left-leaning tax experts as well as more rightwing critics.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/economics">Economics</category>
-      <category domain="https://www.theguardian.com/technology/youtube">YouTube</category>
-      <category domain="https://www.theguardian.com/business/banking">Banking</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
-      <pubDate>Sun, 26 Jul 2026 16:11:45 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/d8d85dcd674d211105782e035ff263c733042739/0_1580_4480_3584/master/4480.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78bd406350ebd171c032f452d09abf66">
-        <media:credit scheme="urn:ebu">Photograph: Alicia Canter/The Guardian</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/d8d85dcd674d211105782e035ff263c733042739/0_1580_4480_3584/master/4480.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cacaf94e696471abe4f4eb3318f4f10e">
-        <media:credit scheme="urn:ebu">Photograph: Alicia Canter/The Guardian</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/d8d85dcd674d211105782e035ff263c733042739/0_1580_4480_3584/master/4480.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92de968f4b8bbee2e234048902c99dde">
-        <media:credit scheme="urn:ebu">Photograph: Alicia Canter/The Guardian</media:credit>
-      </media:content>
-      <dc:creator>Gwyn Topham</dc:creator>
-      <dc:date>2026-07-26T16:11:45Z</dc:date>
-    </item>
-    <item>
-      <title>Family of former Vodafone manager found drowned call for ‘Adrian’s law’ to protect franchisees</title>
-      <link>https://www.theguardian.com/business/2026/jul/26/vodafone-adrian-howe-adrians-law-protect-franchisees</link>
-      <description>&lt;p&gt;Adrian Howe’s family believe that fears his deal would be financially ruinous led him to kill himself&lt;/p&gt;&lt;p&gt;The family of a former mobile phone store manager who was found drowned days before his new Vodafone franchise was to open its doors is pressing the government to introduce a new franchising law in his name.&lt;/p&gt;&lt;p&gt;The call comes a week after Vodafone &lt;a href="https://www.theguardian.com/business/2026/jul/16/vodafone-settles-legal-claim-brought-by-62-former-franchisees"&gt;settled a long-running legal claim&lt;/a&gt; filed by 62 of its former franchisees who alleged that the company “unjustly enriched” itself at their expense by up to £85m.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/26/vodafone-adrian-howe-adrians-law-protect-franchisees"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/vodafonegroup">Vodafone</category>
-      <category domain="https://www.theguardian.com/law/law">Law</category>
-      <category domain="https://www.theguardian.com/business/retail">Retail industry</category>
-      <category domain="https://www.theguardian.com/uk/scotland">Scotland</category>
-      <category domain="https://www.theguardian.com/society/mental-health">Mental health</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/business/telecoms">Telecommunications industry</category>
-      <category domain="https://www.theguardian.com/society/health">Health</category>
-      <category domain="https://www.theguardian.com/society/society">Society</category>
-      <pubDate>Sun, 26 Jul 2026 06:00:03 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/26/vodafone-adrian-howe-adrians-law-protect-franchisees</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/5d45feba6ef30c1b8eb74f7804cd185805112347/0_0_3750_3002/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8eed80098a06ec83d5f6e89008651e63">
-        <media:credit scheme="urn:ebu">Photograph: Mark Waugh/The Guardian</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/5d45feba6ef30c1b8eb74f7804cd185805112347/0_0_3750_3002/master/3750.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b8388dffb47fb2fd3de7ae0ae39362a">
-        <media:credit scheme="urn:ebu">Photograph: Mark Waugh/The Guardian</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/5d45feba6ef30c1b8eb74f7804cd185805112347/0_0_3750_3002/master/3750.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=393b3c863a781224d2303b2639379667">
-        <media:credit scheme="urn:ebu">Photograph: Mark Waugh/The Guardian</media:credit>
-      </media:content>
-      <dc:creator>Simon Goodley</dc:creator>
-      <dc:date>2026-07-26T06:00:03Z</dc:date>
+      <dc:creator>Patrick Butler Social policy editor</dc:creator>
+      <dc:date>2026-07-27T17:55:16Z</dc:date>
     </item>
     <item>
       <title>‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington</title>
@@ -288,6 +374,31 @@
       </media:content>
       <dc:creator>Richard Partington</dc:creator>
       <dc:date>2026-07-26T11:34:30Z</dc:date>
+    </item>
+    <item>
+      <title>No, Centrica, customers don’t prefer bots to humans | Letter</title>
+      <link>https://www.theguardian.com/business/2026/jul/27/no-centrica-customers-dont-prefer-bots-to-humans</link>
+      <description>&lt;p&gt;&lt;strong&gt;Charles MacKinnon&lt;/strong&gt; disagrees with the British Gas owner’s justification for cutting 1,300 jobs&lt;/p&gt;&lt;p&gt;According to Centrica’s boss, Chris O’Shea, most people using British Gas prefer to talk to a chatbot rather than a person (&lt;a href="https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss"&gt;Customers prefer AI chatbots, says British Gas owner as 1,300 call centre and back office jobs axed, 23 July&lt;/a&gt;).&lt;/p&gt;&lt;p&gt;He says that 90% of his customers prefer to use digital channels than speak to a person in the first instance, and that the number of customer calls has fallen by 20%. Well, this is hardly surprising, given the difficulty of getting through to a real person. Finding a telephone number to do so is a challenge in itself, and then there are all the layers of numbers and deflections to encourage use of the digital channels while you are kept on hold at your own cost before you can get to an employee.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/no-centrica-customers-dont-prefer-bots-to-humans"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/centrica">Centrica</category>
+      <category domain="https://www.theguardian.com/technology/chatbots">Chatbots</category>
+      <category domain="https://www.theguardian.com/business/utilities">Utilities</category>
+      <category domain="https://www.theguardian.com/business/job-losses">Job losses</category>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <pubDate>Mon, 27 Jul 2026 16:47:22 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/27/no-centrica-customers-dont-prefer-bots-to-humans</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/c319a896b9bf33b8b273e14a2ea3b622ea4375cb/39_0_3358_2688/master/3358.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea1df0e56ea7a16cdd6e4f02a6084a5a">
+        <media:credit scheme="urn:ebu">Photograph: Charles Taylor/Alamy</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/c319a896b9bf33b8b273e14a2ea3b622ea4375cb/39_0_3358_2688/master/3358.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6536d4c33857c2396b1684d972b11e2">
+        <media:credit scheme="urn:ebu">Photograph: Charles Taylor/Alamy</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/c319a896b9bf33b8b273e14a2ea3b622ea4375cb/39_0_3358_2688/master/3358.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48f7c548087458cac4c58a4d14ee9a29">
+        <media:credit scheme="urn:ebu">Photograph: Charles Taylor/Alamy</media:credit>
+      </media:content>
+      <dc:creator>Guardian Staff</dc:creator>
+      <dc:date>2026-07-27T16:47:22Z</dc:date>
     </item>
     <item>
       <title>From the strait of Hormuz to the North Sea, a global maritime war rages around us – and more than the price of oil is at stake | Simon Tisdall</title>
@@ -318,37 +429,7 @@
       <dc:date>2026-07-26T11:09:27Z</dc:date>
     </item>
     <item>
-      <title>Professional classes stand in way of tax on the super-rich | Phillip Inman</title>
-      <link>https://www.theguardian.com/politics/2026/jul/25/andy-burnham-tax-super-rich-gen-x-baby-boomers-professional-class</link>
-      <description>&lt;p&gt;If the prime minister wants to make the system fairer he will need to upset the professional classes with a land value tax&lt;/p&gt;&lt;p&gt;The professional classes act like a Praetorian Guard for the super-rich.&lt;/p&gt;&lt;p&gt;Having acquired some of the trappings of being rich, they defend the privileges of wealth – land, property and pensions. They do this as if they – company managers, lawyers, doctors, judges, senior civil servants, architects and chartered this and thats – were the main beneficiaries.&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/2026/jul/25/andy-burnham-tax-super-rich-gen-x-baby-boomers-professional-class"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/politics/taxandspending">Tax and spending</category>
-      <category domain="https://www.theguardian.com/business/economicgrowth">Economic growth (GDP)</category>
-      <category domain="https://www.theguardian.com/politics/andyburnham">Andy Burnham</category>
-      <category domain="https://www.theguardian.com/politics/economy">Economic policy</category>
-      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
-      <category domain="https://www.theguardian.com/money/capitalgainstax">Capital gains tax</category>
-      <category domain="https://www.theguardian.com/money/incometax">Income tax</category>
-      <category domain="https://www.theguardian.com/money/counciltax">Council tax</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/money/stampduty">Stamp duty</category>
-      <category domain="https://www.theguardian.com/news/the-super-rich">The super-rich</category>
-      <pubDate>Sat, 25 Jul 2026 15:00:45 GMT</pubDate>
-      <guid>https://www.theguardian.com/politics/2026/jul/25/andy-burnham-tax-super-rich-gen-x-baby-boomers-professional-class</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/b25b1f1a12618d3e82a65447ff31706d9ee218c3/426_0_4800_3840/master/4800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d7da91756d7f4a3efd295c15477b444d">
-        <media:credit scheme="urn:ebu">Photograph: Ashley Cooper/Alamy</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/b25b1f1a12618d3e82a65447ff31706d9ee218c3/426_0_4800_3840/master/4800.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b8c1cce5d52b31181b630af1883f44af">
-        <media:credit scheme="urn:ebu">Photograph: Ashley Cooper/Alamy</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/b25b1f1a12618d3e82a65447ff31706d9ee218c3/426_0_4800_3840/master/4800.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f7e7da3a9c6634b55d1e3e73aab2c0a">
-        <media:credit scheme="urn:ebu">Photograph: Ashley Cooper/Alamy</media:credit>
-      </media:content>
-      <dc:creator>Phillip Inman</dc:creator>
-      <dc:date>2026-07-25T15:00:45Z</dc:date>
-    </item>
-    <item>
-      <title>Corporate America may be using AI to cut jobs, but small businesses are using it to keep them</title>
+      <title>Corporate America may be using AI to cut jobs, but small businesses are using it to keep them | Gene Marks</title>
       <link>https://www.theguardian.com/business/2026/jul/26/small-businesses-ai</link>
       <description>&lt;p&gt;Reports of wide-scale replacement of workers by AI are overblown. Small businesses use it to help workers&lt;/p&gt;&lt;p&gt;I recently met the owner of a company that sells windows and doors. He told me he invested about $10,000 in an &lt;a href="https://www.theguardian.com/technology/artificialintelligenceai"&gt;AI&lt;/a&gt; application that is used by his salespeople in his showroom. The application listens to the conversations between the salesperson and the prospective customer and then automatically creates a quote for the salesperson to review and send.&lt;/p&gt;&lt;p&gt;“It allows my salespeople to talk to more customers and spend less time doing paperwork,” he said. “And it cuts down on errors.”&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/26/small-businesses-ai"&gt;Continue reading...&lt;/a&gt;</description>
       <category domain="https://www.theguardian.com/business/us-small-business">US small business</category>
@@ -373,261 +454,159 @@
       <dc:date>2026-07-26T12:00:11Z</dc:date>
     </item>
     <item>
-      <title>Always remember how Macquarie built its millionaires on outrageous tolls and charges | John Quiggin</title>
-      <link>https://www.theguardian.com/commentisfree/2026/jul/26/always-remember-how-macquarie-built-its-millionaires-on-outrageous-tolls-and-charges</link>
-      <description>&lt;p&gt;As Shemara Wikramanayake retires with shares worth hundreds of millions, the public is left counting the cost of high prices for utilities, roads and airports&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/politics/blog/live/2026/jul/26/australia-news-live-politics-pauline-hanson-ed-husic-anthony-albanese-labor-party-conference-bird-flu-ntwnfb"&gt;Follow our Australia news live blog for latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The recent retirement of the Macquarie Group CEO, Shemara Wikramanayake, marks the culmination of a highly successful career. She is leaving the company with shares worth hundreds of millions of dollars after nearly 40 years at the Sydney-based institution. Under her leadership, the “millionaires’ factory” has increased its annual revenue by about 80% and nearly doubled its profit.&lt;/p&gt;&lt;p&gt;Wikramanayake has also overseen and consolidated the group’s transition from a firm specialising in privatised infrastructure to a global merchant bank earning profits from commodity trading, specialist asset finance and wealth management.&lt;/p&gt;&lt;p&gt;Its demise is also the consequence of the relentless application of a neo-liberal political philosophy that for years has elevated financial engineering above real engineering; off-balance-sheet finance above paying for things openly; and lauded the private sector above the public sector.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/jul/26/always-remember-how-macquarie-built-its-millionaires-on-outrageous-tolls-and-charges"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/australia-news/banking">Banking</category>
-      <category domain="https://www.theguardian.com/business/australia-economy">Australian economy</category>
-      <category domain="https://www.theguardian.com/business/thames-water">Thames Water</category>
-      <category domain="https://www.theguardian.com/business/qantas">Qantas</category>
-      <category domain="https://www.theguardian.com/business/telstra">Telstra</category>
-      <pubDate>Sun, 26 Jul 2026 00:00:56 GMT</pubDate>
-      <guid>https://www.theguardian.com/commentisfree/2026/jul/26/always-remember-how-macquarie-built-its-millionaires-on-outrageous-tolls-and-charges</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/3de213e13a016fcd44545774a87a90d1d2fe1c27/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=510915e84d72ccecb235c698c184287c">
-        <media:credit scheme="urn:ebu">Photograph: Hollie Adams/Reuters</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/3de213e13a016fcd44545774a87a90d1d2fe1c27/500_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc945188657d8a40555e1abf1c444550">
-        <media:credit scheme="urn:ebu">Photograph: Hollie Adams/Reuters</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/3de213e13a016fcd44545774a87a90d1d2fe1c27/500_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6165ca6303245a41f65e5949524d93f9">
-        <media:credit scheme="urn:ebu">Photograph: Hollie Adams/Reuters</media:credit>
-      </media:content>
-      <dc:creator>John Quiggin</dc:creator>
-      <dc:date>2026-07-26T00:00:56Z</dc:date>
-    </item>
-    <item>
-      <title>Blame privatised water firms for hosepipe bans | Lettters</title>
-      <link>https://www.theguardian.com/business/2026/jul/26/blame-privatised-water-firms-for-hosepipe-bans</link>
-      <description>&lt;p&gt;&lt;strong&gt;Gillian Metheringham&lt;/strong&gt;, &lt;strong&gt;Dr Gillian Austen&lt;/strong&gt; and others respond to articles about water shortages in the UK and the high and rising pay of water industry bosses&lt;/p&gt;&lt;p&gt;I was dismayed, when reading your article about hosepipe bans leading to culture wars (&lt;a href="https://www.theguardian.com/environment/2026/jul/23/how-hosepipe-ban-got-caught-up-in-culture-war"&gt;‘People are scared their neighbours will call the police on them’: how the hosepipe ban got caught up in the culture wars, 23 July&lt;/a&gt;), by the part that said: “Why has the ban been put in place, anyway? The&amp;nbsp;answer, as with so many things,&amp;nbsp;is the climate crisis.”&lt;/p&gt;&lt;p&gt;No, it’s not. The climate crisis is only part of the answer, and probably the smaller part. The privatised water companies have, over many years, privileged the lining of their own pockets over proper maintenance and improvement of the water systems, a fact which has been revealed again and again in your own pages.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/26/blame-privatised-water-firms-for-hosepipe-bans"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/water-industry">Water industry</category>
-      <category domain="https://www.theguardian.com/environment/water">Water</category>
-      <category domain="https://www.theguardian.com/environment/plants">Plants</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/gardeningadvice">Gardening advice</category>
-      <category domain="https://www.theguardian.com/uk-news/datacentres">Datacentres</category>
-      <category domain="https://www.theguardian.com/business/thames-water">Thames Water</category>
-      <pubDate>Sun, 26 Jul 2026 15:58:29 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/26/blame-privatised-water-firms-for-hosepipe-bans</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/c69fadd9415619de0bcf8035e0a3450a6b7ab076/73_0_6720_5376/master/6720.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2c9faf58e40e03e5670e7d6daa4467c">
-        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/c69fadd9415619de0bcf8035e0a3450a6b7ab076/73_0_6720_5376/master/6720.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc72f7f160f2d78ac5f090cefa2f5881">
-        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/c69fadd9415619de0bcf8035e0a3450a6b7ab076/73_0_6720_5376/master/6720.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fda7cb0f2d2d58f3493cb52eca062322">
-        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
-      </media:content>
-      <dc:creator>Guardian Staff</dc:creator>
-      <dc:date>2026-07-26T15:58:29Z</dc:date>
-    </item>
-    <item>
-      <title>Am I a chicken-shop lefty? Here's what a French fast food row taught me about politics | Coco Khan</title>
-      <link>https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics</link>
-      <description>&lt;p&gt;Feathers are flying over the halal chicken chain Master Poulet opening a branch in gentrified Saint-Ouen-sur-Seine – it’s an issue of wealth and class we know only too well&lt;/p&gt;&lt;p&gt;How do you like your progressive politics? Are you net-zero left or anti-identity politics left? A “legalising drugs” kind of radical or someone whose public sector solidarity includes police? Nato or Nat-&lt;em&gt;no? &lt;/em&gt;The reputation for infighting in lefty spaces – where policy disagreements harden into personal tests of morality – needs neither introduction nor encouragement.&lt;/p&gt;&lt;p&gt;But reading about the left-on-left battle at Master Poulet, a French chicken chain that just opened its first UK branch, I found myself mulling a question that felt more than a little personal: am I chicken shop left?&lt;/p&gt;&lt;p&gt;Coco Khan is a freelance writer and co-host of the politics podcast Pod Save the UK&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our&lt;a href="https://www.theguardian.com/tone/letters"&gt; letters&lt;/a&gt; section, please &lt;a href="mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary."&gt;click here&lt;/a&gt;.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/world/france">France</category>
-      <category domain="https://www.theguardian.com/food/fast-food">Fast food</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
-      <category domain="https://www.theguardian.com/food/food">Food</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <pubDate>Sun, 26 Jul 2026 07:00:04 GMT</pubDate>
-      <guid>https://www.theguardian.com/commentisfree/2026/jul/26/chicken-shop-left-french-fast-food-row-politics</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/2070c49e75bb96d5f42e840ef8c2e4a679971256/856_0_4647_3717/master/4647.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f51567d4ac2e260dc8fdd74e8165af9e">
-        <media:credit scheme="urn:ebu">Photograph: Apaydin Alain/ABACA/Shutterstock</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/2070c49e75bb96d5f42e840ef8c2e4a679971256/856_0_4647_3717/master/4647.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=376a8f78816db78c9821cc011e5c0e5e">
-        <media:credit scheme="urn:ebu">Photograph: Apaydin Alain/ABACA/Shutterstock</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/2070c49e75bb96d5f42e840ef8c2e4a679971256/856_0_4647_3717/master/4647.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=337f120ebbc6bda40219436c6a52b6c3">
-        <media:credit scheme="urn:ebu">Photograph: Apaydin Alain/ABACA/Shutterstock</media:credit>
-      </media:content>
-      <dc:creator>Coco Khan</dc:creator>
-      <dc:date>2026-07-26T07:00:04Z</dc:date>
-    </item>
-    <item>
-      <title>I grew up near Andy Burnham. This is what shaped the UK’s new PM</title>
-      <link>https://www.theguardian.com/news/ng-interactive/2026/jul/25/view-from-andy-burnham-hometown-warrington-culcheth</link>
-      <description>&lt;p&gt;In the Warrington suburb of Culcheth, people are hopeful about what one of their own can achieve as the first northern PM in half a century&lt;/p&gt;&lt;p&gt;The Cherry Tree pub is an unassuming local. On a busy road in the Cheshire village of Culcheth, it is a chain-run pub where four shots cost £8, every burger comes with a soft drink, and sport is shown all day on the big screens. It is also a favourite of Andy Burnham, the new prime minister.&lt;/p&gt;&lt;p&gt;Many of the drinkers have a story about – arguably – Culcheth’s most famous son.&lt;/p&gt; &lt;a href="https://www.theguardian.com/news/ng-interactive/2026/jul/25/view-from-andy-burnham-hometown-warrington-culcheth"&gt;Continue reading...&lt;/a&gt;</description>
+      <title>Andy Burnham vows to use his ‘political capital’ to fix social care system</title>
+      <link>https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system</link>
+      <description>&lt;p&gt;PM says that without rapid action the NHS could effectively collapse, in first full interview since entering No 10&lt;/p&gt;&lt;p&gt;Andy Burnham has promised to use “whatever political capital I have” to finally fix the crumbling social care system in England, saying that without rapid action the NHS could effectively collapse.&lt;/p&gt;&lt;p&gt;In his first full interview since becoming prime minister last week, Burnham said he could not put a timetable on the arrival of a new system for social care but that its creation would take time.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/society/social-care">Social care</category>
       <category domain="https://www.theguardian.com/politics/andyburnham">Andy Burnham</category>
-      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
-      <category domain="https://www.theguardian.com/uk-news/north-of-england">North of England</category>
-      <category domain="https://www.theguardian.com/uk-news/cheshire">Cheshire</category>
-      <category domain="https://www.theguardian.com/uk/manchester">Manchester</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/politics/health">Health policy</category>
+      <category domain="https://www.theguardian.com/society/nhs">NHS</category>
+      <category domain="https://www.theguardian.com/politics/welfare">Welfare</category>
+      <category domain="https://www.theguardian.com/society/benefits">Benefits</category>
       <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/uk/greater-manchester">Greater Manchester</category>
-      <category domain="https://www.theguardian.com/uk-news/england">England</category>
-      <category domain="https://www.theguardian.com/society/north-south-divide">North-south divide</category>
-      <category domain="https://www.theguardian.com/politics/devolution">Devolution</category>
-      <category domain="https://www.theguardian.com/society/communities">Communities</category>
-      <pubDate>Sat, 25 Jul 2026 05:00:37 GMT</pubDate>
-      <guid>https://www.theguardian.com/news/ng-interactive/2026/jul/25/view-from-andy-burnham-hometown-warrington-culcheth</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/c735704245107448c532392e0c373f0f45ee8312/1045_389_6046_4837/master/6046.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da8634fca450b17590fee9371d0fe93a">
-        <media:credit scheme="urn:ebu">Composite: Guardian Design/PA/Getty Images</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/c735704245107448c532392e0c373f0f45ee8312/1045_389_6046_4837/master/6046.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f598d31a546c8b954f4ebdeeb0f0915">
-        <media:credit scheme="urn:ebu">Composite: Guardian Design/PA/Getty Images</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/c735704245107448c532392e0c373f0f45ee8312/1045_389_6046_4837/master/6046.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96489114fe3e35d877c0fce9339424bc">
-        <media:credit scheme="urn:ebu">Composite: Guardian Design/PA/Getty Images</media:credit>
-      </media:content>
-      <dc:creator>Richard Partington</dc:creator>
-      <dc:date>2026-07-25T05:00:37Z</dc:date>
-    </item>
-    <item>
-      <title>Every new UK home should have air conditioning, say Liberal Democrats</title>
-      <link>https://www.theguardian.com/environment/2026/jul/26/every-new-home-should-have-air-conditioning-say-liberal-democrats</link>
-      <description>&lt;p&gt;Exclusive: Party says housing stock ‘woefully unprepared’ for extreme heat and new rules for builders must be set&lt;/p&gt;&lt;p&gt;All new UK homes should be built with air conditioning to cope with the effects of the climate crisis, according to the Liberal Democrats.&lt;/p&gt;&lt;p&gt;The party says British homes are dangerously unsuited to rising temperatures, meaning passive cooling measures such as planting more trees in residential areas are necessary.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/jul/26/every-new-home-should-have-air-conditioning-say-liberal-democrats"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
-      <category domain="https://www.theguardian.com/politics/liberaldemocrats">Liberal Democrats</category>
-      <category domain="https://www.theguardian.com/environment/extreme-heat">Extreme heat</category>
+      <category domain="https://www.theguardian.com/society/society">Society</category>
       <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
-      <category domain="https://www.theguardian.com/business/construction">Construction industry</category>
-      <pubDate>Sun, 26 Jul 2026 17:34:32 GMT</pubDate>
-      <guid>https://www.theguardian.com/environment/2026/jul/26/every-new-home-should-have-air-conditioning-say-liberal-democrats</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/bccf54148a75433ae37881d8a9964268da95f51f/1193_0_5268_4214/master/5268.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddc222cc0c4a595a810a7e5ba4e3832e">
-        <media:credit scheme="urn:ebu">Photograph: Unai Huici/Alamy</media:credit>
+      <category domain="https://www.theguardian.com/society/health">Health</category>
+      <pubDate>Mon, 27 Jul 2026 06:50:18 GMT</pubDate>
+      <guid>https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/1d7d00a6b9cb560f4f8521a00469a9b3738251e8/250_0_2501_2000/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dae6802aaac64daed0ed6c4ac7ea9bc8">
+        <media:credit scheme="urn:ebu">Photograph: Jeff Overs/Reuters</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/bccf54148a75433ae37881d8a9964268da95f51f/1193_0_5268_4214/master/5268.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b08fbc638ba482866138b6819c48ad9">
-        <media:credit scheme="urn:ebu">Photograph: Unai Huici/Alamy</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/1d7d00a6b9cb560f4f8521a00469a9b3738251e8/250_0_2501_2000/master/2501.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93a4848cb616e8e4b0fd8b1c49fb29dc">
+        <media:credit scheme="urn:ebu">Photograph: Jeff Overs/Reuters</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/bccf54148a75433ae37881d8a9964268da95f51f/1193_0_5268_4214/master/5268.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17958e7b19037f32320836ddd2f3a42d">
-        <media:credit scheme="urn:ebu">Photograph: Unai Huici/Alamy</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/1d7d00a6b9cb560f4f8521a00469a9b3738251e8/250_0_2501_2000/master/2501.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32bf4fb9a965b667a6fb3bda07a941bd">
+        <media:credit scheme="urn:ebu">Photograph: Jeff Overs/Reuters</media:credit>
       </media:content>
       <dc:creator>Peter Walker Senior political correspondent</dc:creator>
-      <dc:date>2026-07-26T17:34:32Z</dc:date>
+      <dc:date>2026-07-27T06:50:18Z</dc:date>
     </item>
     <item>
-      <title>V&amp;A workers hold ballot to strike over pay and heatwave conditions</title>
-      <link>https://www.theguardian.com/artanddesign/2026/jul/26/va-workers-hold-ballot-to-strike-over-pay-and-heatwave-conditions</link>
-      <description>&lt;p&gt;Union calls for museum to become accredited London living wage employer and let staff carry water during shifts&lt;/p&gt;&lt;p&gt;Workers at one of the world’s leading art and design museums are balloting for “heatwave” strike action.&lt;/p&gt;&lt;p&gt;The ballot at &lt;a href="https://www.vam.ac.uk/info/about-us?srsltid=AfmBOop1It0jy17raVk-zqixrf_EUyIt2CtFo1dK-r_xgSgLybwcBhcT"&gt;V&amp;amp;A&lt;/a&gt; is taking place because of concerns about soaring temperatures and access to drinking water, along with pay and conditions.&lt;/p&gt; &lt;a href="https://www.theguardian.com/artanddesign/2026/jul/26/va-workers-hold-ballot-to-strike-over-pay-and-heatwave-conditions"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/artanddesign/v-and-a">V&amp;A</category>
-      <category domain="https://www.theguardian.com/uk-news/industrial-action">Industrial action</category>
-      <category domain="https://www.theguardian.com/uk/london">London</category>
-      <category domain="https://www.theguardian.com/culture/museums">Museums</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/culture/culture">Culture</category>
-      <category domain="https://www.theguardian.com/artanddesign/artanddesign">Art and design</category>
-      <category domain="https://www.theguardian.com/politics/tradeunions">Trade unions</category>
-      <pubDate>Sun, 26 Jul 2026 14:53:09 GMT</pubDate>
-      <guid>https://www.theguardian.com/artanddesign/2026/jul/26/va-workers-hold-ballot-to-strike-over-pay-and-heatwave-conditions</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/35342a9ebd8c58e50c92df3d82e5c490d1c8dc96/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=887e1060ac303fd68b9f2cb2a858ddc3">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/35342a9ebd8c58e50c92df3d82e5c490d1c8dc96/500_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec46d38293b01f3d0f204936d671eabd">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/35342a9ebd8c58e50c92df3d82e5c490d1c8dc96/500_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d021f1e54a007c840e9d9f0ea17981ea">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy</media:credit>
-      </media:content>
-      <dc:creator>Diane Taylor</dc:creator>
-      <dc:date>2026-07-26T14:53:09Z</dc:date>
-    </item>
-    <item>
-      <title>New North Sea oil drilling faces delay after gear accidentally dropped in sea</title>
-      <link>https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea</link>
-      <description>&lt;p&gt;Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licence&lt;/p&gt;&lt;p&gt;Production at Britain’s biggest undeveloped oil and gasfield could be delayed for months after equipment from a rig was accidentally dropped in the North Sea, the Guardian can reveal.&lt;/p&gt;&lt;p&gt;Andy Burnham’s new government is &lt;a href="https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters"&gt;under pressure&lt;/a&gt; from the fossil fuel industry to allow oil to be retrieved from the Rosebank site despite &lt;a href="https://www.theguardian.com/politics/2026/jul/18/burnham-expected-to-reverse-ban-on-new-oil-and-gas-drilling"&gt;opposition from climate campaigners and some Labour MPs&lt;/a&gt;.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/oilandgascompanies">Oil and gas companies</category>
-      <category domain="https://www.theguardian.com/environment/energy">Energy</category>
-      <category domain="https://www.theguardian.com/environment/fossil-fuels">Fossil fuels</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/uk/scotland">Scotland</category>
+      <title>Rising oil prices could force up UK interest rates, say economists</title>
+      <link>https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists</link>
+      <description>&lt;p&gt;Bank of England expected to keep rates on hold on Thursday but renewed Iran conflict casts shadow over energy costs&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/bankofenglandgovernor"&gt;The Bank of England&lt;/a&gt; could be forced to tear up its economic forecasts and raise interest rates later this year if oil prices return to above $100 a barrel, according to City economists.&lt;/p&gt;&lt;p&gt;Before a meeting of Bank officials on Thursday, economists said that while an interest rate hike would probably be avoided this week there could be some in the future because of conflict in the Middle East.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/interest-rates">Interest rates</category>
+      <category domain="https://www.theguardian.com/business/bankofenglandgovernor">Bank of England</category>
+      <category domain="https://www.theguardian.com/business/inflation">Inflation</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/world/us-israel-war-on-iran">US-Israel war on Iran</category>
+      <category domain="https://www.theguardian.com/business/economics">Economics</category>
       <category domain="https://www.theguardian.com/politics/politics">Politics</category>
       <category domain="https://www.theguardian.com/business/oil">Oil</category>
-      <category domain="https://www.theguardian.com/environment/oil">Oil</category>
-      <category domain="https://www.theguardian.com/business/gas">Gas</category>
-      <category domain="https://www.theguardian.com/environment/gas">Gas</category>
-      <category domain="https://www.theguardian.com/politics/andyburnham">Andy Burnham</category>
-      <category domain="https://www.theguardian.com/politics/miatta-fahnbulleh">Miatta Fahnbulleh</category>
-      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
-      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
-      <pubDate>Sat, 25 Jul 2026 16:00:46 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/1239787bd1d8654b418e992cfad2138f25578955/691_316_2649_2119/master/2649.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbf4348277429f6f2875a8c19723a500">
-        <media:credit scheme="urn:ebu">Photograph: Martin Langer/Alamy</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/1239787bd1d8654b418e992cfad2138f25578955/691_316_2649_2119/master/2649.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c9e17024edcd59ca5eab71bba7657cc">
-        <media:credit scheme="urn:ebu">Photograph: Martin Langer/Alamy</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/1239787bd1d8654b418e992cfad2138f25578955/691_316_2649_2119/master/2649.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d27cc075e3b3393e0e889f0f3e658b7">
-        <media:credit scheme="urn:ebu">Photograph: Martin Langer/Alamy</media:credit>
-      </media:content>
-      <dc:creator>Geraldine McKelvie Senior correspondent</dc:creator>
-      <dc:date>2026-07-25T16:00:46Z</dc:date>
-    </item>
-    <item>
-      <title>New Jersey governor signs law banning surveillance pricing to protect shoppers</title>
-      <link>https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban</link>
-      <description>&lt;p&gt;New law prohibits retailers from using personal data to&lt;em&gt; &lt;/em&gt;charge different prices for identical products&lt;/p&gt;&lt;p&gt;New Jersey governor Mikie Sherrill recently &lt;a href="https://www.nj.gov/governor/news/2026/20260723a.shtml"&gt;signed&lt;/a&gt; a new law prohibiting businesses from using shoppers’ personal information to charge different prices for identical products, making her state the third in the US to ban the practice.&lt;/p&gt;&lt;p&gt;The Fair Price Protection Act passed by New Jersey’s legislature seeks to protect consumers from surveillance pricing, in which retailers can use data including online activity, location and purchasing history to arbitrarily change prices for individual shoppers.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/us-news/new-jersey">New Jersey</category>
-      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
-      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
-      <category domain="https://www.theguardian.com/world/surveillance">Surveillance</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/shops-and-shopping">Shops and shopping</category>
-      <pubDate>Sun, 26 Jul 2026 15:08:40 GMT</pubDate>
-      <guid>https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/136df8f1abc7802fb85b6ee07edca62c03cefdea/162_0_1610_1288/master/1610.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=136c4e9dec9ae8581f508bd66926e811">
-        <media:credit scheme="urn:ebu">Photograph: Mariam Zuhaib/AP</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/136df8f1abc7802fb85b6ee07edca62c03cefdea/162_0_1610_1288/master/1610.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f41a817358236367c6f0d9d2f440921">
-        <media:credit scheme="urn:ebu">Photograph: Mariam Zuhaib/AP</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/136df8f1abc7802fb85b6ee07edca62c03cefdea/162_0_1610_1288/master/1610.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3618c6f2054cb0de2a7012b3cd8c9e56">
-        <media:credit scheme="urn:ebu">Photograph: Mariam Zuhaib/AP</media:credit>
-      </media:content>
-      <dc:creator>Maya Yang</dc:creator>
-      <dc:date>2026-07-26T15:08:40Z</dc:date>
-    </item>
-    <item>
-      <title>Electrolyte lemonade to probiotic pop: do the new generation of ‘functional drinks’ live up to the hype?</title>
-      <link>https://www.theguardian.com/lifeandstyle/2026/jul/26/ffunctional-drinks-hype-taste-test-probiotics-electrolytes-caffeine</link>
-      <description>&lt;p&gt;They make grand claims about beauty benefits or extra energy – and even actor Gillian Anderson has her own brand. We investigate what they’re really doing – and put them to a taste test&lt;/p&gt;&lt;p&gt;Show yourself some love. Fuel your focus. Life’s too good for bad energy. Find your calm in the everyday chaos. Live fit. No, not new-age slogans or something you’d find scribbled in neon on the wall of a cocktail bar, but marketing taglines slapped across cans of functional soft drinks. Walk into any supermarket or newsagent and there they are, bright and cheerful, right next to the Tango, promising everything from improved mental clarity and zen-like calm, to a blast of highly caffeinated energy as part of your sandwich-and-a-snack lunchtime meal deal. Influencers love them. Your favourite podcasters are sponsored by them. Even Gillian Anderson has a functional drinks brand (brilliantly, she’s called it G Spot).&lt;/p&gt;&lt;p&gt;If you have not yet swigged an electrolyte-loaded lemonade or opened a can of probiotic fizzy pop, you might be wondering what functional drinks even are. Because they are marketed as having one or more of many possible physiological and cognitive benefits, it’s a big category. There are functional drinks for focus, productivity, relaxation, calm, protein, energy, gut health and perhaps most confusingly, for hydration – which is, after all, the core function of most potable liquids.&lt;/p&gt; &lt;a href="https://www.theguardian.com/lifeandstyle/2026/jul/26/ffunctional-drinks-hype-taste-test-probiotics-electrolytes-caffeine"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/lifeandstyle/lifeandstyle">Life and style</category>
-      <category domain="https://www.theguardian.com/society/health">Health</category>
-      <category domain="https://www.theguardian.com/society/society">Society</category>
-      <category domain="https://www.theguardian.com/society/mental-health">Mental health</category>
-      <category domain="https://www.theguardian.com/food/food">Food</category>
-      <category domain="https://www.theguardian.com/science/food-science">Food science</category>
-      <category domain="https://www.theguardian.com/science/science">Science</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/fitness">Fitness</category>
-      <pubDate>Sun, 26 Jul 2026 11:00:11 GMT</pubDate>
-      <guid>https://www.theguardian.com/lifeandstyle/2026/jul/26/ffunctional-drinks-hype-taste-test-probiotics-electrolytes-caffeine</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/c1147764b1e1ce9d998b295649773f8d91809bc8/295_0_6748_5399/master/6748.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=edac5799fb90acbef8ceb6152c90700f">
-        <media:credit scheme="urn:ebu">Photograph: Steven Joyce/The Guardian</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/c1147764b1e1ce9d998b295649773f8d91809bc8/295_0_6748_5399/master/6748.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aacbf353af9cd90761fc3b229f81d041">
-        <media:credit scheme="urn:ebu">Photograph: Steven Joyce/The Guardian</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/c1147764b1e1ce9d998b295649773f8d91809bc8/295_0_6748_5399/master/6748.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a286334bf431774834bc1d3e01fca8a">
-        <media:credit scheme="urn:ebu">Photograph: Steven Joyce/The Guardian</media:credit>
-      </media:content>
-      <dc:creator>Rebecca Seal</dc:creator>
-      <dc:date>2026-07-26T11:00:11Z</dc:date>
-    </item>
-    <item>
-      <title>Police investigate payments to Reform UK first revealed by The Guardian</title>
-      <link>https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian</link>
-      <description>&lt;p&gt;Scotland Yard is looking at two £250,000 donations to the party by Britain Means Business before the 2024 election&lt;/p&gt;&lt;p&gt;Payments to Reform UK first revealed by the Guardian are now being investigated by the Metropolitan police.&lt;/p&gt;&lt;p&gt;The inquiry is scrutinising payments made to the party via a company controlled by its deputy leader, Richard Tice.&lt;/p&gt; &lt;a href="https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/politics/nigel-farage">Nigel Farage</category>
-      <category domain="https://www.theguardian.com/uk/metropolitan-police">Metropolitan police</category>
-      <category domain="https://www.theguardian.com/politics/brexit-party">Reform UK</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/business/commodities">Commodities</category>
       <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/uk/police">Police</category>
-      <pubDate>Sat, 25 Jul 2026 19:11:21 GMT</pubDate>
-      <guid>https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/86b6ec0f1c67f1a2c46154a7cfce7c3d9763e754/338_0_4168_3335/master/4168.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c958c2a8ccbcd387b7bf872a5b2310e1">
-        <media:credit scheme="urn:ebu">Photograph: Darren Staples/AFP/Getty Images</media:credit>
+      <pubDate>Sun, 26 Jul 2026 23:01:23 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/27/rising-oil-prices-could-force-up-uk-interest-rates-say-economists</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/ef3ca56eebf76168582573c40aa38881323f3834/293_0_2915_2331/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=978e5ae591f852c4a1e43c9ce77fa5fd">
+        <media:credit scheme="urn:ebu">Photograph: US Central Command (CENTCOM)/AFP/Getty Images</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/86b6ec0f1c67f1a2c46154a7cfce7c3d9763e754/338_0_4168_3335/master/4168.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=260f7378675ae30f238c46d68defdc15">
-        <media:credit scheme="urn:ebu">Photograph: Darren Staples/AFP/Getty Images</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/ef3ca56eebf76168582573c40aa38881323f3834/293_0_2915_2331/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a609eb4135dcea286e983ea5f0f5c3ca">
+        <media:credit scheme="urn:ebu">Photograph: US Central Command (CENTCOM)/AFP/Getty Images</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/86b6ec0f1c67f1a2c46154a7cfce7c3d9763e754/338_0_4168_3335/master/4168.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57e01d4c7dba2744014d7ca33eca02c0">
-        <media:credit scheme="urn:ebu">Photograph: Darren Staples/AFP/Getty Images</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/ef3ca56eebf76168582573c40aa38881323f3834/293_0_2915_2331/master/2915.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cdf75ff30c21ac687d8feea828593f2">
+        <media:credit scheme="urn:ebu">Photograph: US Central Command (CENTCOM)/AFP/Getty Images</media:credit>
       </media:content>
-      <dc:creator>Geraldine McKelvie</dc:creator>
-      <dc:date>2026-07-25T19:11:21Z</dc:date>
+      <dc:creator>Phillip Inman</dc:creator>
+      <dc:date>2026-07-26T23:01:23Z</dc:date>
+    </item>
+    <item>
+      <title>Cracker Barrel CEO to step down after overseeing logo backlash last year</title>
+      <link>https://www.theguardian.com/business/2026/jul/27/julie-masino-cracker-barrel-steps-down</link>
+      <description>&lt;p&gt;Julie Masino faced criticism as restaurant chain was called ‘woke’ and ‘soulless’ after unveiling modernized logo&lt;/p&gt;&lt;p&gt;Cracker Barrel’s CEO, Julie Masino, is stepping down, the restaurant announced on Monday, nearly a year after the company was swept into a political maelstrom over proposed modernizations to its branding.&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/us-news/2025/aug/28/cracker-barrel-logo-trump"&gt;Critics&lt;/a&gt; on social media denounced the Tennessee-based rustic restaurant chain as “woke” as well as “sterile and soulless” after it unveiled an updated logo that removed Uncle Herschel, the overall-clad man leaning against a barrel in the restaurant’s original logo, last August. Donald Trump &lt;a href="https://www.theguardian.com/us-news/2025/aug/30/cracker-barrel-backlash"&gt;weighed in&lt;/a&gt; on the updates soon after, posting: “WTF is wrong with Cracker Barrel?!” and demanding on social media that the company “admit a mistake”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/27/julie-masino-cracker-barrel-steps-down"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/food/restaurants">Restaurants</category>
+      <category domain="https://www.theguardian.com/food/food">Food</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/business/fooddrinks">Food &amp; drink industry</category>
+      <pubDate>Mon, 27 Jul 2026 17:28:12 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/27/julie-masino-cracker-barrel-steps-down</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/eeca8955fadab89f0bf38e775b06c97b37fa653b/429_0_4293_3435/master/4293.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=133df635942fbe3128a1cff43a762d1b">
+        <media:credit scheme="urn:ebu">Photograph: Jeenah Moon/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/eeca8955fadab89f0bf38e775b06c97b37fa653b/429_0_4293_3435/master/4293.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36b3fac75ca7417869ad4629863bce8c">
+        <media:credit scheme="urn:ebu">Photograph: Jeenah Moon/Reuters</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/eeca8955fadab89f0bf38e775b06c97b37fa653b/429_0_4293_3435/master/4293.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de652b630d0b86417bc589f0dec449ed">
+        <media:credit scheme="urn:ebu">Photograph: Jeenah Moon/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Gaya Gupta</dc:creator>
+      <dc:date>2026-07-27T17:28:12Z</dc:date>
+    </item>
+    <item>
+      <title>US environmental groups urge EPA to reject new Pfas to cool datacenters</title>
+      <link>https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa</link>
+      <description>&lt;p&gt;Coalition says Chemours downplayed health and climate risks in bid to fast-track the compound’s use&lt;/p&gt;&lt;p&gt;A coalition of 17 environmental groups is demanding the &lt;a href="https://www.theguardian.com/environment/epa"&gt;Environmental Protection Agency&lt;/a&gt; reject a new &lt;a href="https://www.theguardian.com/environment/pfas"&gt;Pfas&lt;/a&gt; that chemical giant Chemours is attempting to fast-track for approval for use in cooling datacenters, and would almost certainly pollute regions around the facilities.&lt;/p&gt;&lt;p&gt;In &lt;a href="https://www.regulations.gov/comment/EPA-HQ-OPPT-2026-1387-0006"&gt;formal comments&lt;/a&gt; submitted to the agency, the groups accuse Chemours of using bad science to downplay the chemical’s toxicity and climate risks. Approving Chemours’ application as it is would violate the law, the Earthjustice legal non-profit, a lead author of the comments, wrote.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/environment/epa">US Environmental Protection Agency</category>
+      <category domain="https://www.theguardian.com/environment/pfas">Pfas</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <pubDate>Mon, 27 Jul 2026 12:00:09 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/2026/jul/27/pfas-datacenter-cooling-epa</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/01e96fd41807bceded8f7ddd34c8b38406042bd4/252_0_3789_3031/master/3789.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43e5361259d2aab61f94291d06e045c1">
+        <media:credit scheme="urn:ebu">Photograph: Gerry Broome/AP</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/01e96fd41807bceded8f7ddd34c8b38406042bd4/252_0_3789_3031/master/3789.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2fd6e585d7b978bf1710ee10d0b2f63">
+        <media:credit scheme="urn:ebu">Photograph: Gerry Broome/AP</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/01e96fd41807bceded8f7ddd34c8b38406042bd4/252_0_3789_3031/master/3789.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d93c5e96f5dd9a35e0bbd16a26f1c415">
+        <media:credit scheme="urn:ebu">Photograph: Gerry Broome/AP</media:credit>
+      </media:content>
+      <dc:creator>Tom Perkins</dc:creator>
+      <dc:date>2026-07-27T12:00:09Z</dc:date>
+    </item>
+    <item>
+      <title>Spurs’ plans for new training facility in London park blocked by high court</title>
+      <link>https://www.theguardian.com/football/2026/jul/27/tottenham-hotspur-plans-for-new-footbal-training-facility-london-park-blocked-by-high-court</link>
+      <description>&lt;p&gt;Judge quashes Enfield council’s decision to grant planning permission for new women’s and girls’ football academy&lt;/p&gt;&lt;p&gt;A council’s decision to allow Tottenham Hotspur Football Club to build a new training facility in a park in north London has been quashed by a judge at the high court.&lt;/p&gt;&lt;p&gt;The campaign group Guardians of Whitewebbs told a hearing in June that Enfield council’s decision to &lt;a href="https://www.theguardian.com/uk-news/2025/feb/12/dark-day-for-parks-plans-to-build-spurs-academy-on-london-green-space-approved"&gt;grant planning permission&lt;/a&gt; for a new women’s and girls’ football academy on 6.5 hectares (16 acres) of land in Whitewebbs Park was unlawful.&lt;/p&gt; &lt;a href="https://www.theguardian.com/football/2026/jul/27/tottenham-hotspur-plans-for-new-footbal-training-facility-london-park-blocked-by-high-court"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/football/tottenham-hotspur">Tottenham Hotspur</category>
+      <category domain="https://www.theguardian.com/football/tottenham-hotspur-women">Tottenham Hotspur Women</category>
+      <category domain="https://www.theguardian.com/politics/planning">Planning policy</category>
+      <category domain="https://www.theguardian.com/law/law">Law</category>
+      <category domain="https://www.theguardian.com/society/localgovernment">Local government</category>
+      <category domain="https://www.theguardian.com/football/womensfootball">Women's football</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/football/football">Football</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/sport/sport">Sport</category>
+      <pubDate>Mon, 27 Jul 2026 17:13:37 GMT</pubDate>
+      <guid>https://www.theguardian.com/football/2026/jul/27/tottenham-hotspur-plans-for-new-footbal-training-facility-london-park-blocked-by-high-court</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/6afb68e8ffb1752f27b16a28066a6b0e1236226d/320_0_4065_3252/master/4065.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c8336777a8002002adcf56623ad1d19">
+        <media:credit scheme="urn:ebu">Photograph: Alex Davidson/The FA/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/6afb68e8ffb1752f27b16a28066a6b0e1236226d/320_0_4065_3252/master/4065.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=513944cb8933fc8eff06769c2bb33f09">
+        <media:credit scheme="urn:ebu">Photograph: Alex Davidson/The FA/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/6afb68e8ffb1752f27b16a28066a6b0e1236226d/320_0_4065_3252/master/4065.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45b573f0b43345a9115fa90925a86bff">
+        <media:credit scheme="urn:ebu">Photograph: Alex Davidson/The FA/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>PA Media</dc:creator>
+      <dc:date>2026-07-27T17:13:37Z</dc:date>
+    </item>
+    <item>
+      <title>So how do you get access to the Qantas chairman’s lounge? Alan Joyce has some tips</title>
+      <link>https://www.theguardian.com/business/2026/jul/28/alan-joyce-qantas-chairmans-lounge-memoir</link>
+      <description>&lt;p&gt;In his memoir the former Qantas chief executive denies using the lounge as a tool to influence politicians&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;Get our &lt;a href="https://www.theguardian.com/email-newsletters?CMP=cvau_sfl"&gt;breaking news email&lt;/a&gt;, &lt;a href="https://app.adjust.com/w4u7jx3"&gt;free app&lt;/a&gt; or &lt;a href="https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl"&gt;daily news podcast&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Judges, politicians, newspaper editors and big spenders: Alan Joyce, the former Qantas chief executive, has revealed how the airline admits members to its &lt;a href="https://www.theguardian.com/australia-news/2024/oct/30/at-least-90-of-federal-politicians-have-joined-exclusive-qantas-lounge-and-dozens-received-upgrades-ntwnfb"&gt;private chairman’s lounge&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;In his memoir, released on Tuesday, Joyce denies using the lounge as a tool to influence politicians and claims famous Australians “begged” to be granted access to “arguably the most exclusive club in the country”.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/28/alan-joyce-qantas-chairmans-lounge-memoir"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/qantas">Qantas</category>
+      <category domain="https://www.theguardian.com/business/alan-joyce">Alan Joyce</category>
+      <category domain="https://www.theguardian.com/australia-news/australia-news">Australia news</category>
+      <category domain="https://www.theguardian.com/books/books">Books</category>
+      <category domain="https://www.theguardian.com/australia-news/australian-politics">Australian politics</category>
+      <category domain="https://www.theguardian.com/business/theairlineindustry">Airline industry</category>
+      <category domain="https://www.theguardian.com/australia-news/anthony-albanese">Anthony Albanese</category>
+      <pubDate>Mon, 27 Jul 2026 15:00:13 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/28/alan-joyce-qantas-chairmans-lounge-memoir</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/8a7b7c73d21277af3375bcb5822452e64f814c7d/776_0_2306_1846/master/2306.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75f299ffd0667b1bc968e73127c5150c">
+        <media:credit scheme="urn:ebu">Photograph: James D Morgan/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/8a7b7c73d21277af3375bcb5822452e64f814c7d/776_0_2306_1846/master/2306.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28cf7fa81dc349e4c77cebe6bfba5e39">
+        <media:credit scheme="urn:ebu">Photograph: James D Morgan/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/8a7b7c73d21277af3375bcb5822452e64f814c7d/776_0_2306_1846/master/2306.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dcf943e846152511cc4a528e88855340">
+        <media:credit scheme="urn:ebu">Photograph: James D Morgan/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Luca Ittimani</dc:creator>
+      <dc:date>2026-07-27T15:00:13Z</dc:date>
     </item>
     <item>
       <title>Will prediction market ‘catch fire’ in UK, replicating US boom?</title>
@@ -654,6 +633,32 @@
       </media:content>
       <dc:creator>Rob Davies</dc:creator>
       <dc:date>2026-07-26T13:00:11Z</dc:date>
+    </item>
+    <item>
+      <title>‘Weekday games were amazing’: pubs toast extra £150m in World Cup sales</title>
+      <link>https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football</link>
+      <description>&lt;p&gt;England’s progress provides best football-related uplift of recent years, with one pub too packed to host its Dolly Parton tribute&lt;/p&gt;&lt;p&gt;Late opening hours and England’s progress to the semi-final of an expanded World Cup helped provide the best football-related uplift of recent years for pubs, figures suggest.&lt;/p&gt;&lt;p&gt;Pubs poured 30m extra pints over the course of the tournament compared with a normal trading period, with busy pumps delivering £150m in added sales, according to the British Beer &amp;amp; Pubs Association (BBPA).&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/hospitality-industry">Hospitality industry</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/pubs">Pubs</category>
+      <category domain="https://www.theguardian.com/lifeandstyle/lifeandstyle">Life and style</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/football/world-cup-2026">World Cup 2026</category>
+      <category domain="https://www.theguardian.com/football/football">Football</category>
+      <category domain="https://www.theguardian.com/sport/sport">Sport</category>
+      <pubDate>Sun, 26 Jul 2026 08:00:05 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/jul/26/pubs-extra-sales-world-cup-england-football</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/6d6c24c0d6ed6d8d1eee20ff457df2f5ff079745/0_0_3887_3110/master/3887.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bfa4f5e98958341cb033d713c2f35d2">
+        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/6d6c24c0d6ed6d8d1eee20ff457df2f5ff079745/0_0_3887_3110/master/3887.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9380a19e827fbcddebb5919eb2220b1c">
+        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/AFP/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/6d6c24c0d6ed6d8d1eee20ff457df2f5ff079745/0_0_3887_3110/master/3887.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=145c0af226b8213ad1c3b1462806f34e">
+        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/AFP/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Rob Davies</dc:creator>
+      <dc:date>2026-07-26T08:00:05Z</dc:date>
     </item>
     <item>
       <title>Can Japan avoid a Liz Truss-style shock as its PM embarks on a giant spending spree?</title>
@@ -711,9 +716,9 @@
       <dc:date>2026-07-25T05:00:35Z</dc:date>
     </item>
     <item>
-      <title>The Ukrainian start-up taking the missile fight deep into Russia</title>
+      <title>The Ukrainian startup taking the missile fight deep into Russia</title>
       <link>https://www.theguardian.com/world/2026/jul/27/fire-point-ukraine-cruise-missiles-russia</link>
-      <description>&lt;p&gt;Fire Point makes 100 long-range missiles and thousands of drones a month and is vital to Kyiv’s deep strike capability, says CEO Iryna Terekh&lt;/p&gt;&lt;p&gt;Ukraine’s leading arms company is manufacturing about 100 long-range Flamingo cruise missiles a month, a rate able to support an enduring campaign of deep strike against targets hundreds of miles inside Russia.&lt;/p&gt;&lt;p&gt;Fire Point is also making FP-1 and FP-2 fixed-wing drones at a rate of “hundreds per day”, according to chief executive Iryna Terekh. Manufacturing at scale is restarting after a pause caused by the delay in signing off &lt;a href="https://www.theguardian.com/world/2026/apr/22/eu-unblocks-loan-ukraine-new-sanctions-russia-hungary-lifts-veto"&gt;€90bn of EU lending to Ukraine&lt;/a&gt;.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/jul/27/fire-point-ukraine-cruise-missiles-russia"&gt;Continue reading...&lt;/a&gt;</description>
+      <description>&lt;p&gt;Fire Point makes 100 long-range missiles and thousands of drones a month and is vital to Kyiv’s deep-strike capability, says CEO Iryna Terekh&lt;/p&gt;&lt;p&gt;Ukraine’s leading arms company is manufacturing about 100 long-range Flamingo cruise missiles a month, a rate able to support an enduring campaign of deep strike against targets hundreds of miles inside Russia.&lt;/p&gt;&lt;p&gt;Fire Point is also making FP-1 and FP-2 fixed-wing drones at a rate of “hundreds per day”, according to chief executive Iryna Terekh. Manufacturing at scale is restarting after a pause caused by the delay in signing off &lt;a href="https://www.theguardian.com/world/2026/apr/22/eu-unblocks-loan-ukraine-new-sanctions-russia-hungary-lifts-veto"&gt;€90bn of EU lending to Ukraine&lt;/a&gt;.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/jul/27/fire-point-ukraine-cruise-missiles-russia"&gt;Continue reading...&lt;/a&gt;</description>
       <category domain="https://www.theguardian.com/world/ukraine">Ukraine</category>
       <category domain="https://www.theguardian.com/world/world">World news</category>
       <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
@@ -833,32 +838,6 @@
       </media:content>
       <dc:creator>Mark Sweney</dc:creator>
       <dc:date>2026-07-24T16:00:11Z</dc:date>
-    </item>
-    <item>
-      <title>‘A small snippet’: what pubs make of Burnham’s £100m rates giveaway</title>
-      <link>https://www.theguardian.com/business/2026/jul/24/snippet-pubs-burnham-rates-giveaway-landlors</link>
-      <description>&lt;p&gt;Landlords say high costs of running hospitality business outweigh potential savings of business rates discount&lt;/p&gt;&lt;p&gt;One of Andy Burnham’s first policy measures as prime minister is a &lt;a href="https://www.theguardian.com/business/2026/jul/23/business-rates-to-be-cut-by-20-for-england-pubs-clubs-and-music-venues"&gt;20% reduction in business rates&lt;/a&gt; for pubs, clubs and live music venues.&lt;/p&gt;&lt;p&gt;The policy, announced on Thursday, is part of a broader agenda to support the high street and will cost £100m.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/jul/24/snippet-pubs-burnham-rates-giveaway-landlors"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/hospitality-industry">Hospitality industry</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/pubs">Pubs</category>
-      <category domain="https://www.theguardian.com/business/business-rates">Business rates</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/politics/taxandspending">Tax and spending</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/politics/andyburnham">Andy Burnham</category>
-      <pubDate>Fri, 24 Jul 2026 06:00:05 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/jul/24/snippet-pubs-burnham-rates-giveaway-landlors</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/abd52ece36f1ca186ea7293201ae376c50eb4c89/680_0_5583_4467/master/5583.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b0ad79c7a36cdfa5f0cd807298d6c78">
-        <media:credit scheme="urn:ebu">Photograph: Andrew Fox/The Guardian</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/abd52ece36f1ca186ea7293201ae376c50eb4c89/680_0_5583_4467/master/5583.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9565528787b87f4d85ba130706a19b93">
-        <media:credit scheme="urn:ebu">Photograph: Andrew Fox/The Guardian</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/abd52ece36f1ca186ea7293201ae376c50eb4c89/680_0_5583_4467/master/5583.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a8277ab661c17b1373a904e404a9312">
-        <media:credit scheme="urn:ebu">Photograph: Andrew Fox/The Guardian</media:credit>
-      </media:content>
-      <dc:creator>Rob Davies</dc:creator>
-      <dc:date>2026-07-24T06:00:05Z</dc:date>
     </item>
     <item>
       <title>How Palantir got into the NHS - podcast</title>
