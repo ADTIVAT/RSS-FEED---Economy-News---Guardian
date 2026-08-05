@@ -6,8 +6,8 @@
     <description>Latest financial, market &amp;amp; economic news and analysis from The Guardian</description>
     <language>en-gb</language>
     <copyright>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2026</copyright>
-    <pubDate>Wed, 05 Aug 2026 06:20:19 GMT</pubDate>
-    <dc:date>2026-08-05T06:20:19Z</dc:date>
+    <pubDate>Wed, 05 Aug 2026 17:26:17 GMT</pubDate>
+    <dc:date>2026-08-05T17:26:17Z</dc:date>
     <dc:language>en-gb</dc:language>
     <dc:rights>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2026</dc:rights>
     <image>
@@ -16,32 +16,109 @@
       <link>https://www.theguardian.com</link>
     </image>
     <item>
-      <title>Revealed: major oil firms make $93bn profits amid war and climate crisis</title>
-      <link>https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis</link>
-      <description>&lt;p&gt;Iran conflict windfall over three months reignites calls for companies ‘cashing in on human misery’ to pay for environmental damage&lt;/p&gt;&lt;p&gt;Eight of the biggest oil companies amassed profits of more than $90bn (£67bn) in just three months as the Iran conflict sent energy prices soaring and the emissions-fuelled climate crisis caused deadly heatwaves.&lt;/p&gt;&lt;p&gt;The windfall war profits have reignited calls for oil and gas supermajors such as Saudi Aramco and BP to pay for the environmental damage caused by “cashing in on human misery” and fund a rapid transition to renewable energy.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/oil">Oil</category>
-      <category domain="https://www.theguardian.com/business/oilandgascompanies">Oil and gas companies</category>
-      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
-      <category domain="https://www.theguardian.com/environment/oil">Oil</category>
-      <category domain="https://www.theguardian.com/environment/fossil-fuels">Fossil fuels</category>
-      <category domain="https://www.theguardian.com/environment/energy">Energy</category>
-      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
-      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <title>AI models shock UK testers by using fake identities to try to trick developers</title>
+      <link>https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute</link>
+      <description>&lt;p&gt;AI Security Institute says models by OpenAI and Anthropic went rogue during a cybersecurity test and showed a new type of risk&lt;/p&gt;&lt;p&gt;Advanced artificial intelligence models have stunned the UK’s AI Security Institute (AISI) by carrying out a hacking campaign against real people during a cybersecurity test.&lt;/p&gt;&lt;p&gt;The institute said the incident was unprecedented and involved sending targeted emails to software developers in an attempt to pass a cyber challenge.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/technology/openai">OpenAI</category>
+      <category domain="https://www.theguardian.com/technology/anthropic">Anthropic</category>
+      <category domain="https://www.theguardian.com/business/technology">Technology sector</category>
       <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/world/world">World news</category>
-      <pubDate>Tue, 04 Aug 2026 17:49:16 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/775b4fffbd97170ab8bd525b85c4748c189f27e3/0_72_5681_4544/master/5681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c5afea439d2d6f8906a17b39b778ae9">
-        <media:credit scheme="urn:ebu">Composite: Guardian Design/Reuters/EPA/AP/Getty Images/ZUMA Press Wire/Shutterstock</media:credit>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/technology/computing">Computing</category>
+      <pubDate>Wed, 05 Aug 2026 15:15:05 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/a828d3530ab4763e68a868951a6609a74ae62bb2/379_0_2915_2333/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55bd271ede462cc9c3dae8bd11a6f816">
+        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/775b4fffbd97170ab8bd525b85c4748c189f27e3/0_72_5681_4544/master/5681.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=782054d79fbf586d280ed5dce1021837">
-        <media:credit scheme="urn:ebu">Composite: Guardian Design/Reuters/EPA/AP/Getty Images/ZUMA Press Wire/Shutterstock</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/a828d3530ab4763e68a868951a6609a74ae62bb2/379_0_2915_2333/master/2915.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68647c37f4a6164c458d0bda258d967b">
+        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/775b4fffbd97170ab8bd525b85c4748c189f27e3/0_72_5681_4544/master/5681.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=255fc0026a7cf77c73b85de1b5ea59ab">
-        <media:credit scheme="urn:ebu">Composite: Guardian Design/Reuters/EPA/AP/Getty Images/ZUMA Press Wire/Shutterstock</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/a828d3530ab4763e68a868951a6609a74ae62bb2/379_0_2915_2333/master/2915.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8cc9e57fc0a34c029d285787e78935e0">
+        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
       </media:content>
-      <dc:creator>Jillian Ambrose and Damian Carrington</dc:creator>
-      <dc:date>2026-08-04T17:49:16Z</dc:date>
+      <dc:creator>Dan Milmo Global technology editor</dc:creator>
+      <dc:date>2026-08-05T15:15:05Z</dc:date>
+    </item>
+    <item>
+      <title>Judge casts doubt on future of WH Smith replacement TG Jones</title>
+      <link>https://www.theguardian.com/business/2026/aug/05/judge-casts-doubt-on-future-of-wh-smith-replacement-tg-jones</link>
+      <description>&lt;p&gt;Mr Justice Hildyard, who approved rescue plan in July, said turnaround plan came with ‘very considerable’ risks&lt;/p&gt;&lt;p&gt;The judge who approved a rescue plan for the former WH Smith high street business – now named TG Jones – cast doubt on the future prospects of the retailer, suggesting there were “very considerable” risks in achieving a turnaround.&lt;/p&gt;&lt;p&gt;“This has all the hallmarks of an adventurous equity play,” wrote Mr Justice Hildyard in &lt;a href="https://caselaw.nationalarchives.gov.uk/ewhc/ch/2026/2079"&gt;his judgment &lt;/a&gt;published on Wednesday, after he last month &lt;a href="https://www.theguardian.com/business/2026/jul/01/150-former-wh-smith-tg-jones-stores-to-close-high-court-approves-restructure"&gt;approved the restructuring, &lt;/a&gt;which involves the closure of 150 of the books-to-paperclips retailer’s 450 stores.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/aug/05/judge-casts-doubt-on-future-of-wh-smith-replacement-tg-jones"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/retail">Retail industry</category>
+      <category domain="https://www.theguardian.com/business/whsmith">WH Smith</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Wed, 05 Aug 2026 16:25:03 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/aug/05/judge-casts-doubt-on-future-of-wh-smith-replacement-tg-jones</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/4db85a7a9af0cd8487c9cfb4f2823dbce3feadaf/1274_1003_6667_5333/master/6667.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd1071dd7553316b93b354dce9433438">
+        <media:credit scheme="urn:ebu">Photograph: Antonio Olmos/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/4db85a7a9af0cd8487c9cfb4f2823dbce3feadaf/1274_1003_6667_5333/master/6667.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a547f192d801121b75875169df3d7674">
+        <media:credit scheme="urn:ebu">Photograph: Antonio Olmos/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/4db85a7a9af0cd8487c9cfb4f2823dbce3feadaf/1274_1003_6667_5333/master/6667.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d721c9b30fee80b49661b65fede9246">
+        <media:credit scheme="urn:ebu">Photograph: Antonio Olmos/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Sarah Butler</dc:creator>
+      <dc:date>2026-08-05T16:25:03Z</dc:date>
+    </item>
+    <item>
+      <title>‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’</title>
+      <link>https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber</link>
+      <description>&lt;p&gt;Wayve Uber wins first minicab licence for autonomous cabs from TfL but vehicles will have a safety driver (at first)&lt;/p&gt;&lt;p&gt;The taxi app company Uber and the autonomous technology developer Wayve have been granted the first minicab licences in London allowing them to offer self-driving taxi rides to paying customers – but with a human safety driver in place, for now.&lt;/p&gt;&lt;p&gt;The companies said they would start trips in the UK “later this summer” before the full public launch.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/self-driving-cars">Self-driving cars</category>
+      <category domain="https://www.theguardian.com/technology/uber">Uber</category>
+      <category domain="https://www.theguardian.com/business/automotive-industry">Automotive industry</category>
+      <category domain="https://www.theguardian.com/world/road-transport">Road transport</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/politics/transport">Transport policy</category>
+      <category domain="https://www.theguardian.com/uk/transport">Transport</category>
+      <category domain="https://www.theguardian.com/uk/london">London</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/business/technology">Technology sector</category>
+      <category domain="https://www.theguardian.com/uk/tfl">TfL</category>
+      <category domain="https://www.theguardian.com/world/road-safety">Road safety</category>
+      <pubDate>Wed, 05 Aug 2026 13:54:12 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/72f67547439060c547be790936d8923f19e398ae/341_0_3413_2731/master/3413.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a412dedd0e1aa41f32687ed66b8dea0f">
+        <media:credit scheme="urn:ebu">Photograph: Wayve</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/72f67547439060c547be790936d8923f19e398ae/341_0_3413_2731/master/3413.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=171c551f8e4e024aec4a510ae27a7a30">
+        <media:credit scheme="urn:ebu">Photograph: Wayve</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/72f67547439060c547be790936d8923f19e398ae/341_0_3413_2731/master/3413.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb55ba8478bcc625bdeaab6eae32ad0b">
+        <media:credit scheme="urn:ebu">Photograph: Wayve</media:credit>
+      </media:content>
+      <dc:creator>Jasper Jolly</dc:creator>
+      <dc:date>2026-08-05T13:54:12Z</dc:date>
+    </item>
+    <item>
+      <title>Darth Vader to become a TikTok star as Disney strikes deal on short video</title>
+      <link>https://www.theguardian.com/technology/2026/aug/05/tiktok-disney-deal-short-video-darth-vader-spider-man</link>
+      <description>&lt;p&gt;Characters and memorable scenes from back catalogue made available to group of creator fans&lt;/p&gt;&lt;p&gt;The likes of Darth Vader, Spider-Man and Moana are about to become TikTok stars for the first time – at least now on an official basis – after Walt Disney struck a “first of its kind” deal with the booming short-video platform.&lt;/p&gt;&lt;p&gt;In an acknowledgment of the influence fan-made content now has in the entertainment industry, a select group of creators will be allowed to use characters and memorable scenes from Disney’s back catalogue.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/aug/05/tiktok-disney-deal-short-video-darth-vader-spider-man"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/tiktok">TikTok</category>
+      <category domain="https://www.theguardian.com/media/disney-">Disney+</category>
+      <category domain="https://www.theguardian.com/film/pixar">Pixar</category>
+      <category domain="https://www.theguardian.com/culture/marvel">Marvel</category>
+      <category domain="https://www.theguardian.com/film/film">Film</category>
+      <category domain="https://www.theguardian.com/culture/culture">Culture</category>
+      <category domain="https://www.theguardian.com/media/media">Media</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <pubDate>Wed, 05 Aug 2026 14:01:15 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/aug/05/tiktok-disney-deal-short-video-darth-vader-spider-man</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/a676cea0d09d9c956593d8851ad2a1800d2f6db4/0_0_4427_3543/master/4427.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a537f8f3007cfe54dbfb444744f26be">
+        <media:credit scheme="urn:ebu">Photograph: TASCHEN/TM &amp; © 2018 LFL/Taschen</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/a676cea0d09d9c956593d8851ad2a1800d2f6db4/0_0_4427_3543/master/4427.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b01c626e2975e4d46b89fde124c4316f">
+        <media:credit scheme="urn:ebu">Photograph: TASCHEN/TM &amp; © 2018 LFL/Taschen</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/a676cea0d09d9c956593d8851ad2a1800d2f6db4/0_0_4427_3543/master/4427.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e551cffe0d5fa47b47628fa0f8055f8">
+        <media:credit scheme="urn:ebu">Photograph: TASCHEN/TM &amp; © 2018 LFL/Taschen</media:credit>
+      </media:content>
+      <dc:creator>Michael Savage Media editor</dc:creator>
+      <dc:date>2026-08-05T14:01:15Z</dc:date>
     </item>
     <item>
       <title>Palantir paid just £2m corporation tax in UK in 2024 despite lucrative public sector contracts</title>
@@ -70,186 +147,109 @@
       <dc:date>2026-08-05T05:00:09Z</dc:date>
     </item>
     <item>
-      <title>SpaceX beats revenue expectations in first earnings report after IPO crash</title>
-      <link>https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report</link>
-      <description>&lt;p&gt;Company posts $7.81bn in revenue, a jump of 92%, after share prices crashed following IPO debut&lt;/p&gt;&lt;p&gt;For the first time since &lt;a href="https://www.theguardian.com/science/spacex"&gt;SpaceX&lt;/a&gt; went public, the world is getting a first-hand look into the trillion-dollar corporation’s financials. The &lt;a href="https://www.theguardian.com/technology/elon-musk"&gt;Elon Musk&lt;/a&gt;-run business reported its second-quarter earnings on Tuesday, saying that its revenue jumped 92% since June.&lt;/p&gt;&lt;p&gt;SpaceX beat Wall Street expectations, reporting $7.81bn in revenue, versus analysts’ predictions of $6.93bn. While expansive, the company is not profitable. The company reported a loss of $541m, down from a $1bn loss in the same quarter last year.&lt;/p&gt; &lt;a href="https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/science/spacex">SpaceX</category>
-      <category domain="https://www.theguardian.com/business/quarterly-results">Quarterly results</category>
-      <category domain="https://www.theguardian.com/technology/elon-musk">Elon Musk</category>
-      <category domain="https://www.theguardian.com/technology/twitter">X</category>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <title>US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds</link>
+      <description>&lt;p&gt;More than half of tariff income refunded after supreme court ruled Trump’s levies were illegal&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href="https://www.theguardian.com/business/live/2026/aug/05/asian-shares-jump-ai-trade-revival-despite-spacex-amd-setbacks-oil-prices-dip-live-updates"&gt;Business live – latest updates&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The Trump administration has refunded about $100bn from the tariffs it collected before the US supreme court ruled them illegal, according to reports.&lt;/p&gt;&lt;p&gt;The $100bn (£74bn) figure, which represents 60% of the total $165bn collected from Donald Trump’s “liberation day” tariffs, was reported by customs officials to the US court of international trade (CIT) on Tuesday, according to the Financial Times.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/trump-tariffs">Trump tariffs</category>
+      <category domain="https://www.theguardian.com/business/tariffs">Tariffs</category>
+      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
+      <category domain="https://www.theguardian.com/business/internationaltrade">International trade</category>
       <category domain="https://www.theguardian.com/business/business">Business</category>
       <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <pubDate>Tue, 04 Aug 2026 23:34:17 GMT</pubDate>
-      <guid>https://www.theguardian.com/science/2026/aug/04/spacex-first-earnings-report</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/0c9b4c3d418e6b5ceb70e1dbbc49d466347f8b17/300_0_2952_2362/master/2952.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c7ef4fe8764e92ff4af691870999c32c">
-        <media:credit scheme="urn:ebu">Photograph: Steve Nesius/Reuters</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/0c9b4c3d418e6b5ceb70e1dbbc49d466347f8b17/300_0_2952_2362/master/2952.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff40909a3e8b458c1e77dcc88e409455">
-        <media:credit scheme="urn:ebu">Photograph: Steve Nesius/Reuters</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/0c9b4c3d418e6b5ceb70e1dbbc49d466347f8b17/300_0_2952_2362/master/2952.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a657aa5e1561f661aadcac6eb7aba62f">
-        <media:credit scheme="urn:ebu">Photograph: Steve Nesius/Reuters</media:credit>
-      </media:content>
-      <dc:creator>Dara Kerr</dc:creator>
-      <dc:date>2026-08-04T23:34:17Z</dc:date>
-    </item>
-    <item>
-      <title>Bank battle: history suggests Burnham faces fight if he opts for windfall tax</title>
-      <link>https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living</link>
-      <description>&lt;p&gt;As lenders’ profits soar, calls grow for a levy to help new PM ease cost of living pressures on households&lt;/p&gt;&lt;p&gt;It has been a stellar week for UK banks. Fuelled by high interest rates and market turbulence rippling out from the US war on Iran, major lenders have revealed soaring half-year profits that allowed bosses to boost bonus pots and give billions of pounds to shareholders.&lt;/p&gt;&lt;p&gt;Collectively, the UK’s four largest lenders – HSBC, NatWest, Barclays and Lloyds – &lt;a href="https://www.theguardian.com/business/2026/aug/04/uk-bank-tax-hsbc-profits-andy-burnham"&gt;reported £29.2bn in profits&lt;/a&gt; over the first six months of the year, with almost half, £13.7bn, pledged to investors through dividends and share buybacks.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/banking">Banking</category>
-      <category domain="https://www.theguardian.com/business/financial-sector">Financial sector</category>
-      <category domain="https://www.theguardian.com/politics/taxandspending">Tax and spending</category>
-      <category domain="https://www.theguardian.com/business/cost-of-living-crisis">UK cost of living crisis</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/politics/andyburnham">Andy Burnham</category>
-      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
-      <category domain="https://www.theguardian.com/politics/economy">Economic policy</category>
-      <category domain="https://www.theguardian.com/business/hsbcholdings">HSBC</category>
-      <category domain="https://www.theguardian.com/business/natwest-group">NatWest Group</category>
-      <category domain="https://www.theguardian.com/business/lloyds-banking-group">Lloyds Banking Group</category>
       <category domain="https://www.theguardian.com/business/economics">Economics</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <pubDate>Wed, 05 Aug 2026 05:00:11 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/eedd60c787c392a131a9bb9d3e3fa35ed6ec145e/582_48_4114_3293/master/4114.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd6ed545147304ab2c6c93b98c7a1bfe">
-        <media:credit scheme="urn:ebu">Photograph: Ian Pilbeam/Alamy</media:credit>
+      <category domain="https://www.theguardian.com/business/global-economy">Global economy</category>
+      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
+      <pubDate>Wed, 05 Aug 2026 10:43:44 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/ed2c3601a468df43f57e47e94309fd63d0d09547/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=248c155993fc3b18d4364f562ba60714">
+        <media:credit scheme="urn:ebu">Photograph: Mike Blake/Reuters</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/eedd60c787c392a131a9bb9d3e3fa35ed6ec145e/582_48_4114_3293/master/4114.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27899732878133ca5e57eafd47c601ed">
-        <media:credit scheme="urn:ebu">Photograph: Ian Pilbeam/Alamy</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/ed2c3601a468df43f57e47e94309fd63d0d09547/0_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50ba5ca63acc7eb5abd80220f0cf0fc4">
+        <media:credit scheme="urn:ebu">Photograph: Mike Blake/Reuters</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/eedd60c787c392a131a9bb9d3e3fa35ed6ec145e/582_48_4114_3293/master/4114.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c60eed5f5ec4cb4f8aaa0509eba9d845">
-        <media:credit scheme="urn:ebu">Photograph: Ian Pilbeam/Alamy</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/ed2c3601a468df43f57e47e94309fd63d0d09547/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3d13cb20c147a549cc139716c921144">
+        <media:credit scheme="urn:ebu">Photograph: Mike Blake/Reuters</media:credit>
       </media:content>
-      <dc:creator>Kalyeena Makortoff Banking correspondent</dc:creator>
-      <dc:date>2026-08-05T05:00:11Z</dc:date>
+      <dc:creator>Lauren Almeida</dc:creator>
+      <dc:date>2026-08-05T10:43:44Z</dc:date>
     </item>
     <item>
-      <title>OpenAI pays $3.2m to settle claims it discriminated against US workers</title>
-      <link>https://www.theguardian.com/us-news/2026/aug/04/openai-worker-discrimination-claims-settlement</link>
-      <description>&lt;p&gt;Company and subsidiary Statsig alleged by US justice department to have favored foreign workers in hiring&lt;/p&gt;&lt;p&gt;OpenAI and a subsidiary will pay $3.2m to settle US government claims that they ⁠favored foreign workers with temporary employment visas and discriminated against US job applicants in recruiting and hiring, the justice department said ⁠on Tuesday.&lt;/p&gt;&lt;p&gt;The justice ⁠department in ​a release said that OpenAI and Statsig, which makes product development software, recruited foreign workers for some open positions and ⁠took various steps to discourage US workers from applying.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/aug/04/openai-worker-discrimination-claims-settlement"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <category domain="https://www.theguardian.com/technology/openai">OpenAI</category>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
-      <category domain="https://www.theguardian.com/world/world">World news</category>
-      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
-      <pubDate>Wed, 05 Aug 2026 00:47:35 GMT</pubDate>
-      <guid>https://www.theguardian.com/us-news/2026/aug/04/openai-worker-discrimination-claims-settlement</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/5db8e59cbd6842019ce85d0e19df962cc9c7bef1/664_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75992fb4a53f3ab8fcb570374de2d5d1">
-        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/5db8e59cbd6842019ce85d0e19df962cc9c7bef1/664_0_3333_2667/master/3333.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33638c9085900e3ee2358edbcbf56a10">
-        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/5db8e59cbd6842019ce85d0e19df962cc9c7bef1/664_0_3333_2667/master/3333.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=524586e0c868fe8edde46ab698c4dbf1">
-        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
-      </media:content>
-      <dc:creator>Reuters</dc:creator>
-      <dc:date>2026-08-05T00:47:35Z</dc:date>
-    </item>
-    <item>
-      <title>US stock market hits record highs as AI profits pile and oil prices ease</title>
-      <link>https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease</link>
-      <description>&lt;p&gt;S&amp;amp;P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months ago&lt;/p&gt;&lt;p&gt;The US stock market rallied to records on Tuesday as profits kept piling up for companies and as oil prices eased.&lt;/p&gt;&lt;p&gt;The S&amp;amp;P 500 shot up 1.8%, and the main measure of Wall Street’s health topped its prior all-time high set a couple months ago. The Dow Jones industrial average added 907 points, or 1.7%, to its own record set the day before, while the Nasdaq composite jumped 2.6%.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/stock-markets">Stock markets</category>
+      <title>Sweltering summer lifts Next sales as profit outlook upgraded again</title>
+      <link>https://www.theguardian.com/business/2026/aug/05/next-upgrades-profit-outlook-again-benefits-from-summer-spending</link>
+      <description>&lt;p&gt;Clothing and homeware retailer says growth led by suite of alternative brands and strong online sales&lt;/p&gt;&lt;p&gt;Next has raised hopes that UK shoppers are still willing to spend despite pressures on household budgets, after the hot summer boosted its clothing sales.&lt;/p&gt;&lt;p&gt;The retailer has upgraded its profit guidance for the third time this year, saying it benefited from &lt;a href="https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war"&gt;sunny weather&lt;/a&gt; and the release of some “pent-up demand” in the Middle East and northern Europe in the 13 weeks ended on 1 August.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/aug/05/next-upgrades-profit-outlook-again-benefits-from-summer-spending"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/next">Next</category>
+      <category domain="https://www.theguardian.com/business/retail">Retail industry</category>
       <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <category domain="https://www.theguardian.com/business/useconomy">US economy</category>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
-      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
-      <category domain="https://www.theguardian.com/us-news/datacenters--us-">Datacenters</category>
-      <pubDate>Tue, 04 Aug 2026 20:56:59 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/93edb9c87b7eb6a98a213cee3de3a24230ae3481/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c958d462821fa2889088d28ee304021b">
-        <media:credit scheme="urn:ebu">Photograph: Jeenah Moon/Reuters</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/93edb9c87b7eb6a98a213cee3de3a24230ae3481/500_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a719211234b566ea050b2fc6dcccd28">
-        <media:credit scheme="urn:ebu">Photograph: Jeenah Moon/Reuters</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/93edb9c87b7eb6a98a213cee3de3a24230ae3481/500_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f848f4a4834dfd1ed2a4d7282ae4a56">
-        <media:credit scheme="urn:ebu">Photograph: Jeenah Moon/Reuters</media:credit>
-      </media:content>
-      <dc:creator>Associated Press</dc:creator>
-      <dc:date>2026-08-04T20:56:59Z</dc:date>
-    </item>
-    <item>
-      <title>Calls to ban disposable barbecues in England and Wales over wildfire risk</title>
-      <link>https://www.theguardian.com/world/2026/aug/04/call-to-ban-disposable-barbecues-in-england-and-wales-over-wildfire-risk</link>
-      <description>&lt;p&gt;Lib Dems and many Labour MPs join farmers, landowners and firefighters in urging temporary prohibition&lt;/p&gt;&lt;p&gt;Farmers and landowners are calling for a temporary ban on disposable barbecues in England and Wales, as they warn of the risk of igniting wildfires.&lt;/p&gt;&lt;p&gt;The call, which has also been made by firefighters and is backed by the Liberal Democrats and many Labour MPs, comes as much of England faces further hot dry weather, despite rain in some areas.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/aug/04/call-to-ban-disposable-barbecues-in-england-and-wales-over-wildfire-risk"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/world/wildfires">Wildfires</category>
-      <category domain="https://www.theguardian.com/uk-news/england">England</category>
-      <category domain="https://www.theguardian.com/uk/wales">Wales</category>
-      <category domain="https://www.theguardian.com/environment/extreme-heat">Extreme heat</category>
-      <category domain="https://www.theguardian.com/world/extreme-weather">Extreme weather</category>
+      <category domain="https://www.theguardian.com/business/johnlewis">John Lewis</category>
       <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
-      <category domain="https://www.theguardian.com/environment/farming">Farming</category>
-      <pubDate>Tue, 04 Aug 2026 17:46:24 GMT</pubDate>
-      <guid>https://www.theguardian.com/world/2026/aug/04/call-to-ban-disposable-barbecues-in-england-and-wales-over-wildfire-risk</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb1b97e1a06833c9b36cf38a084d7c1c">
-        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      <pubDate>Wed, 05 Aug 2026 11:54:12 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/aug/05/next-upgrades-profit-outlook-again-benefits-from-summer-spending</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/399dab45d5961b205d2d3962b2fd9104ff73f358/1001_0_5580_4464/master/5580.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6b3e80f2f3e581f37baab3b63434387">
+        <media:credit scheme="urn:ebu">Photograph: Robert Chlopas/Alamy</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c2d6d85b504c2b2e42f83351206f36f">
-        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/399dab45d5961b205d2d3962b2fd9104ff73f358/1001_0_5580_4464/master/5580.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e71ec6da026cc5a46a053a163039575">
+        <media:credit scheme="urn:ebu">Photograph: Robert Chlopas/Alamy</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d42f3eb51cf095c4d8c3975fe26824b">
-        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/399dab45d5961b205d2d3962b2fd9104ff73f358/1001_0_5580_4464/master/5580.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=98a29b729974f08ea1086e5ae025599b">
+        <media:credit scheme="urn:ebu">Photograph: Robert Chlopas/Alamy</media:credit>
       </media:content>
-      <dc:creator>Fiona Harvey Environment editor</dc:creator>
-      <dc:date>2026-08-04T17:46:24Z</dc:date>
+      <dc:creator>Lauren Almeida and Sarah Butler</dc:creator>
+      <dc:date>2026-08-05T11:54:12Z</dc:date>
     </item>
     <item>
-      <title>Government contracts to require job creation instead of green targets under new rules</title>
-      <link>https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules</link>
-      <description>&lt;p&gt;Louise Haigh says taxpayer money must benefit local communities amid backlash from environmental groups&lt;/p&gt;&lt;p&gt;Ministers will scrap the requirement for companies to prove their green and progressive values before they are awarded government contracts, and instead ask firms to prove they will help young people back into work.&lt;/p&gt;&lt;p&gt;As part of a government push to reduce the number of people &lt;a href="https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report"&gt;not in education, employment or training (Neets)&lt;/a&gt; in the UK and boost regional growth, public sector buyers will double the consideration they give to whether companies will get more people into jobs, rather than if they can show they are improving social and environmental wellbeing. Government procurement contracts account for about £90bn of taxpayers’ money spent each year.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/society/unemployment">Unemployment</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/society/society">Society</category>
-      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
-      <category domain="https://www.theguardian.com/politics/louise-haigh">Louise Haigh</category>
-      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
-      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
-      <pubDate>Tue, 04 Aug 2026 21:30:00 GMT</pubDate>
-      <guid>https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/27f027de93aa21c3a4e7d413a9dfb952828a6cbf/285_0_2735_2188/master/2735.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d0af535b8421fc3c23b6bdd16f903ee">
-        <media:credit scheme="urn:ebu">Photograph: Peter Byrne/PA</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/27f027de93aa21c3a4e7d413a9dfb952828a6cbf/285_0_2735_2188/master/2735.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1c99c66127d8e20c977f1c152a6bfc7">
-        <media:credit scheme="urn:ebu">Photograph: Peter Byrne/PA</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/27f027de93aa21c3a4e7d413a9dfb952828a6cbf/285_0_2735_2188/master/2735.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=058c65b8ca6fc3045e1bf72cfa750ce6">
-        <media:credit scheme="urn:ebu">Photograph: Peter Byrne/PA</media:credit>
-      </media:content>
-      <dc:creator>Alexandra Topping Political correspondent</dc:creator>
-      <dc:date>2026-08-04T21:30:00Z</dc:date>
-    </item>
-    <item>
-      <title>Trump administration reportedly drafting ban on Chinese datacenter components</title>
-      <link>https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices</link>
-      <description>&lt;p&gt;Trump’s FCC is developing a measure to bar US imports of new models of Chinese datacenter devices, sources say&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.theguardian.com/us-news/trump-administration"&gt;Trump administration&lt;/a&gt; is reportedly drafting a ban on US imports of new models of Chinese datacenter components, in the latest sign US authorities are scrambling to respond to the rapid development of &lt;a href="https://www.theguardian.com/technology/artificialintelligenceai"&gt;AI&lt;/a&gt; technology in &lt;a href="https://www.theguardian.com/world/china"&gt;China&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Four people familiar with the matter told Reuters that the Federal Communications Commission (FCC), which oversees the US ⁠telecommunications industry, is developing a measure to bar imports of new ​Chinese optical transceivers, which allow data to travel over fiber-optic cables at the speed of light within datacenters. Officials hope to publish the measure this year, according to Reuters.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/us-news/datacenters--us-">Datacenters</category>
-      <category domain="https://www.theguardian.com/world/china">China</category>
-      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
-      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <title>Video game maker EA bought by Saudi-led group for $55bn</title>
+      <link>https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group</link>
+      <description>&lt;p&gt;Company acquired in deal involving Affinity Partners, a firm run by Donald Trump’s son-in-law Jared Kushner&lt;/p&gt;&lt;p&gt;Electronic Arts, the maker of video games such as The Sims, Madden NFL and Battlefield, has been bought by Saudi Arabia’s wealth fund and a group of investors for $55bn (£41bn).&lt;/p&gt;&lt;p&gt;The company announced the completion of the deal on Tuesday evening, only days after the EU gave its approval, the final regulatory green light needed.&lt;/p&gt; &lt;a href="https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/games/games">Games</category>
+      <category domain="https://www.theguardian.com/business/mergers-and-acquisitions">Mergers and acquisitions</category>
       <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/world/saudiarabia">Saudi Arabia</category>
+      <category domain="https://www.theguardian.com/us-news/jared-kushner">Jared Kushner</category>
+      <category domain="https://www.theguardian.com/business/privateequity">Private equity</category>
       <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
       <category domain="https://www.theguardian.com/world/world">World news</category>
-      <pubDate>Tue, 04 Aug 2026 17:21:33 GMT</pubDate>
-      <guid>https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/612dfa703511b341162b81618cf403090baf635f/835_0_3085_2470/master/3085.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a95bf3299c2f4e3f25531a89e8dfccb6">
-        <media:credit scheme="urn:ebu">Photograph: Fred Greaves/Reuters</media:credit>
+      <category domain="https://www.theguardian.com/world/eu">European Union</category>
+      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
+      <pubDate>Wed, 05 Aug 2026 06:34:18 GMT</pubDate>
+      <guid>https://www.theguardian.com/games/2026/aug/05/video-game-maker-ea-bought-by-saudi-led-group</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/6407685623ff54675aac4a83b90f41ab7ff2a678/324_0_1350_1080/master/1350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ab452665e1d7dc2a69cd7e29ec1f9ce3">
+        <media:credit scheme="urn:ebu">Photograph: EA Games</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/612dfa703511b341162b81618cf403090baf635f/835_0_3085_2470/master/3085.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=462937d2668fd337a7ad585fd475577f">
-        <media:credit scheme="urn:ebu">Photograph: Fred Greaves/Reuters</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/6407685623ff54675aac4a83b90f41ab7ff2a678/324_0_1350_1080/master/1350.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dee199f23ae2dc3e22c58a35dab5a3c4">
+        <media:credit scheme="urn:ebu">Photograph: EA Games</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/612dfa703511b341162b81618cf403090baf635f/835_0_3085_2470/master/3085.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6775713f95d60c8b994f8211b31cc54">
-        <media:credit scheme="urn:ebu">Photograph: Fred Greaves/Reuters</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/6407685623ff54675aac4a83b90f41ab7ff2a678/324_0_1350_1080/master/1350.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67f9c07e89fd59addfe1100356939de0">
+        <media:credit scheme="urn:ebu">Photograph: EA Games</media:credit>
       </media:content>
-      <dc:creator>Nick Robins-Early  and agency</dc:creator>
-      <dc:date>2026-08-04T17:21:33Z</dc:date>
+      <dc:creator>Joanna Partridge</dc:creator>
+      <dc:date>2026-08-05T06:34:18Z</dc:date>
+    </item>
+    <item>
+      <title>Film posters for The Mummy banned from public display in UK</title>
+      <link>https://www.theguardian.com/film/2026/aug/05/film-posters-for-the-mummy-banned-from-public-display-in-the-uk</link>
+      <description>&lt;p&gt;Watchdogs say adverts in London tube stations broke its rules with ‘realistic impression of a dead child’&lt;/p&gt;&lt;p&gt;Film posters for The Mummy have been banned from outdoor public display in the UK because they include realistic depictions of a dead child.&lt;/p&gt;&lt;p&gt;The UK’s Advertising Standards Authority (ASA) received 30 complaints over the promotional campaign in London tube stations for the new Lee Cronin film.&lt;/p&gt; &lt;a href="https://www.theguardian.com/film/2026/aug/05/film-posters-for-the-mummy-banned-from-public-display-in-the-uk"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/film/film">Film</category>
+      <category domain="https://www.theguardian.com/film/horror">Horror films</category>
+      <category domain="https://www.theguardian.com/media/asa">Advertising Standards Authority</category>
+      <category domain="https://www.theguardian.com/media/advertising">Advertising</category>
+      <category domain="https://www.theguardian.com/uk/london">London</category>
+      <category domain="https://www.theguardian.com/uk/london-underground">London Underground</category>
+      <category domain="https://www.theguardian.com/media/media">Media</category>
+      <category domain="https://www.theguardian.com/culture/culture">Culture</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Wed, 05 Aug 2026 13:23:35 GMT</pubDate>
+      <guid>https://www.theguardian.com/film/2026/aug/05/film-posters-for-the-mummy-banned-from-public-display-in-the-uk</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/c6d2eef0edf8f764c17c9c469bf99d816c6e2ade/0_336_494_395/master/494.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=20af90eea0092bd2593035fa4ccb822e">
+        <media:credit scheme="urn:ebu">Photograph: ASA/PA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/c6d2eef0edf8f764c17c9c469bf99d816c6e2ade/0_336_494_395/master/494.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4770bd63e08e65245196bc1385d6030c">
+        <media:credit scheme="urn:ebu">Photograph: ASA/PA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/c6d2eef0edf8f764c17c9c469bf99d816c6e2ade/0_336_494_395/master/494.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c2618c97f8dccbe6220fff638248753">
+        <media:credit scheme="urn:ebu">Photograph: ASA/PA</media:credit>
+      </media:content>
+      <dc:creator>Nadia Khomami Arts and culture correspondent</dc:creator>
+      <dc:date>2026-08-05T13:23:35Z</dc:date>
     </item>
     <item>
       <title>BP boss is unsentimental in pruning portfolio and clear on North Sea advice to Burnham | Nils Pratley</title>
@@ -275,6 +275,57 @@
       </media:content>
       <dc:creator>Nils Pratley</dc:creator>
       <dc:date>2026-08-04T17:56:21Z</dc:date>
+    </item>
+    <item>
+      <title>Democracy is at stake when foolish humans bet on machines being intelligent | Rafael Behr</title>
+      <link>https://www.theguardian.com/commentisfree/2026/aug/05/ai-regulation-donald-trump-artificial-intelligence</link>
+      <description>&lt;p&gt;We need an enlightened US president to make the case for global AI regulation. Donald Trump is the exact opposite of what is needed&lt;/p&gt;&lt;p&gt;When I am woken by the sound of my dog whining, I understand that she is hungry and wants me to get up. When my alarm clock goes off, I don’t consider its needs. It is following an instruction to rouse me at a certain time but it doesn’t care if I stay in bed. It doesn’t try to get me up by other means. The dog, on the other hand, will go to plan B. She barks.&lt;/p&gt;&lt;p&gt;This capacity for autonomous action was once a difference between animals and machines. AI has &lt;a href="https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"&gt;blurred the line&lt;/a&gt;. Advanced models devise their own strategies to reach a goal. The task might be defined by a human master, but the machine weighs its options for delivery. It can make its own choices. Given rules, it can break them.&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/aug/05/ai-regulation-donald-trump-artificial-intelligence"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/technology/openai">OpenAI</category>
+      <category domain="https://www.theguardian.com/technology/anthropic">Anthropic</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/world/china">China</category>
+      <category domain="https://www.theguardian.com/technology/computing">Computing</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/world/asia-pacific">Asia Pacific</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <pubDate>Wed, 05 Aug 2026 07:00:13 GMT</pubDate>
+      <guid>https://www.theguardian.com/commentisfree/2026/aug/05/ai-regulation-donald-trump-artificial-intelligence</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/a49e30a11ac40a6645f2c7e72f02d47b8b5b7b42/569_0_4202_3362/master/4202.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3e52d41756d570fa880147a45fa15c23">
+        <media:credit scheme="urn:ebu">Photograph: Evelyn Hockstein/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/a49e30a11ac40a6645f2c7e72f02d47b8b5b7b42/569_0_4202_3362/master/4202.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e67da2c421665c8ba936bd78042120cc">
+        <media:credit scheme="urn:ebu">Photograph: Evelyn Hockstein/Reuters</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/a49e30a11ac40a6645f2c7e72f02d47b8b5b7b42/569_0_4202_3362/master/4202.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b7d3e71df9a286e36ab1bc4708e9a56">
+        <media:credit scheme="urn:ebu">Photograph: Evelyn Hockstein/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Rafael Behr</dc:creator>
+      <dc:date>2026-08-05T07:00:13Z</dc:date>
+    </item>
+    <item>
+      <title>Why is Anthropic destroying books? | Kathryn James</title>
+      <link>https://www.theguardian.com/commentisfree/2026/aug/05/anthropic-ai-destroying-books</link>
+      <description>&lt;p&gt;The AI company apparently found destructively scanning ‘all the books in the world’ easier than dealing with copyright in its quest for training data&lt;/p&gt;&lt;p&gt;Should we destroy all the books in the world?&lt;/p&gt;&lt;p&gt;An answer to this question can be found in the court documents of Bartz v Anthropic PBC. The northern California district court case, decided in late July this year, highlighted the improbably named “Project Panama”, one of the AI company Anthropic’s efforts to improve its large language model Claude. “What is Project Panama?” &lt;a href="https://www.courtlistener.com/docket/69058235/554/21/bartz-v-anthropic-pbc/"&gt;court exhibit 21&lt;/a&gt; asks, in an internal memo. The answer: “Project Panama is our effort to destructively scan all the books in the world.” The memo advises discretion: “Why use a codename? … [B]ecause we don’t want it to be known that we are working on this.”&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/aug/05/anthropic-ai-destroying-books"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/books/books">Books</category>
+      <category domain="https://www.theguardian.com/technology/anthropic">Anthropic</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/culture/culture">Culture</category>
+      <pubDate>Wed, 05 Aug 2026 11:00:16 GMT</pubDate>
+      <guid>https://www.theguardian.com/commentisfree/2026/aug/05/anthropic-ai-destroying-books</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/bb2ccc0cc92bd8a3334cf3973ac18be63600cf97/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e282c7687fa4aeca546f4c656ce5a6cc">
+        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/bb2ccc0cc92bd8a3334cf3973ac18be63600cf97/250_0_2500_2000/master/2500.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d11587aa943bfd7a4d00c015253a708">
+        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/bb2ccc0cc92bd8a3334cf3973ac18be63600cf97/250_0_2500_2000/master/2500.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=019c177644fa0a263c4e95f0cdd0aa82">
+        <media:credit scheme="urn:ebu">Photograph: Dado Ruvić/Reuters</media:credit>
+      </media:content>
+      <dc:creator>Kathryn James</dc:creator>
+      <dc:date>2026-08-05T11:00:16Z</dc:date>
     </item>
     <item>
       <title>Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter</title>
@@ -344,31 +395,24 @@
       <dc:date>2026-08-04T17:30:06Z</dc:date>
     </item>
     <item>
-      <title>US water facilities targeted by ‘malicious cyber actors’ – who’s to blame?</title>
-      <link>https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran</link>
-      <description>&lt;p&gt;Despite Trump’s efforts to blame Tim Walz and Minnesota, officials suspect Iran behind attacks on US infrastructure&lt;/p&gt;&lt;p&gt;Late last week, federal authorities issued a stern warning saying “malicious cyber actors” were targeting water and wastewater facilities in at least seven states across the US. Minnesota appeared to be the hardest hit with 30 of its water systems hit by cyber-attacks, leading to disruptions in the state’s water supply.&lt;/p&gt;&lt;p&gt;The problems ranged from low-pressure water flow in people’s homes to some utilities announcing boil-water notices. But there have been no reports of drinking water contamination.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/technology/hacking">Hacking</category>
-      <category domain="https://www.theguardian.com/technology/cybercrime">Cybercrime</category>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
-      <category domain="https://www.theguardian.com/technology/internet">Internet</category>
-      <category domain="https://www.theguardian.com/us-news/minnesota">Minnesota</category>
-      <category domain="https://www.theguardian.com/world/iran">Iran</category>
-      <category domain="https://www.theguardian.com/us-news/us-foreign-policy">US foreign policy</category>
-      <category domain="https://www.theguardian.com/world/world">World news</category>
-      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <pubDate>Tue, 04 Aug 2026 11:00:48 GMT</pubDate>
-      <guid>https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/fd6f920fa16535a641ef9fc8e0a0d8b64c9417de/660_0_6596_5277/master/6596.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=584db1177d97869d665112056144b4c3">
-        <media:credit scheme="urn:ebu">Photograph: Ellen Schmidt/AP</media:credit>
+      <title>Businesses in England: tell us about your experience of taking on apprentices</title>
+      <link>https://www.theguardian.com/education/2026/aug/05/businesses-in-england-tell-us-your-experience-of-taking-on-apprentices</link>
+      <description>&lt;p&gt;The government has announced plans to create thousands more apprenticeships. We want to hear from employers about their experiences of recruiting apprentices&lt;/p&gt;&lt;p&gt;The government has announced plans to create &lt;a href="https://www.theguardian.com/commentisfree/2026/jul/06/the-guardian-view-on-apprenticeships-young-people-need-help-getting-started-at-work"&gt;thousands more apprenticeships&lt;/a&gt; in England as part of &lt;a href="https://www.theguardian.com/education/2026/jul/28/young-people-new-work-support-mcfadden-benefits"&gt;wider reforms to technical and vocational education&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;We’d like to hear from employers who have taken on apprentices. What has your experience been like? Have apprentices benefited your organisation? What have been the biggest challenges? What changes or government support would encourage you to offer more apprenticeship opportunities?&lt;/p&gt; &lt;a href="https://www.theguardian.com/education/2026/aug/05/businesses-in-england-tell-us-your-experience-of-taking-on-apprentices"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/education/apprenticeships">Apprenticeships</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <pubDate>Wed, 05 Aug 2026 12:18:41 GMT</pubDate>
+      <guid>https://www.theguardian.com/education/2026/aug/05/businesses-in-england-tell-us-your-experience-of-taking-on-apprentices</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/21c560ec61563d5c4e2359704f540e4834493f2e/526_0_5711_4571/master/5711.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=add2b1b449d58013901784dfa312caae">
+        <media:credit scheme="urn:ebu">Photograph: Lauren Hurley/No 10 Downing Street</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/fd6f920fa16535a641ef9fc8e0a0d8b64c9417de/660_0_6596_5277/master/6596.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=416524d060ba5e506fa1c58320867fbe">
-        <media:credit scheme="urn:ebu">Photograph: Ellen Schmidt/AP</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/21c560ec61563d5c4e2359704f540e4834493f2e/526_0_5711_4571/master/5711.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b28a4d1075276c47036aa301c21f9b9">
+        <media:credit scheme="urn:ebu">Photograph: Lauren Hurley/No 10 Downing Street</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/fd6f920fa16535a641ef9fc8e0a0d8b64c9417de/660_0_6596_5277/master/6596.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd2511cf4901b92af21a13d81103705a">
-        <media:credit scheme="urn:ebu">Photograph: Ellen Schmidt/AP</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/21c560ec61563d5c4e2359704f540e4834493f2e/526_0_5711_4571/master/5711.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db390fdf9ce6e9b3a814b9429a5629af">
+        <media:credit scheme="urn:ebu">Photograph: Lauren Hurley/No 10 Downing Street</media:credit>
       </media:content>
-      <dc:creator>Nick Robins-Early and Dara Kerr</dc:creator>
-      <dc:date>2026-08-04T11:00:48Z</dc:date>
+      <dc:creator>Guardian community team</dc:creator>
+      <dc:date>2026-08-05T12:18:41Z</dc:date>
     </item>
     <item>
       <title>North Sea oil is a litmus test for Burnham | Letters</title>
@@ -399,57 +443,104 @@
       <dc:date>2026-08-04T15:58:03Z</dc:date>
     </item>
     <item>
-      <title>The Guardian view on funerals: the law must change following Robert Bush’s crimes | Editorial</title>
-      <link>https://www.theguardian.com/commentisfree/2026/aug/03/the-guardian-view-on-funerals-the-law-must-change-following-robert-bushs-crimes</link>
-      <description>&lt;p&gt;An undertaker’s trial has exposed a regulatory blind spot. The public, as well as trade bodies, should be involved in shaping reform&lt;/p&gt;&lt;p&gt;There are few more vulnerable moments in life than the days before and after the loss of a loved one. The rituals of farewell surrounding a funeral matter deeply. Hence the horrified public reaction to the &lt;a href="https://www.theguardian.com/uk-news/2026/jul/31/hull-funeral-director-robert-bush-jailed"&gt;crimes of Robert Bush&lt;/a&gt; in Hull. Bush was sentenced last week to 20 years in prison for 67 offences including 30 counts of&amp;nbsp;preventing a lawful and decent burial.&lt;/p&gt;&lt;p&gt;When his business, Legacy Independent Funeral Services, was searched, police found multiple bodies decomposing on racks. Bush had returned the wrong ashes to families, stolen money donated to charities and spent more than £42,000 on holidays over 12 years. In court, relatives revealed the distress caused; David&amp;nbsp;Gorbutt, who scattered a stranger’s ashes in place of his wife’s, described feeling “abused”.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Do you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our&lt;a href="https://www.theguardian.com/tone/letters"&gt; letters&lt;/a&gt; section, please &lt;a href="mailto:guardian.letters@theguardian.com?body=Please%20include%20your%20name,%20full%20postal%20address%20and%20phone%20number%20with%20your%20letter%20below.%20Letters%20are%20usually%20published%20with%20the%20author%27s%20name%20and%20city/town/village.%20The%20rest%20of%20the%20information%20is%20for%20verification%20only%20and%20to%20contact%20you%20where%20necessary."&gt;click here&lt;/a&gt;.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;a href="https://www.theguardian.com/commentisfree/2026/aug/03/the-guardian-view-on-funerals-the-law-must-change-following-robert-bushs-crimes"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/uk/ukcrime">Crime</category>
-      <category domain="https://www.theguardian.com/uk-news/hull">Hull</category>
+      <title>Government contracts to require job creation instead of green targets under new rules</title>
+      <link>https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules</link>
+      <description>&lt;p&gt;Louise Haigh says taxpayer money must benefit local communities amid backlash from environmental groups&lt;/p&gt;&lt;p&gt;Ministers will scrap the requirement for companies to prove their green and progressive values before they are awarded government contracts, and instead ask firms to prove they will help young people back into work.&lt;/p&gt;&lt;p&gt;As part of a government push to reduce the number of people &lt;a href="https://www.theguardian.com/society/2026/may/28/a-record-of-failure-whats-in-the-first-part-of-alan-milburns-neet-report"&gt;not in education, employment or training (Neets)&lt;/a&gt; in the UK and boost regional growth, public sector buyers will double the consideration they give to whether companies will get more people into jobs, rather than if they can show they are improving social and environmental wellbeing. Government procurement contracts account for about £90bn of taxpayers’ money spent each year.&lt;/p&gt; &lt;a href="https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/society/unemployment">Unemployment</category>
       <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/society/death-and-dying">Death and dying</category>
-      <category domain="https://www.theguardian.com/lifeandstyle/bereavement">Bereavement</category>
-      <pubDate>Mon, 03 Aug 2026 17:25:00 GMT</pubDate>
-      <guid>https://www.theguardian.com/commentisfree/2026/aug/03/the-guardian-view-on-funerals-the-law-must-change-following-robert-bushs-crimes</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/e66854a77e42b066654d62eb8f5bb2b1ba3fd352/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b4a6d5cc357c5a2f71745e54a57b9eb">
-        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/PA</media:credit>
+      <category domain="https://www.theguardian.com/society/society">Society</category>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
+      <category domain="https://www.theguardian.com/politics/louise-haigh">Louise Haigh</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <pubDate>Tue, 04 Aug 2026 21:30:00 GMT</pubDate>
+      <guid>https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/27f027de93aa21c3a4e7d413a9dfb952828a6cbf/285_0_2735_2188/master/2735.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d0af535b8421fc3c23b6bdd16f903ee">
+        <media:credit scheme="urn:ebu">Photograph: Peter Byrne/PA</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/e66854a77e42b066654d62eb8f5bb2b1ba3fd352/500_0_5000_4000/master/5000.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a9783b3c65a5d2b3a5da89dce3c8520e">
-        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/PA</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/27f027de93aa21c3a4e7d413a9dfb952828a6cbf/285_0_2735_2188/master/2735.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1c99c66127d8e20c977f1c152a6bfc7">
+        <media:credit scheme="urn:ebu">Photograph: Peter Byrne/PA</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/e66854a77e42b066654d62eb8f5bb2b1ba3fd352/500_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e35fa0d63410dd003e219209604064af">
-        <media:credit scheme="urn:ebu">Photograph: Scott Heppell/PA</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/27f027de93aa21c3a4e7d413a9dfb952828a6cbf/285_0_2735_2188/master/2735.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=058c65b8ca6fc3045e1bf72cfa750ce6">
+        <media:credit scheme="urn:ebu">Photograph: Peter Byrne/PA</media:credit>
       </media:content>
-      <dc:creator>Editorial</dc:creator>
-      <dc:date>2026-08-03T17:25:00Z</dc:date>
+      <dc:creator>Alexandra Topping Political correspondent</dc:creator>
+      <dc:date>2026-08-04T21:30:00Z</dc:date>
     </item>
     <item>
-      <title>Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz</title>
-      <link>https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour</link>
-      <description>&lt;p&gt;The president’s pretext of stopping forced labour is only a ruse – he is trying to grab a share of global trade for the US&lt;/p&gt;&lt;p&gt;Here he goes again. The US President, Donald Trump, is increasing and decreasing tariffs willy-nilly, violating international agreements that he himself signed and almost surely violating federal law. The only difference this time is that he has a new pretext for abusing tariffs: stopping forced labour.&lt;/p&gt;&lt;p&gt;Of course, the administration is right that too little is being done about forced labour. But its stated concern is a ruse. With the new tariffs closely tracking the ones that Trump imposed on the basis of trade balances, are we supposed to believe that bilateral trade deficits just so happen to be highly correlated with the use of forced labour?&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/us-news/trump-tariffs">Trump tariffs</category>
-      <category domain="https://www.theguardian.com/business/useconomy">US economy</category>
-      <category domain="https://www.theguardian.com/world/eu">European Union</category>
+      <title>‘They’re selling the safety of the traveling public’: TSA workers decry Trump privatization push</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/05/tsa-trump-privatization-push</link>
+      <description>&lt;p&gt;Union exploring options to oppose program that would put US airport screening into hands of private contractors &lt;/p&gt;&lt;p&gt;The labor union representing workers at the Transportation Security Administration (TSA) is raising alarms over a new program that will expand privatizing security checkpoints at three airports.&lt;/p&gt;&lt;p&gt;The agency informed the union last month of plans to enact the TSA Gold+ program, which would shift security and control of the screening technology into the hands of private contractors at airports in Tampa, Charleston and Des Moines. Union workers are expected to lose their union contract and benefits once a contractor takes over.&lt;/p&gt; &lt;a href="https://www.theguardian.com/us-news/2026/aug/05/tsa-trump-privatization-push"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
+      <category domain="https://www.theguardian.com/world/world">World news</category>
+      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
+      <pubDate>Wed, 05 Aug 2026 11:00:18 GMT</pubDate>
+      <guid>https://www.theguardian.com/us-news/2026/aug/05/tsa-trump-privatization-push</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/0d1e21bf4e90008028da09594abfcab872600fe0/335_0_3331_2666/master/3331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8492a64f73f9708c4b230902f3d0f892">
+        <media:credit scheme="urn:ebu">Photograph: Bloomberg/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/0d1e21bf4e90008028da09594abfcab872600fe0/335_0_3331_2666/master/3331.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c7f596b228da1f2f0e46d4616e59f48">
+        <media:credit scheme="urn:ebu">Photograph: Bloomberg/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/0d1e21bf4e90008028da09594abfcab872600fe0/335_0_3331_2666/master/3331.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97a2933c2b2dd57aa3cf422ce09e04c7">
+        <media:credit scheme="urn:ebu">Photograph: Bloomberg/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Michael Sainato</dc:creator>
+      <dc:date>2026-08-05T11:00:18Z</dc:date>
+    </item>
+    <item>
+      <title>Calls to ban disposable barbecues in England and Wales over wildfire risk</title>
+      <link>https://www.theguardian.com/world/2026/aug/04/call-to-ban-disposable-barbecues-in-england-and-wales-over-wildfire-risk</link>
+      <description>&lt;p&gt;Lib Dems and many Labour MPs join farmers, landowners and firefighters in urging temporary prohibition&lt;/p&gt;&lt;p&gt;Farmers and landowners are calling for a temporary ban on disposable barbecues in England and Wales, as they warn of the risk of igniting wildfires.&lt;/p&gt;&lt;p&gt;The call, which has also been made by firefighters and is backed by the Liberal Democrats and many Labour MPs, comes as much of England faces further hot dry weather, despite rain in some areas.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/aug/04/call-to-ban-disposable-barbecues-in-england-and-wales-over-wildfire-risk"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/world/wildfires">Wildfires</category>
+      <category domain="https://www.theguardian.com/uk-news/england">England</category>
+      <category domain="https://www.theguardian.com/uk/wales">Wales</category>
+      <category domain="https://www.theguardian.com/environment/extreme-heat">Extreme heat</category>
+      <category domain="https://www.theguardian.com/world/extreme-weather">Extreme weather</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/environment/farming">Farming</category>
+      <pubDate>Tue, 04 Aug 2026 17:46:24 GMT</pubDate>
+      <guid>https://www.theguardian.com/world/2026/aug/04/call-to-ban-disposable-barbecues-in-england-and-wales-over-wildfire-risk</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb1b97e1a06833c9b36cf38a084d7c1c">
+        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c2d6d85b504c2b2e42f83351206f36f">
+        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d42f3eb51cf095c4d8c3975fe26824b">
+        <media:credit scheme="urn:ebu">Photograph: Tolga Akmen/EPA</media:credit>
+      </media:content>
+      <dc:creator>Fiona Harvey Environment editor</dc:creator>
+      <dc:date>2026-08-04T17:46:24Z</dc:date>
+    </item>
+    <item>
+      <title>Trump administration reportedly drafting ban on Chinese datacenter components</title>
+      <link>https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices</link>
+      <description>&lt;p&gt;Trump’s FCC is developing a measure to bar US imports of new models of Chinese datacenter devices, sources say&lt;/p&gt;&lt;p&gt;The &lt;a href="https://www.theguardian.com/us-news/trump-administration"&gt;Trump administration&lt;/a&gt; is reportedly drafting a ban on US imports of new models of Chinese datacenter components, in the latest sign US authorities are scrambling to respond to the rapid development of &lt;a href="https://www.theguardian.com/technology/artificialintelligenceai"&gt;AI&lt;/a&gt; technology in &lt;a href="https://www.theguardian.com/world/china"&gt;China&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Four people familiar with the matter told Reuters that the Federal Communications Commission (FCC), which oversees the US ⁠telecommunications industry, is developing a measure to bar imports of new ​Chinese optical transceivers, which allow data to travel over fiber-optic cables at the speed of light within datacenters. Officials hope to publish the measure this year, according to Reuters.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/us-news/datacenters--us-">Datacenters</category>
+      <category domain="https://www.theguardian.com/world/china">China</category>
+      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
       <category domain="https://www.theguardian.com/business/business">Business</category>
       <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <category domain="https://www.theguardian.com/world/canada">Canada</category>
-      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
-      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
       <category domain="https://www.theguardian.com/world/world">World news</category>
-      <category domain="https://www.theguardian.com/business/tariffs">Tariffs</category>
-      <category domain="https://www.theguardian.com/business/economics">Economics</category>
-      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
-      <pubDate>Mon, 03 Aug 2026 06:00:42 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/813340f2281db113e9714247132c4a9dc9a4e6c3/241_0_1907_1527/master/1907.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0a94872e731fceb317c2c7fd6929e277">
-        <media:credit scheme="urn:ebu">Photograph: Kylie Cooper/Reuters</media:credit>
+      <pubDate>Tue, 04 Aug 2026 17:21:33 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/612dfa703511b341162b81618cf403090baf635f/835_0_3085_2470/master/3085.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a95bf3299c2f4e3f25531a89e8dfccb6">
+        <media:credit scheme="urn:ebu">Photograph: Fred Greaves/Reuters</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/813340f2281db113e9714247132c4a9dc9a4e6c3/241_0_1907_1527/master/1907.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9c39a1e26161f74b110f9ef1a94e4a0">
-        <media:credit scheme="urn:ebu">Photograph: Kylie Cooper/Reuters</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/612dfa703511b341162b81618cf403090baf635f/835_0_3085_2470/master/3085.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=462937d2668fd337a7ad585fd475577f">
+        <media:credit scheme="urn:ebu">Photograph: Fred Greaves/Reuters</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/813340f2281db113e9714247132c4a9dc9a4e6c3/241_0_1907_1527/master/1907.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c504bce88a23e0baa8cb4312b6d654b0">
-        <media:credit scheme="urn:ebu">Photograph: Kylie Cooper/Reuters</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/612dfa703511b341162b81618cf403090baf635f/835_0_3085_2470/master/3085.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6775713f95d60c8b994f8211b31cc54">
+        <media:credit scheme="urn:ebu">Photograph: Fred Greaves/Reuters</media:credit>
       </media:content>
-      <dc:creator>Joseph Stiglitz</dc:creator>
-      <dc:date>2026-08-03T06:00:42Z</dc:date>
+      <dc:creator>Nick Robins-Early  and agency</dc:creator>
+      <dc:date>2026-08-04T17:21:33Z</dc:date>
     </item>
     <item>
       <title>David Ellison claims opposition to his mega-merger stems from potential CNN control</title>
@@ -474,31 +565,6 @@
       </media:content>
       <dc:creator>Jeremy Barr</dc:creator>
       <dc:date>2026-08-04T15:05:47Z</dc:date>
-    </item>
-    <item>
-      <title>Gatwick airport to open second runway after legal challenge fails</title>
-      <link>https://www.theguardian.com/uk-news/2026/aug/04/gatwick-airport-second-runway-legal-challenge-fails</link>
-      <description>&lt;p&gt;£2.2bn project will allow about 100,000 more flights a year to use Britain’s second busiest airport&lt;/p&gt;&lt;p&gt;Gatwick airport is to start development of its second runway after campaigners lost a legal challenge to the plans.&lt;/p&gt;&lt;p&gt;The court of appeal on Tuesday dismissed a bid by local campaign groups to challenge an earlier high court ruling that the scheme could proceed.&lt;/p&gt; &lt;a href="https://www.theguardian.com/uk-news/2026/aug/04/gatwick-airport-second-runway-legal-challenge-fails"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/uk-news/gatwick-airport">Gatwick airport</category>
-      <category domain="https://www.theguardian.com/world/air-transport">Air transport</category>
-      <category domain="https://www.theguardian.com/business/theairlineindustry">Airline industry</category>
-      <category domain="https://www.theguardian.com/uk/transport">Transport</category>
-      <category domain="https://www.theguardian.com/uk/london">London</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <pubDate>Tue, 04 Aug 2026 12:09:59 GMT</pubDate>
-      <guid>https://www.theguardian.com/uk-news/2026/aug/04/gatwick-airport-second-runway-legal-challenge-fails</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/ddbdd1b1961edf39dd849e31cb3b03f100ae3174/94_0_3468_2776/master/3468.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbcb2144c43804ef91441337f5ec5cdd">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/ddbdd1b1961edf39dd849e31cb3b03f100ae3174/94_0_3468_2776/master/3468.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8dffa5ad06b69f0bbb9c7e582330663">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/ddbdd1b1961edf39dd849e31cb3b03f100ae3174/94_0_3468_2776/master/3468.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1516fcab9a30e59687fa77033c25e9c9">
-        <media:credit scheme="urn:ebu">Photograph: PA Images/Alamy</media:credit>
-      </media:content>
-      <dc:creator>Gwyn Topham Transport correspondent</dc:creator>
-      <dc:date>2026-08-04T12:09:59Z</dc:date>
     </item>
     <item>
       <title>Christopher Nolan’s The Odyssey gives UK poetry sales an epic boost</title>
@@ -528,81 +594,160 @@
       <dc:date>2026-08-04T15:02:20Z</dc:date>
     </item>
     <item>
-      <title>Fifa accused of using ‘blackmail’ to force support for Infantino’s re-election bid</title>
-      <link>https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa</link>
-      <description>&lt;ul&gt;&lt;li&gt;&lt;p&gt;Jordan FA president says Fifa threatened to block funds&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Secretary general calls selloff plan ‘sad and reproachable’&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The Jordan Football Association president, Prince Ali bin al-Hussein, has accused Gianni Infantino’s administration of “blackmail”, claiming that Fifa threatened to withhold financial assistance from his federation if it refused to back the president’s bid for re-election.&lt;/p&gt;&lt;p&gt;In a major intervention Prince Ali, who ran for the Fifa presidency against Infantino in 2016 and finished third, listed a number of problems dogging the global governing body and said Jordan’s players have not yet been paid for appearing in the Arab Cup last year. Prince Ali is head of the West Asian Football Federation, which includes influential states such as Qatar and the United Arab Emirates that have thus far backed Infantino to stay on.&lt;/p&gt; &lt;a href="https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/football/fifa">Fifa</category>
-      <category domain="https://www.theguardian.com/football/gianni-infantino">Gianni Infantino</category>
-      <category domain="https://www.theguardian.com/football/arsene-wenger">Arsène Wenger</category>
-      <category domain="https://www.theguardian.com/football/footballpolitics">Football politics</category>
-      <category domain="https://www.theguardian.com/football/football">Football</category>
-      <category domain="https://www.theguardian.com/sport/sport">Sport</category>
-      <pubDate>Tue, 04 Aug 2026 18:40:07 GMT</pubDate>
-      <guid>https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/48717bc59f1fbbe17de31930f7a6ffbff0da3441/0_0_1961_1568/master/1961.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a5c3144c9291addb746dc2b52dff21e">
-        <media:credit scheme="urn:ebu">Photograph: Mike Nelson/EPA</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/48717bc59f1fbbe17de31930f7a6ffbff0da3441/0_0_1961_1568/master/1961.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b5c9e6957ca636f3e2d31badbea136b">
-        <media:credit scheme="urn:ebu">Photograph: Mike Nelson/EPA</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/48717bc59f1fbbe17de31930f7a6ffbff0da3441/0_0_1961_1568/master/1961.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb0c0dc3b54d0a87d1a87f5234f912a3">
-        <media:credit scheme="urn:ebu">Photograph: Mike Nelson/EPA</media:credit>
-      </media:content>
-      <dc:creator>Nick Ames</dc:creator>
-      <dc:date>2026-08-04T18:40:07Z</dc:date>
-    </item>
-    <item>
-      <title>UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland</title>
-      <link>https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey</link>
-      <description>&lt;p&gt;A Guardian investigation finds irrigation canals polluted with microplastics in Turkey, a major destination for UK waste&lt;/p&gt;&lt;p&gt;• &lt;a href="https://composer.gutools.co.uk/content/6a55460e8f08863d4dce6d72"&gt;‘Nobody cares’: Turkish farmers bear the burden of UK’s plastic waste problem&lt;/a&gt;&lt;/p&gt;&lt;p&gt;High levels of microplastics and other plastic contamination have been discovered in a waterway close to a major recycling hub in Turkey supplied with plastic waste by British companies.&lt;/p&gt;&lt;p&gt;The polluted waterway, which floods into agricultural fields after heavy rain, feeds into a larger canal used for irrigating crops on the Çukurova plain, in the city of Adana, in the south of the country. It is one of the largest and most fertile agricultural basins in Turkey.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/environment/plastic">Plastics</category>
-      <category domain="https://www.theguardian.com/environment/recycling">Recycling</category>
-      <category domain="https://www.theguardian.com/world/turkey">Turkey</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <title>Bank battle: history suggests Burnham faces fight if he opts for windfall tax</title>
+      <link>https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living</link>
+      <description>&lt;p&gt;As lenders’ profits soar, calls grow for a levy to help new PM ease cost of living pressures on households&lt;/p&gt;&lt;p&gt;It has been a stellar week for UK banks. Fuelled by high interest rates and market turbulence rippling out from the US war on Iran, major lenders have revealed soaring half-year profits that allowed bosses to boost bonus pots and give billions of pounds to shareholders.&lt;/p&gt;&lt;p&gt;Collectively, the UK’s four largest lenders – HSBC, NatWest, Barclays and Lloyds – &lt;a href="https://www.theguardian.com/business/2026/aug/04/uk-bank-tax-hsbc-profits-andy-burnham"&gt;reported £29.2bn in profits&lt;/a&gt; over the first six months of the year, with almost half, £13.7bn, pledged to investors through dividends and share buybacks.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/banking">Banking</category>
+      <category domain="https://www.theguardian.com/business/financial-sector">Financial sector</category>
+      <category domain="https://www.theguardian.com/politics/taxandspending">Tax and spending</category>
+      <category domain="https://www.theguardian.com/business/cost-of-living-crisis">UK cost of living crisis</category>
       <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/environment/pollution">Pollution</category>
-      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
-      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
-      <category domain="https://www.theguardian.com/world/eu">European Union</category>
-      <category domain="https://www.theguardian.com/environment/waste">Waste</category>
-      <category domain="https://www.theguardian.com/world/world">World news</category>
-      <category domain="https://www.theguardian.com/environment/plastic-bags">Plastic bags</category>
-      <category domain="https://www.theguardian.com/environment/marine-life">Marine life</category>
-      <category domain="https://www.theguardian.com/environment/ethical-living">Ethical and green living</category>
-      <pubDate>Tue, 04 Aug 2026 09:00:18 GMT</pubDate>
-      <guid>https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/365770995f5cce15507068d14febbdb82deb94a6/234_0_2527_2022/master/2527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7c017d4117e7b2ead0ef54ac460da98">
-        <media:credit scheme="urn:ebu">Photograph: Phil Noble/Reuters</media:credit>
+      <category domain="https://www.theguardian.com/politics/andyburnham">Andy Burnham</category>
+      <category domain="https://www.theguardian.com/politics/labour">Labour</category>
+      <category domain="https://www.theguardian.com/politics/economy">Economic policy</category>
+      <category domain="https://www.theguardian.com/business/hsbcholdings">HSBC</category>
+      <category domain="https://www.theguardian.com/business/natwest-group">NatWest Group</category>
+      <category domain="https://www.theguardian.com/business/lloyds-banking-group">Lloyds Banking Group</category>
+      <category domain="https://www.theguardian.com/business/economics">Economics</category>
+      <category domain="https://www.theguardian.com/politics/politics">Politics</category>
+      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <pubDate>Wed, 05 Aug 2026 05:00:11 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/eedd60c787c392a131a9bb9d3e3fa35ed6ec145e/582_48_4114_3293/master/4114.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd6ed545147304ab2c6c93b98c7a1bfe">
+        <media:credit scheme="urn:ebu">Photograph: Ian Pilbeam/Alamy</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/365770995f5cce15507068d14febbdb82deb94a6/234_0_2527_2022/master/2527.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=777461957bdbb6a87cf51e694f715980">
-        <media:credit scheme="urn:ebu">Photograph: Phil Noble/Reuters</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/eedd60c787c392a131a9bb9d3e3fa35ed6ec145e/582_48_4114_3293/master/4114.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27899732878133ca5e57eafd47c601ed">
+        <media:credit scheme="urn:ebu">Photograph: Ian Pilbeam/Alamy</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/365770995f5cce15507068d14febbdb82deb94a6/234_0_2527_2022/master/2527.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33c54fba6d33475defb8a0b71e45e279">
-        <media:credit scheme="urn:ebu">Photograph: Phil Noble/Reuters</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/eedd60c787c392a131a9bb9d3e3fa35ed6ec145e/582_48_4114_3293/master/4114.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c60eed5f5ec4cb4f8aaa0509eba9d845">
+        <media:credit scheme="urn:ebu">Photograph: Ian Pilbeam/Alamy</media:credit>
       </media:content>
-      <dc:creator>Karen McVeigh and Ayça Aldatmaz in Adana</dc:creator>
-      <dc:date>2026-08-04T09:00:18Z</dc:date>
+      <dc:creator>Kalyeena Makortoff Banking correspondent</dc:creator>
+      <dc:date>2026-08-05T05:00:11Z</dc:date>
     </item>
     <item>
-      <title>Refuse collectors help Italian woman recover binned €1m lottery ticket</title>
-      <link>https://www.theguardian.com/world/2026/aug/04/refuse-collectors-help-italian-woman-recover-binned-lottery-ticket</link>
-      <description>&lt;p&gt;Winner called waste management team after she realised stub showing she had hit the jackpot had been thrown away&lt;/p&gt;&lt;p&gt;A €1m lottery ticket has been recovered from the rubbish in Italy after the frantic winner called on refuse collectors to help her retrieve it, according to the waste management company.&lt;/p&gt;&lt;p&gt;The instant win ticket was “miraculously still in one piece” after garbage workers combed through mounds of rubbish on their truck, said Roberto Nicola Toscano, the administrator of the SANB company in Italy’s southern Puglia region.&lt;/p&gt; &lt;a href="https://www.theguardian.com/world/2026/aug/04/refuse-collectors-help-italian-woman-recover-binned-lottery-ticket"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/world/italy">Italy</category>
-      <category domain="https://www.theguardian.com/world/europe-news">Europe</category>
+      <title>AI and artists can click – a new manifesto for modern creativity</title>
+      <link>https://www.theguardian.com/britains-ai-powered-creative-economy/2026/jul/13/how-ai-and-artists-are-redefining-modern-creativity</link>
+      <description>&lt;p&gt;The UK is both an epicentre of global creative industries and a budding AI powerhouse. Here’s how it can balance support for creatives while also embracing technological changes&lt;/p&gt;&lt;p&gt;What does it mean to be a creator in today’s modern world when artificial intelligence is reshaping relationships between humans and technology?&lt;/p&gt;&lt;p&gt;That’s one critical question the UK creative industry has been asking itself as AI rips up traditional conventions on copyright, ownership, effort, and originality.&lt;/p&gt; &lt;a href="https://www.theguardian.com/britains-ai-powered-creative-economy/2026/jul/13/how-ai-and-artists-are-redefining-modern-creativity"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/britains-ai-powered-creative-economy/britains-ai-powered-creative-economy">Britain’s AI-Powered Creative Economy</category>
+      <pubDate>Mon, 13 Jul 2026 14:53:30 GMT</pubDate>
+      <guid>https://www.theguardian.com/britains-ai-powered-creative-economy/2026/jul/13/how-ai-and-artists-are-redefining-modern-creativity</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/dc8004d2561c5d6abbd35c0a1f464625d2777f81/0_9_1132_906/master/1132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=627f6f5e9c96405b8cc921c4f35da685">
+        <media:credit scheme="urn:ebu">Composite: PR/Guardian Design</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/dc8004d2561c5d6abbd35c0a1f464625d2777f81/0_9_1132_906/master/1132.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7a2faaf39632bdd619bf7406053d424">
+        <media:credit scheme="urn:ebu">Composite: PR/Guardian Design</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/dc8004d2561c5d6abbd35c0a1f464625d2777f81/0_9_1132_906/master/1132.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d448d4038dff71135e00d01b9cf7d63f">
+        <media:credit scheme="urn:ebu">Composite: PR/Guardian Design</media:credit>
+      </media:content>
+      <dc:creator>Jonathan Weinberg</dc:creator>
+      <dc:date>2026-07-13T14:53:30Z</dc:date>
+    </item>
+    <item>
+      <title>Revealed: major oil firms make $93bn profits amid war and climate crisis</title>
+      <link>https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis</link>
+      <description>&lt;p&gt;Iran conflict windfall over three months reignites calls for companies ‘cashing in on human misery’ to pay for environmental damage&lt;/p&gt;&lt;p&gt;Eight of the biggest oil companies amassed profits of more than $90bn (£67bn) in just three months as the Iran conflict sent energy prices soaring and the emissions-fuelled climate crisis caused deadly heatwaves.&lt;/p&gt;&lt;p&gt;The windfall war profits have reignited calls for oil and gas supermajors such as Saudi Aramco and BP to pay for the environmental damage caused by “cashing in on human misery” and fund a rapid transition to renewable energy.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/business/oil">Oil</category>
+      <category domain="https://www.theguardian.com/business/oilandgascompanies">Oil and gas companies</category>
+      <category domain="https://www.theguardian.com/business/energy-industry">Energy industry</category>
+      <category domain="https://www.theguardian.com/environment/oil">Oil</category>
+      <category domain="https://www.theguardian.com/environment/fossil-fuels">Fossil fuels</category>
+      <category domain="https://www.theguardian.com/environment/energy">Energy</category>
+      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/business/business">Business</category>
       <category domain="https://www.theguardian.com/world/world">World news</category>
-      <pubDate>Tue, 04 Aug 2026 15:41:25 GMT</pubDate>
-      <guid>https://www.theguardian.com/world/2026/aug/04/refuse-collectors-help-italian-woman-recover-binned-lottery-ticket</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/0efcfd3ebe83eeaa1e42625ea8557dfabfd9859c/303_0_3030_2424/master/3030.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7c6d2858d7c14a1f1c7c8099d6d6f99a">
-        <media:credit scheme="urn:ebu">Photograph: Alberto Pizzoli/AFP/Getty Images</media:credit>
+      <pubDate>Tue, 04 Aug 2026 17:49:16 GMT</pubDate>
+      <guid>https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/775b4fffbd97170ab8bd525b85c4748c189f27e3/0_72_5681_4544/master/5681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c5afea439d2d6f8906a17b39b778ae9">
+        <media:credit scheme="urn:ebu">Composite: Guardian Design/Reuters/EPA/AP/Getty Images/ZUMA Press Wire/Shutterstock</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/0efcfd3ebe83eeaa1e42625ea8557dfabfd9859c/303_0_3030_2424/master/3030.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=768cf703c741a602f9330bfd973d6448">
-        <media:credit scheme="urn:ebu">Photograph: Alberto Pizzoli/AFP/Getty Images</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/775b4fffbd97170ab8bd525b85c4748c189f27e3/0_72_5681_4544/master/5681.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=782054d79fbf586d280ed5dce1021837">
+        <media:credit scheme="urn:ebu">Composite: Guardian Design/Reuters/EPA/AP/Getty Images/ZUMA Press Wire/Shutterstock</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/0efcfd3ebe83eeaa1e42625ea8557dfabfd9859c/303_0_3030_2424/master/3030.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f860e0cc5a503230f79ba14425c7521">
-        <media:credit scheme="urn:ebu">Photograph: Alberto Pizzoli/AFP/Getty Images</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/775b4fffbd97170ab8bd525b85c4748c189f27e3/0_72_5681_4544/master/5681.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=255fc0026a7cf77c73b85de1b5ea59ab">
+        <media:credit scheme="urn:ebu">Composite: Guardian Design/Reuters/EPA/AP/Getty Images/ZUMA Press Wire/Shutterstock</media:credit>
       </media:content>
-      <dc:creator>Agence France-Presse in Rome</dc:creator>
-      <dc:date>2026-08-04T15:41:25Z</dc:date>
+      <dc:creator>Jillian Ambrose and Damian Carrington</dc:creator>
+      <dc:date>2026-08-04T17:49:16Z</dc:date>
+    </item>
+    <item>
+      <title>‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley</title>
+      <link>https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley</link>
+      <description>&lt;p&gt;As Elon Musk, Peter Thiel and their peers have grown richer and more influential, Gil Durán argues they have all but abandoned democracy – and found the perfect government to enable them&lt;/p&gt;&lt;p&gt;In April, Gil Durán was permanently banned from Elon Musk’s X for posting just two words. Durán was responding to a post from the tech company Palantir outlining its 22‑point &lt;a href="https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps"&gt;“technological manifesto”&lt;/a&gt;, which praised American “hard power”, western culture and AI weapons, denounced inclusivity and called for compulsory national service. Durán responded: “TLDR: Fascism” (TLDR is short for “too long, didn’t read”).&lt;/p&gt;&lt;p&gt;Durán didn’t break any of X’s written rules, he points out over a video call from San Francisco – so much for Musk’s &lt;a href="https://www.theguardian.com/commentisfree/2024/apr/06/elon-musk-free-speech-lawsuits"&gt;“free-speech absolutism”&lt;/a&gt;. His ban might just have had something to do with his preceding tweet, showing the cover of his new book, The Nerd Reich: Silicon Valley Fascism and the War on Democracy. The book’s central argument is that big tech is no longer our friend, as many of its billionaire owners have seized economic and political control and are steering the fate of the planet towards their own bizarre, apocalyptic visions.&lt;/p&gt; &lt;a href="https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/lifeandstyle/lifeandstyle">Life and style</category>
+      <category domain="https://www.theguardian.com/us-news/donaldtrump">Donald Trump</category>
+      <category domain="https://www.theguardian.com/news/the-super-rich">The super-rich</category>
+      <category domain="https://www.theguardian.com/us-news/far-right--us-">Far right (US)</category>
+      <category domain="https://www.theguardian.com/world/far-right">The far right</category>
+      <category domain="https://www.theguardian.com/technology/elon-musk">Elon Musk</category>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/technology/palantir">Palantir</category>
+      <category domain="https://www.theguardian.com/technology/silicon-valley">Silicon Valley</category>
+      <category domain="https://www.theguardian.com/technology/openai">OpenAI</category>
+      <category domain="https://www.theguardian.com/technology/peter-thiel">Peter Thiel</category>
+      <category domain="https://www.theguardian.com/media/socialnetworking">Social networking</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <pubDate>Wed, 05 Aug 2026 09:00:14 GMT</pubDate>
+      <guid>https://www.theguardian.com/lifeandstyle/2026/aug/05/journalist-taking-on-tech-fascists-silicon-valley</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/83569c06861d2dc3abf0ac0129d5a71f6193cc5f/1584_397_2089_1671/master/2089.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5010b59416ee2c0d1631ad2a859a0618">
+        <media:credit scheme="urn:ebu">Photograph: Winni Wintermeyer/The Guardian</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/83569c06861d2dc3abf0ac0129d5a71f6193cc5f/1584_397_2089_1671/master/2089.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3531dbbe7230d46d6a4d0fc1b214526d">
+        <media:credit scheme="urn:ebu">Photograph: Winni Wintermeyer/The Guardian</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/83569c06861d2dc3abf0ac0129d5a71f6193cc5f/1584_397_2089_1671/master/2089.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a12e75e3d3fe87c0688cc0c7a7ade917">
+        <media:credit scheme="urn:ebu">Photograph: Winni Wintermeyer/The Guardian</media:credit>
+      </media:content>
+      <dc:creator>Steve Rose</dc:creator>
+      <dc:date>2026-08-05T09:00:14Z</dc:date>
+    </item>
+    <item>
+      <title>Teachers need help with AI. A union is offering training – with $23m in funding from big tech</title>
+      <link>https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training</link>
+      <description>&lt;p&gt;Partnership between American Federation of Teachers, one of the largest labor unions in the US, and AI firms has stirred controversy&lt;/p&gt;&lt;p&gt;Darius Saczuk, a high school teacher, views artificial intelligence as his enemy. Earlier this year, he and several dozen New York City teachers spent the day inside a windowless conference room in downtown Manhattan to learn how to use AI and prevent students from outsourcing their thinking to it.&lt;/p&gt;&lt;p&gt;As Saczuk sees it, he needs to understand his enemy in order to beat it.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/education/schools">Schools</category>
+      <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
+      <category domain="https://www.theguardian.com/education/education-us">US education</category>
+      <category domain="https://www.theguardian.com/education/education">Education</category>
+      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <pubDate>Wed, 05 Aug 2026 12:00:19 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/562f7360760960fb98074e8e10194a943d5ea6a8/141_227_2716_2173/master/2716.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f5b6baff4dc487b410715a9a69d20b3">
+        <media:credit scheme="urn:ebu">Composite: Rita Liu/The Guardian/Getty Images</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/562f7360760960fb98074e8e10194a943d5ea6a8/141_227_2716_2173/master/2716.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19d61ed5da74c48e8aac11750a0413aa">
+        <media:credit scheme="urn:ebu">Composite: Rita Liu/The Guardian/Getty Images</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/562f7360760960fb98074e8e10194a943d5ea6a8/141_227_2716_2173/master/2716.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6093b3c0f57a91e05dcd4f10b6ee2c2">
+        <media:credit scheme="urn:ebu">Composite: Rita Liu/The Guardian/Getty Images</media:credit>
+      </media:content>
+      <dc:creator>Lee V Gaines</dc:creator>
+      <dc:date>2026-08-05T12:00:19Z</dc:date>
+    </item>
+    <item>
+      <title>‘Parkinson’s Valley’: the herbicide haunting a New York farm town</title>
+      <link>https://www.theguardian.com/environment/2026/aug/05/herbicide-paraquat-new-york-parkinsons</link>
+      <description>&lt;p&gt;Paraquat is banned in over 70 countries. Some farmers and their families in Hebron believe the pesticide is causing Parkinson’s disease and are demanding that New York ban it&lt;/p&gt;&lt;p&gt;Gordon Chaplin gingerly stepped out of the car at the top of the steep hill behind his farmhouse, sporting a bandage on his hand from a fall the day before. He gripped his cane as he shuffled through the knee-high grass. He stopped every few feet to catch his breath, leaning on his caregiver for support.&lt;/p&gt;&lt;p&gt;Looking out at the distant Adirondacks and Catskill mountains, he thought back to the years when he could run up the hill with ease.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/aug/05/herbicide-paraquat-new-york-parkinsons"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/environment/herbicides">Herbicides</category>
+      <category domain="https://www.theguardian.com/us-news/new-york">New York</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
+      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
+      <pubDate>Wed, 05 Aug 2026 13:00:19 GMT</pubDate>
+      <guid>https://www.theguardian.com/environment/2026/aug/05/herbicide-paraquat-new-york-parkinsons</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/7350f204af7f3cc392fac39d7666655034ebf41f/1833_1286_3394_2714/master/3394.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03a1219aa141e56a2cf64f0fda429ce0">
+        <media:credit scheme="urn:ebu">Photograph: Cindy Schultz for New York Focus</media:credit>
+      </media:content>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/7350f204af7f3cc392fac39d7666655034ebf41f/1833_1286_3394_2714/master/3394.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f2cc2811a40dee3cf40fe30341c3e7f">
+        <media:credit scheme="urn:ebu">Photograph: Cindy Schultz for New York Focus</media:credit>
+      </media:content>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/7350f204af7f3cc392fac39d7666655034ebf41f/1833_1286_3394_2714/master/3394.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e60aef36308e4d452a0466a66fb4ae4e">
+        <media:credit scheme="urn:ebu">Photograph: Cindy Schultz for New York Focus</media:credit>
+      </media:content>
+      <dc:creator>Amudalat Ajasa in New York for New York Focus</dc:creator>
+      <dc:date>2026-08-05T13:00:19Z</dc:date>
     </item>
     <item>
       <title>A rail nightmare: what it’s like on England’s busiest commuter-only train</title>
@@ -628,25 +773,6 @@
       </media:content>
       <dc:creator>Sammy Gecsoyler and Amee Joshi</dc:creator>
       <dc:date>2026-08-04T11:00:49Z</dc:date>
-    </item>
-    <item>
-      <title>AI and artists can click – a new manifesto for modern creativity</title>
-      <link>https://www.theguardian.com/britains-ai-powered-creative-economy/2026/jul/13/how-ai-and-artists-are-redefining-modern-creativity</link>
-      <description>&lt;p&gt;The UK is both an epicentre of global creative industries and a budding AI powerhouse. Here’s how it can balance support for creatives while also embracing technological changes&lt;/p&gt;&lt;p&gt;What does it mean to be a creator in today’s modern world when artificial intelligence is reshaping relationships between humans and technology?&lt;/p&gt;&lt;p&gt;That’s one critical question the UK creative industry has been asking itself as AI rips up traditional conventions on copyright, ownership, effort, and originality.&lt;/p&gt; &lt;a href="https://www.theguardian.com/britains-ai-powered-creative-economy/2026/jul/13/how-ai-and-artists-are-redefining-modern-creativity"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/britains-ai-powered-creative-economy/britains-ai-powered-creative-economy">Britain’s AI-Powered Creative Economy</category>
-      <pubDate>Mon, 13 Jul 2026 14:53:30 GMT</pubDate>
-      <guid>https://www.theguardian.com/britains-ai-powered-creative-economy/2026/jul/13/how-ai-and-artists-are-redefining-modern-creativity</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/dc8004d2561c5d6abbd35c0a1f464625d2777f81/0_9_1132_906/master/1132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=627f6f5e9c96405b8cc921c4f35da685">
-        <media:credit scheme="urn:ebu">Composite: PR/Guardian Design</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/dc8004d2561c5d6abbd35c0a1f464625d2777f81/0_9_1132_906/master/1132.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7a2faaf39632bdd619bf7406053d424">
-        <media:credit scheme="urn:ebu">Composite: PR/Guardian Design</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/dc8004d2561c5d6abbd35c0a1f464625d2777f81/0_9_1132_906/master/1132.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d448d4038dff71135e00d01b9cf7d63f">
-        <media:credit scheme="urn:ebu">Composite: PR/Guardian Design</media:credit>
-      </media:content>
-      <dc:creator>Jonathan Weinberg</dc:creator>
-      <dc:date>2026-07-13T14:53:30Z</dc:date>
     </item>
     <item>
       <title>‘Nobody cares’: the Turkish farmers bearing the burden of UK’s plastic waste problem</title>
@@ -733,145 +859,26 @@
       <dc:date>2026-08-03T15:02:15Z</dc:date>
     </item>
     <item>
-      <title>Kremlin connections: the Russia links to a £600m UK theme park</title>
-      <link>https://www.theguardian.com/business/2026/aug/02/kremlin-links-new-uk-theme-park-puy-du-fou</link>
-      <description>&lt;p&gt;Exclusive: French company Puy du Fou worked with a sanctioned oligarch on plans for a Crimea resort longer than disclosed, and later courted Iran and China&lt;/p&gt;&lt;p&gt;In February 2014, thousands of “little green men” – Russian soldiers in unmarked uniforms – flooded into Crimea, seizing control of military bases and infrastructure.&lt;/p&gt;&lt;p&gt;Their arrival marked the opening salvo of Vladimir Putin’s annexation of the peninsula, an operation that ultimately escalated into the full-scale invasion of Ukraine.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/aug/02/kremlin-links-new-uk-theme-park-puy-du-fou"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/world/crimea">Crimea</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/world/france">France</category>
-      <category domain="https://www.theguardian.com/travel/theme-parks">Theme parks</category>
-      <category domain="https://www.theguardian.com/uk-news/oxfordshire">Oxfordshire</category>
-      <pubDate>Sun, 02 Aug 2026 06:00:14 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/aug/02/kremlin-links-new-uk-theme-park-puy-du-fou</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/28528f140b311168a376daabef094a0d598e73c4/16_0_4906_3925/master/4906.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85c250e9bedd51bbe8d522c12afec886">
-        <media:credit scheme="urn:ebu">Photograph: Nathaniel Noir/Alamy</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/28528f140b311168a376daabef094a0d598e73c4/16_0_4906_3925/master/4906.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=986e59c7388b4a58b3ad8b952ee0a70f">
-        <media:credit scheme="urn:ebu">Photograph: Nathaniel Noir/Alamy</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/28528f140b311168a376daabef094a0d598e73c4/16_0_4906_3925/master/4906.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=936bb7cbc86b55b4428442517ff90ade">
-        <media:credit scheme="urn:ebu">Photograph: Nathaniel Noir/Alamy</media:credit>
-      </media:content>
-      <dc:creator>Rob Davies</dc:creator>
-      <dc:date>2026-08-02T06:00:14Z</dc:date>
-    </item>
-    <item>
-      <title>Inside M&amp;S’s swanky Oxford Street revamp, the blueprint for its £700m growth strategy</title>
-      <link>https://www.theguardian.com/business/2026/aug/02/marks-spencer-london-store-makeover-pantheon-revamp</link>
-      <description>&lt;p&gt;As boss Stuart Machin unveils a new-look Pantheon the retailer has fashion and overseas challenges ahead&lt;/p&gt;&lt;p&gt;On a hot summer’s evening on London’s busy Oxford Street, a crowd of fashion influencers, models, journalists and the odd City analyst gathered for a first look at the upmarket revamp of Marks &amp;amp; Spencer’s landmark Pantheon store.&lt;/p&gt;&lt;p&gt;Some may have had to double-check they had the right address, such is the scale of the makeover at the 88-year-old outlet, which is intended as a blueprint for change across the retailer’s more than 200 large stores.&lt;/p&gt; &lt;a href="https://www.theguardian.com/business/2026/aug/02/marks-spencer-london-store-makeover-pantheon-revamp"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/business/marksspencer">Marks &amp; Spencer</category>
-      <category domain="https://www.theguardian.com/uk/london">London</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/business/retail">Retail industry</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/fashion/fashion-industry">Fashion industry</category>
-      <category domain="https://www.theguardian.com/business/fooddrinks">Food &amp; drink industry</category>
-      <category domain="https://www.theguardian.com/media/archie-norman">Archie Norman</category>
-      <pubDate>Sun, 02 Aug 2026 11:00:20 GMT</pubDate>
-      <guid>https://www.theguardian.com/business/2026/aug/02/marks-spencer-london-store-makeover-pantheon-revamp</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/ecf57c25bcf4f081ef5e1de3671ea42007a52bed/545_38_3935_3149/master/3935.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ce31a029160e84d11d087714d5fa71f">
-        <media:credit scheme="urn:ebu">Photograph: Marks and Spencers</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/ecf57c25bcf4f081ef5e1de3671ea42007a52bed/545_38_3935_3149/master/3935.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58d5030baa6885a5056a959f70947393">
-        <media:credit scheme="urn:ebu">Photograph: Marks and Spencers</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/ecf57c25bcf4f081ef5e1de3671ea42007a52bed/545_38_3935_3149/master/3935.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7bbfa6a77affa18c774b68778c25e5a2">
-        <media:credit scheme="urn:ebu">Photograph: Marks and Spencers</media:credit>
-      </media:content>
-      <dc:creator>Sarah Butler</dc:creator>
-      <dc:date>2026-08-02T11:00:20Z</dc:date>
-    </item>
-    <item>
-      <title>China’s tech advances are causing chaos from Silicon Valley to the White House</title>
-      <link>https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house</link>
-      <description>&lt;p&gt;New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industry&lt;/p&gt;&lt;p&gt;Over the past month, a series of advancements in China’s artificial intelligence, chip manufacturing and robotics technologies have rattled financial markets, caused divisions among US tech moguls and left the Trump administration scrambling to respond.&lt;/p&gt;&lt;p&gt;Silicon Valley has long pointed to China’s tech industry as a competitive threat and used its growth as rationale for why US firms should not face regulatory oversight that could slow them down. In recent weeks, however, China’s progress has pushed US tech CEOs past vague warnings and into open disagreement over how to address Chinese-made products upending their industry.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house"&gt;Continue reading...&lt;/a&gt;</description>
+      <title>Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion</title>
+      <link>https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video</link>
+      <description>&lt;p&gt;'Most people don’t want pervert glasses that can film us without our consent,' said a spokesperson from activist group Everyone Hates Elon. The group has launched a series of guerilla adverts deriding non-consensual filming by the glasses as well as an email campaign encouraging people to legally object to being filmed by Meta glasses under general data protection regulations, which over 20,000 people have signed.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Rights groups have warned that the glasses threaten the right to privacy, while countries such as Germany are reportedly considering a ban.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;And while Meta’s safety guidelines say smart glasses should not be used for 'harassment, infringing on privacy rights, or capturing sensitive information', women have taken to social media to share their stories of being filmed by men without their consent.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Watch as Guardian columnist and Opinion editor Kirsty Major dives into why fears of surveillance and 'creepy men' mean Meta can never convince her to love the glasses –&amp;nbsp;and read more about the glasses via the link in the bio&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video"&gt;Continue reading...&lt;/a&gt;</description>
+      <category domain="https://www.theguardian.com/technology/meta">Meta</category>
       <category domain="https://www.theguardian.com/technology/technology">Technology</category>
+      <category domain="https://www.theguardian.com/technology/mark-zuckerberg">Mark Zuckerberg</category>
       <category domain="https://www.theguardian.com/technology/artificialintelligenceai">AI (artificial intelligence)</category>
-      <category domain="https://www.theguardian.com/technology/silicon-valley">Silicon Valley</category>
-      <category domain="https://www.theguardian.com/us-news/trump-administration">Trump administration</category>
-      <category domain="https://www.theguardian.com/us-news/us-foreign-policy">US foreign policy</category>
-      <category domain="https://www.theguardian.com/world/china">China</category>
-      <category domain="https://www.theguardian.com/world/world">World news</category>
-      <category domain="https://www.theguardian.com/us-news/us-politics">US politics</category>
-      <category domain="https://www.theguardian.com/us-news/us-news">US news</category>
-      <category domain="https://www.theguardian.com/world/asia-pacific">Asia Pacific</category>
-      <pubDate>Sat, 01 Aug 2026 12:00:53 GMT</pubDate>
-      <guid>https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/master/5160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb3223b877e46277fe50da07a5f1cea2">
-        <media:credit scheme="urn:ebu">Photograph: Héctor Retamal/AFP/Getty Images</media:credit>
+      <pubDate>Wed, 05 Aug 2026 14:13:33 GMT</pubDate>
+      <guid>https://www.theguardian.com/technology/video/2026/aug/05/meta-pervert-glasses-opinion-video</guid>
+      <media:content width="140" url="https://i.guim.co.uk/img/media/0e34c6a5b50569fc6c0b4d17f918a2050a5be0ff/0_237_1080_864/master/1080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4900cb25860265c101fe24d89e0fdf23">
+        <media:credit scheme="urn:ebu">Photograph: Guardian</media:credit>
       </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/master/5160.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=462b66f54a13f8c652494dd4c9798797">
-        <media:credit scheme="urn:ebu">Photograph: Héctor Retamal/AFP/Getty Images</media:credit>
+      <media:content width="460" url="https://i.guim.co.uk/img/media/0e34c6a5b50569fc6c0b4d17f918a2050a5be0ff/0_237_1080_864/master/1080.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bbbd1603c6d13537a5a12ff7807812a9">
+        <media:credit scheme="urn:ebu">Photograph: Guardian</media:credit>
       </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/master/5160.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4ad1716614f693b3ce855f28d23ec94">
-        <media:credit scheme="urn:ebu">Photograph: Héctor Retamal/AFP/Getty Images</media:credit>
+      <media:content width="700" url="https://i.guim.co.uk/img/media/0e34c6a5b50569fc6c0b4d17f918a2050a5be0ff/0_237_1080_864/master/1080.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9cb32e220884e88ab53163c8a8ffcfbb">
+        <media:credit scheme="urn:ebu">Photograph: Guardian</media:credit>
       </media:content>
-      <dc:creator>Nick Robins-Early</dc:creator>
-      <dc:date>2026-08-01T12:00:53Z</dc:date>
-    </item>
-    <item>
-      <title>‘Fortnite on steroids’: the virtual gaming worlds transformed to train British soldiers</title>
-      <link>https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers</link>
-      <description>&lt;p&gt;Inside Skyral, part of a consortium that won a £2bn MoD contract to help forces game out complex decisions&lt;/p&gt;&lt;p&gt;On a sunny July day in Riga, Latvia, a Nato convoy drives down a street lined with kebab shops and a pharmacy. At a downtown intersection, there is the sound of an explosion and the lead tank bursts into flame.&lt;/p&gt;&lt;p&gt;These are real streets in Riga – Lāčplēša iela and the downtown corridor of Tērbatas iela. The kebab shops and the pharmacy are on them. The pedestrians who flee after the tank explodes and huddle at a distance are modelled after the population of Riga: some old, some young, some friendly to Nato, others less so.&lt;/p&gt; &lt;a href="https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/uk/military">Military</category>
-      <category domain="https://www.theguardian.com/technology/virtual-reality">Virtual reality</category>
-      <category domain="https://www.theguardian.com/games/virtual-worlds">Virtual worlds</category>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
-      <category domain="https://www.theguardian.com/games/games">Games</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <pubDate>Tue, 04 Aug 2026 04:00:13 GMT</pubDate>
-      <guid>https://www.theguardian.com/uk-news/2026/aug/04/fortnite-on-steroids-the-virtual-gaming-worlds-transformed-to-train-british-soldiers</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/aec5d43c6071ccaf153d3ee98f9305fba83966fc/734_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6461a8097faa9fe5fb86a605623eecfd">
-        <media:credit scheme="urn:ebu">Photograph: Graeme Robertson/The Guardian</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/aec5d43c6071ccaf153d3ee98f9305fba83966fc/734_0_6830_5464/master/6830.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=36018f33d16f4e0e7e2d0e9fa1955b59">
-        <media:credit scheme="urn:ebu">Photograph: Graeme Robertson/The Guardian</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/aec5d43c6071ccaf153d3ee98f9305fba83966fc/734_0_6830_5464/master/6830.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1fd241f6db907081cf53101c0aae8ff0">
-        <media:credit scheme="urn:ebu">Photograph: Graeme Robertson/The Guardian</media:credit>
-      </media:content>
-      <dc:creator>Aisha Down</dc:creator>
-      <dc:date>2026-08-04T04:00:13Z</dc:date>
-    </item>
-    <item>
-      <title>‘We cannot magic up more water’: the supply problems putting housing targets in England at risk</title>
-      <link>https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk</link>
-      <description>&lt;p&gt;Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homes&lt;/p&gt;&lt;p&gt;The government’s housebuilding agenda is hitting the stark reality of a lack of water and crumbling infrastructure across the east and south-east of England.&lt;/p&gt;&lt;p&gt;Half the country was declared to be in &lt;a href="https://www.theguardian.com/environment/2026/jul/29/half-england-officially-drought-environment-agency"&gt;serious drought&lt;/a&gt; this week, for the second consecutive year, with the Environment Agency warning of dire consequences for the economy, environment and wildlife.&lt;/p&gt; &lt;a href="https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/environment/water">Water</category>
-      <category domain="https://www.theguardian.com/society/housing">Housing</category>
-      <category domain="https://www.theguardian.com/business/water-industry">Water industry</category>
-      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
-      <category domain="https://www.theguardian.com/business/housingmarket">Housing market</category>
-      <category domain="https://www.theguardian.com/environment/extreme-heat">Extreme heat</category>
-      <category domain="https://www.theguardian.com/uk-news/cambridgeshire">Cambridgeshire</category>
-      <category domain="https://www.theguardian.com/uk-news/cambridge">Cambridge</category>
-      <category domain="https://www.theguardian.com/uk-news/hampshire">Hampshire</category>
-      <category domain="https://www.theguardian.com/uk-news/surrey">Surrey</category>
-      <category domain="https://www.theguardian.com/environment/drought">Drought</category>
-      <category domain="https://www.theguardian.com/environment/wetlands">Wetlands</category>
-      <category domain="https://www.theguardian.com/business/south-east-water">South East Water</category>
-      <category domain="https://www.theguardian.com/environment/natural-england">Natural England</category>
-      <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
-      <category domain="https://www.theguardian.com/uk-news/england">England</category>
-      <category domain="https://www.theguardian.com/environment/environment-agency">Environment Agency</category>
-      <category domain="https://www.theguardian.com/business/business">Business</category>
-      <category domain="https://www.theguardian.com/society/communities">Communities</category>
-      <category domain="https://www.theguardian.com/uk/uk">UK news</category>
-      <category domain="https://www.theguardian.com/society/society">Society</category>
-      <pubDate>Sun, 02 Aug 2026 06:00:14 GMT</pubDate>
-      <guid>https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/01100570125b7be60fc504536dab5b9b022e2d24/383_0_6353_5083/master/6353.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6001cdc509913fc555b54e5e288873c">
-        <media:credit scheme="urn:ebu">Photograph: Matthew Chattle/Future Publishing/Getty Images</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/01100570125b7be60fc504536dab5b9b022e2d24/383_0_6353_5083/master/6353.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2105077ce3db6e2a96299ae43d25e48d">
-        <media:credit scheme="urn:ebu">Photograph: Matthew Chattle/Future Publishing/Getty Images</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/01100570125b7be60fc504536dab5b9b022e2d24/383_0_6353_5083/master/6353.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d1d3e3d5927981e29e39ee2ab716eb3">
-        <media:credit scheme="urn:ebu">Photograph: Matthew Chattle/Future Publishing/Getty Images</media:credit>
-      </media:content>
-      <dc:creator>Sandra Laville Environment correspondent</dc:creator>
-      <dc:date>2026-08-02T06:00:14Z</dc:date>
+      <dc:creator>Presented by Kirsty Major : produced by Lauren Hurrell and Bryony Moore executive producer Barbara Speed</dc:creator>
+      <dc:date>2026-08-05T14:13:33Z</dc:date>
     </item>
     <item>
       <title>Extreme heat: why our cities can't cope | Opinion</title>
@@ -880,6 +887,8 @@
       <category domain="https://www.theguardian.com/environment/extreme-heat">Extreme heat</category>
       <category domain="https://www.theguardian.com/environment/climate-crisis">Climate crisis</category>
       <category domain="https://www.theguardian.com/uk/uk">UK news</category>
+      <category domain="https://www.theguardian.com/environment/environment">Environment</category>
+      <category domain="https://www.theguardian.com/uk/london">London</category>
       <pubDate>Tue, 04 Aug 2026 13:38:43 GMT</pubDate>
       <guid>https://www.theguardian.com/environment/video/2026/aug/04/extreme-heat-why-our-cities-cant-cope-opinion-video</guid>
       <media:content width="140" url="https://i.guim.co.uk/img/media/cb16fe5dbcc118d4bec7e282afeb94781e81ad70/0_318_1080_864/master/1080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4cec6bc43ce4398374e7d655c89ea734">
@@ -938,28 +947,6 @@
       </media:content>
       <dc:creator>Presented by Lucy Hough with Jonathan Liew ; produced by Annie La Vespa Bryony Moore ; senior producer Ryan Ramgobin</dc:creator>
       <dc:date>2026-08-04T16:00:48Z</dc:date>
-    </item>
-    <item>
-      <title>Can you tell if someone is filming you with Meta glasses? – video</title>
-      <link>https://www.theguardian.com/technology/video/2026/aug/04/meta-glasses-can-you-tell-if-someone-is-filming-you-video</link>
-      <description>&lt;p&gt;Meta glasses - they're everywhere, and people have a lot of opinions. Mostly about their ability to take photos and videos. &lt;br&gt;&lt;br&gt;Rafqa Touma speaks to Guardian Australia's technology reporter, Josh Taylor, lifestyle editor, Alyx Gorman, and the Human Technology Institute's responsible technology policy specialist, Lauren Perry.&lt;/p&gt; &lt;a href="https://www.theguardian.com/technology/video/2026/aug/04/meta-glasses-can-you-tell-if-someone-is-filming-you-video"&gt;Continue reading...&lt;/a&gt;</description>
-      <category domain="https://www.theguardian.com/technology/technology">Technology</category>
-      <category domain="https://www.theguardian.com/technology/meta">Meta</category>
-      <category domain="https://www.theguardian.com/media/social-media">Social media</category>
-      <category domain="https://www.theguardian.com/world/privacy">Privacy</category>
-      <pubDate>Tue, 04 Aug 2026 03:23:08 GMT</pubDate>
-      <guid>https://www.theguardian.com/technology/video/2026/aug/04/meta-glasses-can-you-tell-if-someone-is-filming-you-video</guid>
-      <media:content width="140" url="https://i.guim.co.uk/img/media/674a99198c064af986669d7f7bbb5eeae31cd61f/0_310_1080_863/master/1080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3dd361cdfce95f0e94436ed3fd81dfbb">
-        <media:credit scheme="urn:ebu">Photograph: Meta, RayBan</media:credit>
-      </media:content>
-      <media:content width="460" url="https://i.guim.co.uk/img/media/674a99198c064af986669d7f7bbb5eeae31cd61f/0_310_1080_863/master/1080.jpg?width=460&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56d8fb945add56e92a5ace3d277b637d">
-        <media:credit scheme="urn:ebu">Photograph: Meta, RayBan</media:credit>
-      </media:content>
-      <media:content width="700" url="https://i.guim.co.uk/img/media/674a99198c064af986669d7f7bbb5eeae31cd61f/0_310_1080_863/master/1080.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ccc167f4eccc06e590728d0ac8d4c54">
-        <media:credit scheme="urn:ebu">Photograph: Meta, RayBan</media:credit>
-      </media:content>
-      <dc:creator>Presented by Rafqa Touma and Achol Arok . Produced by Bertin Huynh . Executive producer is Stephen Byrne</dc:creator>
-      <dc:date>2026-08-04T03:23:08Z</dc:date>
     </item>
     <item>
       <title>Better off together: could combining pension pots boost your retirement income?</title>
